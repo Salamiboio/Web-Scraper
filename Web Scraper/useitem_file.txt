@@ -1,0 +1,659 @@
+    case "ant_egg": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 5, "Chewy1", 15, 0, 3, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "ant_meat": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 5, "Chewy1", 25, 0, 3, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "barrel_cactus_fruit": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 5, "Chewy1", 5, 15, 0, 0, 0, -1, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "banana_yucca_fruit": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 7, "Chewy1", 10, 15, 0, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "bighorner_meat": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 15, "Chewy1", 50, 0, 3, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "bighorner_steak": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+2 , 10, "Chewy1", 75, 0, 2, 1, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "black_blood_sausage": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+10 , 20, "Chewy1", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "blamco_mac_cheese": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 5, "Chewy1", 20, 0, 3, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "bloatfly_meat": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 5, "Chewy1", 25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "bloatfly_slider": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+3 , 15, "Chewy1", 75, 30, 1, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "blood_sausage": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+5 , 20, "Chewy1", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "brahmin_meat": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 15, "Chewy1", 50, 0, 3, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "brahmin_steak": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+2 , 15, "Chewy1", 50, 0, 2, 1, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "brahmin_wellington": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+5 , 10, "Chewy1", 100, 0, 0, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "broc_flower": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 4, "Chewy1", 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "bubblegum": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 0, "Chewy1", 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "buffalo_gourd_seed": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 2, "Chewy1", 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "caravan_lunch": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+3 , 15, "Chewy1", 200, 15, 0, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "cave_fungus": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 4, "Chewy1", 15, 0, -10, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "cazador_egg": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 4, "Chewy1", 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "cook_cooks_fiend_stew": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+2 , 60, "Chewy1", 80, 0, 0, 1, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "coyote_meat": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 8, "Chewy1", 35, 0, 1, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "coyote_steak": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+2 , 12, "Chewy1", 35, 0, 1, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "cram": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 5, "Chewy1", 50, 0, 3, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "crispy_squirrel_bits": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 5, "Chewy1", 25, 0, 3, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "crunchy_mutfruit": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 5, "Chewy1", 25, 0, 3, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "dandy_boy_apples": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 5, "Chewy1", 15, 0, 3, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "daturana": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+0, 0, "Chewy1", 0, 0, 0, 0, 0, 0, 0, 0, -2, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "desert_salad": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+7 , 15, "Chewy1", 80, 40, 0, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "dog_meat": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 8, "Chewy1", 35, 0, 3, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "dog_steak": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+2 , 10, "Chewy1", 35, 0, 3, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "fancy_lads_snack_cakes": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 5, "Chewy1", 15, 0, 3, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "fire_ant_egg": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 5, "Chewy1", 15, 0, 3, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "fire_ant_fricass e": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 60, "Chewy1", 80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "fire_ant_meat": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 5, "Chewy1", 25, 0, 3, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "fresh_apple": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 7, "Chewy1", 15, 10, 0, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "fresh_carrot": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 7, "Chewy1", 15, 10, 0, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "fresh_pear": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 7, "Chewy1", 15, 10, 0, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "fresh_potato": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 7, "Chewy1", 15, 10, 0, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "gecko_kebab": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 40, "Chewy1", 80, 50, 1, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "gecko_meat": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 5, "Chewy1", 50, 0, 3, -1, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "gecko_steak": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+2 , 15, "Chewy1", 75, 0, 1, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "giant_rat_meat": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 5, "Chewy1", 35, 0, 2, -1, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "grilled_mantis": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 30, "Chewy1", 75, 0, 1, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "gum_drops": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 0, "Chewy1", 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "honey_mesquite_pod": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 4, "Chewy1", 10, 10, 0, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "human_flesh": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 5, "Chewy1", 60, 0, 10, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "human_remains": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+2 , 5, "Chewy1", 45, 0, 0, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "iguana_bits": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 5, "Chewy1", 25, 0, 3, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "iguana_on_a_stick": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 12, "Chewy1", 75, 0, 3, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "imitation_strange_meat_pie": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 5, "Chewy1", 15, 0, 3, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "instamash": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 5, "Chewy1", 25, 0, 3, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    
+    case "junk_food": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 5, "Chewy1", 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "lakelurk_egg": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 5, "Chewy1", 15, 0, 3, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "lakelurk_meat": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+2 , 10, "Chewy1", 45, 0, 1, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "maize": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 9, "Chewy1", 40, 10, 0, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "mole_rat_meat": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 5, "Chewy1", 25, 0, 3, -1, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "mole_rat_stew": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+2 , 30, "Chewy1", 30, 0, 0, 1, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "mole_rat_wonder_meat": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+2 , 10, "Chewy1", 40, 0, 3, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "mre": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+2 , 15, "Chewy1", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "mushroom_cloud": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+3 , 20, "Chewy1", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "mutant_cave_fungus": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+2 , 5, "Chewy1", 20, 0, 2, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "mutfruit": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 5, "Chewy1", 20, 10, 3, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "nevada_agave_fruit": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 8, "Chewy1", 15, 10, 0, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "nightstalker_tail": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 5, "Chewy1", 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "noodles": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 5, "Chewy1", 25, 0, 3, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "pinto_bean_pod": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 3, "Chewy1", 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "pinyon_nuts": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 5, "Chewy1", 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "pork_n_beans": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 5, "Chewy1", 40, +20, 3, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "potato_crisps": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 5, "Chewy1", 10, +10, 3, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "preserved_meat": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 15, "Chewy1", 50, 0, 0, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "pre_war_steak": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 10, "Chewy1", 50, 0, 0, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "prickly_pear_fruit": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 10, "Chewy1", 10, 15, 0, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "radroach_meat": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 5, "Chewy1", 25, 0, 10, -1, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "rat_meat": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 5, "Chewy1", 25, 0, 3, -1, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "rubys_casserole": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 30, "Chewy1", 100, 0, 3, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "sacred_datura_root": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+0, 0, "Chewy1", 0, 0, 0, 0, -2, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "salient_green": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+2 , 7, "Chewy1", 25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "salisbury_steak": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 5, "Chewy1", 15, 0, 3, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "spore_carrier_sap": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 4, "Chewy1", 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "spore_plant_pods": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+4 , 6, "Chewy1", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "squirrel_on_a_stick": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 5, "Chewy1", 75, 0, 3, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "squirrel_stew": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 5, "Chewy1", 50, 0, 3, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "strange_meat": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 5, "Chewy1", 35, 0, 3, -1, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "strange_meat_pie": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 5, "Chewy1", 35, 0, 3, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "sugar_bombs": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 7, "Chewy1", 30, 0, 3, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "thick_red_paste": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+4 , 30, "Chewy1", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "thin_red_paste": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+2 , 30, "Chewy1", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "trail_mix": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+5 , 15, "Chewy1", 150, 0, 3, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "wasteland_omelet": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+4 , 60, "Chewy1", 150, 0, 0, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "white_horsenettle": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 5, "Chewy1", 5, 0, 0, 0, 0, -1, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "xander_root": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 4, "Chewy1", 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "yao_guai_meat": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+2 , 5, "Chewy1", 100, 0, 10, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+
+    case "yumyum_deviled_eggs": {
+        if ([false, _item, 1] call life_fnc_handleInv) then {
+            [+1 , 5, "Chewy1", 10, 0, 3, 0, 0, 0, 0, 0, 0, 0, 120] spawn sal_fnc_useitem;
+             closedialog 0;
+         };
+     };
+

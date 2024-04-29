@@ -1,0 +1,112 @@
+Image,Name,Weight,Value,Effect,Hardcore mode effects,Form ID
+,Ant egg,1.0,4,"+1 HP (5s), +3 RAD",-15 FOD,0015E5CC
+,Ant meat,1.0,4,"+1 HP (5s), +3 RAD","-25 FOD, -1 ST (120s)",0003C345
+,Barrel cactus fruit,0.2,5,"+1 HP (5s), -1 EN (120s)","-5 FOD, -15 H2O",000EC01D
+,Banana yucca fruit,0.5,6,+1 HP (7s),"-10 FOD, -15 H2O",000EACA4
+,Bighorner meat,1.0,5,"+1 HP (15s), +3 RAD",-50 FOD,0016D5BA
+,Bighorner steak,0.8,5,"+2 HP (10s), +2 RAD, +1 ST (120s)",-75 FOD,00175AA8
+,Black blood sausage,0.5,350,"+10 HP (20s), +25 max HP (240s)",,xx0133B3
+,BlamCo Mac & Cheese,1.0,5,"+1 HP (5s), +3 RAD",-20 FOD,0008C556
+,Bloatfly meat,1.0,4,"+1 HP (5s), RAD +3","-25 FOD, -1 ST (120s)",0007C10D
+,Bloatfly slider,0.5,4,"+3 HP (15s), +1 RAD","-75 FOD, -30 H2O",001613C0
+,Blood sausage,0.25,175,"+5 HP (20s), +10 Max HP (240s)",,xx0098C5
+,Brahmin meat,1.0,5,"+1 HP (15s), + 3 RAD","-50 FOD, -1 ST (120s)",001613BF
+,Brahmin steak,0.8,5,"+2 HP (15s), +2 RAD, +1 ST (120s)",-50 FOD,00015198
+,Brahmin Wellington,0.8,5,+5 HP (10s),-100 FOD,00161F18
+,Broc flower,0.01,3,+1 HP (4s),-5 FOD,0013B2BA
+,Bubblegum,1.0,1,"+1 HP, + 1 RAD",,0008C560
+,Buffalo gourd seed,0.02,2,+1 HP (2s),-10 FOD,0015F0E9
+,Caravan lunch,2.5,5,+3 HP (15s),"-200 FOD, -15 H2O",0013D531
+,Cave fungus,1.0,50,"+1 HP (4s), -10 RAD",-15 FOD,00038E0C
+,Cazador egg,1.0,4,"+1 HP (4s), +3 Rads",-15 FOD,0015E5CD
+,Cook-Cook's Fiend stew,1.0,25,"+2 HP (60s), +1 ST (120s)",-80 FOD,00175AAE
+,Coyote meat,1.0,4,"+1 HP (8s), +1 RAD (3s)","-35 FOD, -2 ST (120s)",00157FFB
+,Coyote steak,1.0,4,"+2 HP (12s), +1 RAD (3s)",-35 FOD,001613C1
+,Cram,1.0,5,"+1 HP (5s), +3 RAD",-50 FOD,0008C552
+,Crispy squirrel bits,1.0,5,"+1 HP (5s), +3 RAD",-25 FOD,00031948
+,Crunchy mutfruit,1.0,5,"+1 HP (5s), +3 RAD",-25 FOD,0001519C
+,Dandy Boy Apples,1.0,5,"+1 HP (5s), +3 RAD",-15 FOD,0008C554
+,Daturana,0.02,30,"+200 Restore limb condition, +1 Unarmed Damage, +15 HP, -2 AG (30s)",-10 SLP,xx00CCF4
+,Desert Salad,0.2,5,+7 HP (15s),"-80 FOD, -40 H2O",0015E3A5
+,Dog meat,1.0,1,"+1 HP (8s), +3 RAD","-35 FOD, -1 ST (120s)",00034050
+,Dog steak,1.0,4,"+2 HP (10s), +3 RAD",-35 FOD,001613C2
+,Fancy Lads Snack Cakes,1.0,5,"+1 HP (5s), +3 RAD",-15 FOD,0008C55A
+,Fire ant egg,1.0,4,"+1 HP (5s), +3 RAD",-15 FOD,0015E5CB
+,Fire ant fricassée,1.0,30,+1 HP (60s),-80 FOD,001613C3
+,Fire ant meat,1.0,6,"+1 HP (5s), +3 RAD","-25 FOD, -1 ST (120s)",0015D9B2
+,Fresh apple,1.0,5,+1 HP (7s),"-15 FOD, -10 H2O",00015196
+,Fresh carrot,1.0,5,+1 HP (7s),"-15 FOD, -10 H2O",00015199
+,Fresh pear,1.0,5,+1 HP (7s),"-15 FOD, -10 H2O",0001519F
+,Fresh potato,1.0,5,+1 HP (7s),"-15 FOD, -10 H2O",000151A0
+,Gecko kebab,0.25,4,"+1 HP (40s), +1 RAD","-80 FOD, -50 H2O",001613C5
+,Gecko meat,1.0,4,"+1 HP (5s), +3 RAD, -1 ST (120s)",-50 FOD,0011B9AE
+,Gecko steak,1.0,5,"+2 HP (15s), +1 RAD",-75 FOD,000E2F65
+,Giant rat meat,1.0,4,"+1 HP (5s), +2 RAD, -1 ST (120s)",-35 FOD,00151F7D
+,Grilled mantis,1.0,8,"+1 HP (30s), +1 RAD",-75 FOD,000E2F64
+,Gum drops,1.0,2,"+1 HP, +1 RAD",,0008C564
+,Honey mesquite pod,0.1,5,+1 HP (4s),"-10 FOD, -10 H2O",000EACA1
+,Human flesh,1.0,0,"+1 HP (5s), +10 RAD",-60 FOD,0003404F
+,Human remains,1.0,2,+2 HP (5s),-45 FOD,0015EACF
+,Iguana bits,1.0,5,"+1 HP (5s), +3 RAD",-25 FOD,0001519A
+,Iguana-on-a-stick,1.0,5,"+1 HP (12s), +3 RAD",-75 FOD,0001519B
+,Imitation strange meat pie,1.0,2,"+1 HP (5s), +3 RAD",-15 FOD,0011A10D
+,InstaMash,1.0,5,"+1 HP (5s), +3 RAD",-25 FOD,0008C558
+,Irr. banana yucca,1.0,3,"+1 HP (7s), +10 RAD","-10 FOD, -15 H2O",00143FE4
+,Irr. barrel cactus,1.0,2,"+1 HP (5s), +10 RAD, -1 EN (120s)","-5 FOD, -15 H2O",00143FE5
+,Irr. Mac & Cheese,1.0,2,"+1 HP (5s), +10 RAD",-20 FOD,00143FE6
+,Irradiated Cram,1.0,2,"+1 HP (5s), +10 RAD",-50 FOD,00143FE8
+,Irr. crunchy mutfruit,1.0,2,"+1 HP (5s), +10 RAD",-25 FOD,00143FE2
+,Irr. Dandy Boy Apples,1.0,2,"+1 HP (5s), +10 RAD",-15 FOD,00143FE9
+,Irr. Fancy Lads,1.0,2,"+1 HP (5s), +10 RAD",-15 FOD,00143FEA
+,Irr. gecko meat,1.0,2,"+1 HP (5s), +10 RAD, -1 ST (120s)",-50 FOD,00143FE0
+,Irradiated InstaMash,1.0,2,"+1 HP (5s), +10 RAD",-25 FOD,00143FE7
+,Irradiated mutfruit,1.0,2,"+1 HP (5s), +10 RAD","-20 FOD, -10 H2O",00143FE3
+,Irr. Pork n' Beans,1.0,2,"+1 HP (5s), +10 RAD","-40 FOD, +20 H2O",00143FEC
+,Irradiated potato,1.0,2,"+2 HP (5s), +10 RAD","-15 FOD, -10 H2O",00143FF2
+,Irr. Potato Crisps,1.0,2,"+1 HP (5s), +10 RAD","-10 FOD, +10 H2O",00143FED
+,Irr. Salisbury Steak,1.0,2,"+1 HP (5s), +10 RAD",-15 FOD,00143FEE
+,Irr. Sugar Bombs,1.0,2,"+1 HP (7s), +10 RAD, +5 AP (30s)",-30 FOD,00143FF0
+,Irr. YumYum D. Eggs,1.0,2,"+1 HP (5s), +10 RAD",-10 FOD,00143FDF
+,Jalapeño pepper,0.02,5,+1 HP (5s),"-10 FOD, +5 H2O",0015F0E7
+,Junk food,1.0,5,"+1 HP (5s), +3 RAD",none,0003359C
+,Lakelurk egg,1.0,4,"+1 HP (5s), +3 RAD",-15 FOD,001449CA
+,Lakelurk meat,1.0,12,"+2 HP (10s), +1 RAD",-45 FOD,00136E13
+,Maize,0.25,5,+1 HP (9s),"-40 FOD, -10 H2O",000E9AD1
+,Mole rat meat,1.0,4,"+1 HP (5s), +3 RAD, -1 ST (120s)",-25 FOD,0003404C
+,Mole rat stew,1.0,25,"+2 HP (30s), +1 ST (120s)",-30 FOD,001613C4
+,Mole rat wonder meat,1.0,20,"+2 HP (10s), +3 RAD",-40 FOD,000ABD17
+,MRE,0.2,50,+2 HP (15s) (Non-HC only),"+1 HP (10s), -200 FOD",xx00917E
+,Mushroom Cloud,1.0,50,"+3 HP (20s), +3 AP (20s)",,0015E3A4
+,Mutant cave fungus,1.0,50,"+2 HP (5s), +2 RAD",-20 FOD,xx01213E
+,Mutfruit,1.0,5,"+1 HP (5s), +3 RAD","-20 FOD, -10 H2O",00034049
+,Nevada agave fruit,0.2,3,+1 HP (8s),"-15 FOD, -10 H2O",000EC01C
+,Nightstalker tail,1.0,18,"+1 HP (5s), +3 RAD",,0015D225
+,Noodles,1.0,5,"+1 HP (5s), +3 RAD",-25 FOD,0001519D
+,Pinto bean pod,0.05,0,+1 HP (3s),-5 FOD,0015F0E8
+,Pinyon nuts,0.03,5,+1 HP (5s),-10 FOD,000E2F67
+,Pork n' Beans,1.0,5,"+1 HP (5s), +3 RAD","-40 FOD, +20 H2O",0008C55E
+,Potato Crisps,1.0,5,"+1 HP (5s), +3 RAD","-10 FOD, +10 H2O",0008C562
+,Preserved meat,1.0,5,+1 HP (15s),-50 FOD,xx01495D
+,Pre-War steak,1.0,5,"+1 HP (10s), END -1",-50 FOD,xx010A69
+,Prickly pear fruit,0.07,1,+1 HP (10s),"-10 FOD, -15 H2O",000EC01E
+,Radroach meat,1.0,2,"+1 HP (5s), +10 RAD, -1 ST (120s)",-25 FOD,0009C957
+,Rat meat,1.0,2,"+1 HP (5s), +3 RAD, -1 ST (120s)",-25 FOD,0012939E
+,Ruby's casserole,1.0,5,"+1 HP (30s), +3 RAD",-100 FOD,000A29D6
+,Sacred datura root,0.02,10,"Sacred datura poison (30s), -2 PE (90s)",,xx0094BB
+,Salient Green,0.25,50,+2 HP (7s),-25 FOD,xx0133B1
+,Salisbury Steak,1.0,5,"+1 HP (5s), +3 RAD",-15 FOD,000293A9
+,Spore carrier sap,0.02,0,+1 HP (4s),-5 FOD,xx011202
+,Spore plant pods,1.0,0,+4 HP (6s),+25 Poison Resistance,000E2F69
+,Squirrel on a stick,1.0,5,"+1 HP (5s), +3 RAD",-75 FOD,00031949
+,Squirrel stew,1.0,5,"+1 HP (5s), +3 RAD",-50 FOD,0003194A
+,Strange meat,1.0,2,"+1 HP (5s), +3 RAD, -1 ST (120s)",-35 FOD,0002E376
+,Strange meat pie,1.0,2,"+1 HP (5s), +3 RAD",-35 FOD,0007E173
+,Sugar Bombs,1.0,5,"+1 HP (7s), +3 RAD, +5 AP (30s)",-30 FOD,0008C551
+,Thick red paste,0.6,250,"+4 HP (30s), +15 Max HP (4 min)",,xx0133B6
+,Thin red paste,0.1,125,"+2 HP (30s), +5 Max HP (4 min)",,xx0098C4
+,Trail mix,3.0,5,"+5 HP (15s), +3 RAD, +5 AP (30s)",-150 FOD,0013D572
+,Wasteland omelet,1.0,100,+4 HP (60s),-150 FOD,000E2F68
+,White horsenettle,0.02,2,"+1 HP (5s), -1 AG (120s), -1 EN (120s)",-5 FOD,0013B2B4
+,Xander root,0.02,0,+1 HP (4s),-5 FOD,0013B2B9
+,Yao guai meat,1.0,30,"+2 HP (5s), +10 RAD, +10% Damage (120s)",-100 FOD,0003404B
+,YumYum Deviled Eggs,1.0,5,"+1 HP (5s), +3 RAD",-10 FOD,0008C55C

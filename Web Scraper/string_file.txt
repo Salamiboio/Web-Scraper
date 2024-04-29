@@ -1,0 +1,1332 @@
+        <Key ID="STR_Item_ant_egg">
+           <Original>Ant egg</Original>
+           <Czech>Ant egg</Czech>
+           <Spanish>Ant egg</Spanish>
+           <Russian>Ant egg</Russian>
+           <German>Ant egg</German>
+           <French>Ant egg</French>
+           <Italian>Ant egg</Italian>
+           <Portuguese>Ant egg</Portuguese>
+           <Polish>Ant egg</Polish>
+           <Chinesesimp>Ant egg</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_ant_meat">
+           <Original>Ant meat</Original>
+           <Czech>Ant meat</Czech>
+           <Spanish>Ant meat</Spanish>
+           <Russian>Ant meat</Russian>
+           <German>Ant meat</German>
+           <French>Ant meat</French>
+           <Italian>Ant meat</Italian>
+           <Portuguese>Ant meat</Portuguese>
+           <Polish>Ant meat</Polish>
+           <Chinesesimp>Ant meat</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_barrel_cactus_fruit">
+           <Original>Barrel cactus fruit</Original>
+           <Czech>Barrel cactus fruit</Czech>
+           <Spanish>Barrel cactus fruit</Spanish>
+           <Russian>Barrel cactus fruit</Russian>
+           <German>Barrel cactus fruit</German>
+           <French>Barrel cactus fruit</French>
+           <Italian>Barrel cactus fruit</Italian>
+           <Portuguese>Barrel cactus fruit</Portuguese>
+           <Polish>Barrel cactus fruit</Polish>
+           <Chinesesimp>Barrel cactus fruit</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_banana_yucca_fruit">
+           <Original>Banana yucca fruit</Original>
+           <Czech>Banana yucca fruit</Czech>
+           <Spanish>Banana yucca fruit</Spanish>
+           <Russian>Banana yucca fruit</Russian>
+           <German>Banana yucca fruit</German>
+           <French>Banana yucca fruit</French>
+           <Italian>Banana yucca fruit</Italian>
+           <Portuguese>Banana yucca fruit</Portuguese>
+           <Polish>Banana yucca fruit</Polish>
+           <Chinesesimp>Banana yucca fruit</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_bighorner_meat">
+           <Original>Bighorner meat</Original>
+           <Czech>Bighorner meat</Czech>
+           <Spanish>Bighorner meat</Spanish>
+           <Russian>Bighorner meat</Russian>
+           <German>Bighorner meat</German>
+           <French>Bighorner meat</French>
+           <Italian>Bighorner meat</Italian>
+           <Portuguese>Bighorner meat</Portuguese>
+           <Polish>Bighorner meat</Polish>
+           <Chinesesimp>Bighorner meat</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_bighorner_steak">
+           <Original>Bighorner steak</Original>
+           <Czech>Bighorner steak</Czech>
+           <Spanish>Bighorner steak</Spanish>
+           <Russian>Bighorner steak</Russian>
+           <German>Bighorner steak</German>
+           <French>Bighorner steak</French>
+           <Italian>Bighorner steak</Italian>
+           <Portuguese>Bighorner steak</Portuguese>
+           <Polish>Bighorner steak</Polish>
+           <Chinesesimp>Bighorner steak</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_black_blood_sausage">
+           <Original>Black blood sausage</Original>
+           <Czech>Black blood sausage</Czech>
+           <Spanish>Black blood sausage</Spanish>
+           <Russian>Black blood sausage</Russian>
+           <German>Black blood sausage</German>
+           <French>Black blood sausage</French>
+           <Italian>Black blood sausage</Italian>
+           <Portuguese>Black blood sausage</Portuguese>
+           <Polish>Black blood sausage</Polish>
+           <Chinesesimp>Black blood sausage</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_blamco_mac_&_cheese">
+           <Original>BlamCo Mac & Cheese</Original>
+           <Czech>BlamCo Mac & Cheese</Czech>
+           <Spanish>BlamCo Mac & Cheese</Spanish>
+           <Russian>BlamCo Mac & Cheese</Russian>
+           <German>BlamCo Mac & Cheese</German>
+           <French>BlamCo Mac & Cheese</French>
+           <Italian>BlamCo Mac & Cheese</Italian>
+           <Portuguese>BlamCo Mac & Cheese</Portuguese>
+           <Polish>BlamCo Mac & Cheese</Polish>
+           <Chinesesimp>BlamCo Mac & Cheese</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_bloatfly_meat">
+           <Original>Bloatfly meat</Original>
+           <Czech>Bloatfly meat</Czech>
+           <Spanish>Bloatfly meat</Spanish>
+           <Russian>Bloatfly meat</Russian>
+           <German>Bloatfly meat</German>
+           <French>Bloatfly meat</French>
+           <Italian>Bloatfly meat</Italian>
+           <Portuguese>Bloatfly meat</Portuguese>
+           <Polish>Bloatfly meat</Polish>
+           <Chinesesimp>Bloatfly meat</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_bloatfly_slider">
+           <Original>Bloatfly slider</Original>
+           <Czech>Bloatfly slider</Czech>
+           <Spanish>Bloatfly slider</Spanish>
+           <Russian>Bloatfly slider</Russian>
+           <German>Bloatfly slider</German>
+           <French>Bloatfly slider</French>
+           <Italian>Bloatfly slider</Italian>
+           <Portuguese>Bloatfly slider</Portuguese>
+           <Polish>Bloatfly slider</Polish>
+           <Chinesesimp>Bloatfly slider</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_blood_sausage">
+           <Original>Blood sausage</Original>
+           <Czech>Blood sausage</Czech>
+           <Spanish>Blood sausage</Spanish>
+           <Russian>Blood sausage</Russian>
+           <German>Blood sausage</German>
+           <French>Blood sausage</French>
+           <Italian>Blood sausage</Italian>
+           <Portuguese>Blood sausage</Portuguese>
+           <Polish>Blood sausage</Polish>
+           <Chinesesimp>Blood sausage</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_brahmin_meat">
+           <Original>Brahmin meat</Original>
+           <Czech>Brahmin meat</Czech>
+           <Spanish>Brahmin meat</Spanish>
+           <Russian>Brahmin meat</Russian>
+           <German>Brahmin meat</German>
+           <French>Brahmin meat</French>
+           <Italian>Brahmin meat</Italian>
+           <Portuguese>Brahmin meat</Portuguese>
+           <Polish>Brahmin meat</Polish>
+           <Chinesesimp>Brahmin meat</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_brahmin_steak">
+           <Original>Brahmin steak</Original>
+           <Czech>Brahmin steak</Czech>
+           <Spanish>Brahmin steak</Spanish>
+           <Russian>Brahmin steak</Russian>
+           <German>Brahmin steak</German>
+           <French>Brahmin steak</French>
+           <Italian>Brahmin steak</Italian>
+           <Portuguese>Brahmin steak</Portuguese>
+           <Polish>Brahmin steak</Polish>
+           <Chinesesimp>Brahmin steak</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_brahmin_wellington">
+           <Original>Brahmin Wellington</Original>
+           <Czech>Brahmin Wellington</Czech>
+           <Spanish>Brahmin Wellington</Spanish>
+           <Russian>Brahmin Wellington</Russian>
+           <German>Brahmin Wellington</German>
+           <French>Brahmin Wellington</French>
+           <Italian>Brahmin Wellington</Italian>
+           <Portuguese>Brahmin Wellington</Portuguese>
+           <Polish>Brahmin Wellington</Polish>
+           <Chinesesimp>Brahmin Wellington</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_broc_flower">
+           <Original>Broc flower</Original>
+           <Czech>Broc flower</Czech>
+           <Spanish>Broc flower</Spanish>
+           <Russian>Broc flower</Russian>
+           <German>Broc flower</German>
+           <French>Broc flower</French>
+           <Italian>Broc flower</Italian>
+           <Portuguese>Broc flower</Portuguese>
+           <Polish>Broc flower</Polish>
+           <Chinesesimp>Broc flower</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_bubblegum">
+           <Original>Bubblegum</Original>
+           <Czech>Bubblegum</Czech>
+           <Spanish>Bubblegum</Spanish>
+           <Russian>Bubblegum</Russian>
+           <German>Bubblegum</German>
+           <French>Bubblegum</French>
+           <Italian>Bubblegum</Italian>
+           <Portuguese>Bubblegum</Portuguese>
+           <Polish>Bubblegum</Polish>
+           <Chinesesimp>Bubblegum</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_buffalo_gourd_seed">
+           <Original>Buffalo gourd seed</Original>
+           <Czech>Buffalo gourd seed</Czech>
+           <Spanish>Buffalo gourd seed</Spanish>
+           <Russian>Buffalo gourd seed</Russian>
+           <German>Buffalo gourd seed</German>
+           <French>Buffalo gourd seed</French>
+           <Italian>Buffalo gourd seed</Italian>
+           <Portuguese>Buffalo gourd seed</Portuguese>
+           <Polish>Buffalo gourd seed</Polish>
+           <Chinesesimp>Buffalo gourd seed</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_caravan_lunch">
+           <Original>Caravan lunch</Original>
+           <Czech>Caravan lunch</Czech>
+           <Spanish>Caravan lunch</Spanish>
+           <Russian>Caravan lunch</Russian>
+           <German>Caravan lunch</German>
+           <French>Caravan lunch</French>
+           <Italian>Caravan lunch</Italian>
+           <Portuguese>Caravan lunch</Portuguese>
+           <Polish>Caravan lunch</Polish>
+           <Chinesesimp>Caravan lunch</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_cave_fungus">
+           <Original>Cave fungus</Original>
+           <Czech>Cave fungus</Czech>
+           <Spanish>Cave fungus</Spanish>
+           <Russian>Cave fungus</Russian>
+           <German>Cave fungus</German>
+           <French>Cave fungus</French>
+           <Italian>Cave fungus</Italian>
+           <Portuguese>Cave fungus</Portuguese>
+           <Polish>Cave fungus</Polish>
+           <Chinesesimp>Cave fungus</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_cazador_egg">
+           <Original>Cazador egg</Original>
+           <Czech>Cazador egg</Czech>
+           <Spanish>Cazador egg</Spanish>
+           <Russian>Cazador egg</Russian>
+           <German>Cazador egg</German>
+           <French>Cazador egg</French>
+           <Italian>Cazador egg</Italian>
+           <Portuguese>Cazador egg</Portuguese>
+           <Polish>Cazador egg</Polish>
+           <Chinesesimp>Cazador egg</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_cook-cooks_fiend_stew">
+           <Original>Cook-Cook's Fiend stew</Original>
+           <Czech>Cook-Cook's Fiend stew</Czech>
+           <Spanish>Cook-Cook's Fiend stew</Spanish>
+           <Russian>Cook-Cook's Fiend stew</Russian>
+           <German>Cook-Cook's Fiend stew</German>
+           <French>Cook-Cook's Fiend stew</French>
+           <Italian>Cook-Cook's Fiend stew</Italian>
+           <Portuguese>Cook-Cook's Fiend stew</Portuguese>
+           <Polish>Cook-Cook's Fiend stew</Polish>
+           <Chinesesimp>Cook-Cook's Fiend stew</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_coyote_meat">
+           <Original>Coyote meat</Original>
+           <Czech>Coyote meat</Czech>
+           <Spanish>Coyote meat</Spanish>
+           <Russian>Coyote meat</Russian>
+           <German>Coyote meat</German>
+           <French>Coyote meat</French>
+           <Italian>Coyote meat</Italian>
+           <Portuguese>Coyote meat</Portuguese>
+           <Polish>Coyote meat</Polish>
+           <Chinesesimp>Coyote meat</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_coyote_steak">
+           <Original>Coyote steak</Original>
+           <Czech>Coyote steak</Czech>
+           <Spanish>Coyote steak</Spanish>
+           <Russian>Coyote steak</Russian>
+           <German>Coyote steak</German>
+           <French>Coyote steak</French>
+           <Italian>Coyote steak</Italian>
+           <Portuguese>Coyote steak</Portuguese>
+           <Polish>Coyote steak</Polish>
+           <Chinesesimp>Coyote steak</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_cram">
+           <Original>Cram</Original>
+           <Czech>Cram</Czech>
+           <Spanish>Cram</Spanish>
+           <Russian>Cram</Russian>
+           <German>Cram</German>
+           <French>Cram</French>
+           <Italian>Cram</Italian>
+           <Portuguese>Cram</Portuguese>
+           <Polish>Cram</Polish>
+           <Chinesesimp>Cram</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_crispy_squirrel_bits">
+           <Original>Crispy squirrel bits</Original>
+           <Czech>Crispy squirrel bits</Czech>
+           <Spanish>Crispy squirrel bits</Spanish>
+           <Russian>Crispy squirrel bits</Russian>
+           <German>Crispy squirrel bits</German>
+           <French>Crispy squirrel bits</French>
+           <Italian>Crispy squirrel bits</Italian>
+           <Portuguese>Crispy squirrel bits</Portuguese>
+           <Polish>Crispy squirrel bits</Polish>
+           <Chinesesimp>Crispy squirrel bits</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_crunchy_mutfruit">
+           <Original>Crunchy mutfruit</Original>
+           <Czech>Crunchy mutfruit</Czech>
+           <Spanish>Crunchy mutfruit</Spanish>
+           <Russian>Crunchy mutfruit</Russian>
+           <German>Crunchy mutfruit</German>
+           <French>Crunchy mutfruit</French>
+           <Italian>Crunchy mutfruit</Italian>
+           <Portuguese>Crunchy mutfruit</Portuguese>
+           <Polish>Crunchy mutfruit</Polish>
+           <Chinesesimp>Crunchy mutfruit</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_dandy_boy_apples">
+           <Original>Dandy Boy Apples</Original>
+           <Czech>Dandy Boy Apples</Czech>
+           <Spanish>Dandy Boy Apples</Spanish>
+           <Russian>Dandy Boy Apples</Russian>
+           <German>Dandy Boy Apples</German>
+           <French>Dandy Boy Apples</French>
+           <Italian>Dandy Boy Apples</Italian>
+           <Portuguese>Dandy Boy Apples</Portuguese>
+           <Polish>Dandy Boy Apples</Polish>
+           <Chinesesimp>Dandy Boy Apples</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_daturana">
+           <Original>Daturana</Original>
+           <Czech>Daturana</Czech>
+           <Spanish>Daturana</Spanish>
+           <Russian>Daturana</Russian>
+           <German>Daturana</German>
+           <French>Daturana</French>
+           <Italian>Daturana</Italian>
+           <Portuguese>Daturana</Portuguese>
+           <Polish>Daturana</Polish>
+           <Chinesesimp>Daturana</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_desert_salad">
+           <Original>Desert Salad</Original>
+           <Czech>Desert Salad</Czech>
+           <Spanish>Desert Salad</Spanish>
+           <Russian>Desert Salad</Russian>
+           <German>Desert Salad</German>
+           <French>Desert Salad</French>
+           <Italian>Desert Salad</Italian>
+           <Portuguese>Desert Salad</Portuguese>
+           <Polish>Desert Salad</Polish>
+           <Chinesesimp>Desert Salad</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_dog_meat">
+           <Original>Dog meat</Original>
+           <Czech>Dog meat</Czech>
+           <Spanish>Dog meat</Spanish>
+           <Russian>Dog meat</Russian>
+           <German>Dog meat</German>
+           <French>Dog meat</French>
+           <Italian>Dog meat</Italian>
+           <Portuguese>Dog meat</Portuguese>
+           <Polish>Dog meat</Polish>
+           <Chinesesimp>Dog meat</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_dog_steak">
+           <Original>Dog steak</Original>
+           <Czech>Dog steak</Czech>
+           <Spanish>Dog steak</Spanish>
+           <Russian>Dog steak</Russian>
+           <German>Dog steak</German>
+           <French>Dog steak</French>
+           <Italian>Dog steak</Italian>
+           <Portuguese>Dog steak</Portuguese>
+           <Polish>Dog steak</Polish>
+           <Chinesesimp>Dog steak</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_fancy_lads_snack_cakes">
+           <Original>Fancy Lads Snack Cakes</Original>
+           <Czech>Fancy Lads Snack Cakes</Czech>
+           <Spanish>Fancy Lads Snack Cakes</Spanish>
+           <Russian>Fancy Lads Snack Cakes</Russian>
+           <German>Fancy Lads Snack Cakes</German>
+           <French>Fancy Lads Snack Cakes</French>
+           <Italian>Fancy Lads Snack Cakes</Italian>
+           <Portuguese>Fancy Lads Snack Cakes</Portuguese>
+           <Polish>Fancy Lads Snack Cakes</Polish>
+           <Chinesesimp>Fancy Lads Snack Cakes</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_fire_ant_egg">
+           <Original>Fire ant egg</Original>
+           <Czech>Fire ant egg</Czech>
+           <Spanish>Fire ant egg</Spanish>
+           <Russian>Fire ant egg</Russian>
+           <German>Fire ant egg</German>
+           <French>Fire ant egg</French>
+           <Italian>Fire ant egg</Italian>
+           <Portuguese>Fire ant egg</Portuguese>
+           <Polish>Fire ant egg</Polish>
+           <Chinesesimp>Fire ant egg</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_fire_ant_fricassée">
+           <Original>Fire ant fricassée</Original>
+           <Czech>Fire ant fricassée</Czech>
+           <Spanish>Fire ant fricassée</Spanish>
+           <Russian>Fire ant fricassée</Russian>
+           <German>Fire ant fricassée</German>
+           <French>Fire ant fricassée</French>
+           <Italian>Fire ant fricassée</Italian>
+           <Portuguese>Fire ant fricassée</Portuguese>
+           <Polish>Fire ant fricassée</Polish>
+           <Chinesesimp>Fire ant fricassée</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_fire_ant_meat">
+           <Original>Fire ant meat</Original>
+           <Czech>Fire ant meat</Czech>
+           <Spanish>Fire ant meat</Spanish>
+           <Russian>Fire ant meat</Russian>
+           <German>Fire ant meat</German>
+           <French>Fire ant meat</French>
+           <Italian>Fire ant meat</Italian>
+           <Portuguese>Fire ant meat</Portuguese>
+           <Polish>Fire ant meat</Polish>
+           <Chinesesimp>Fire ant meat</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_fresh_apple">
+           <Original>Fresh apple</Original>
+           <Czech>Fresh apple</Czech>
+           <Spanish>Fresh apple</Spanish>
+           <Russian>Fresh apple</Russian>
+           <German>Fresh apple</German>
+           <French>Fresh apple</French>
+           <Italian>Fresh apple</Italian>
+           <Portuguese>Fresh apple</Portuguese>
+           <Polish>Fresh apple</Polish>
+           <Chinesesimp>Fresh apple</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_fresh_carrot">
+           <Original>Fresh carrot</Original>
+           <Czech>Fresh carrot</Czech>
+           <Spanish>Fresh carrot</Spanish>
+           <Russian>Fresh carrot</Russian>
+           <German>Fresh carrot</German>
+           <French>Fresh carrot</French>
+           <Italian>Fresh carrot</Italian>
+           <Portuguese>Fresh carrot</Portuguese>
+           <Polish>Fresh carrot</Polish>
+           <Chinesesimp>Fresh carrot</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_fresh_pear">
+           <Original>Fresh pear</Original>
+           <Czech>Fresh pear</Czech>
+           <Spanish>Fresh pear</Spanish>
+           <Russian>Fresh pear</Russian>
+           <German>Fresh pear</German>
+           <French>Fresh pear</French>
+           <Italian>Fresh pear</Italian>
+           <Portuguese>Fresh pear</Portuguese>
+           <Polish>Fresh pear</Polish>
+           <Chinesesimp>Fresh pear</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_fresh_potato">
+           <Original>Fresh potato</Original>
+           <Czech>Fresh potato</Czech>
+           <Spanish>Fresh potato</Spanish>
+           <Russian>Fresh potato</Russian>
+           <German>Fresh potato</German>
+           <French>Fresh potato</French>
+           <Italian>Fresh potato</Italian>
+           <Portuguese>Fresh potato</Portuguese>
+           <Polish>Fresh potato</Polish>
+           <Chinesesimp>Fresh potato</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_gecko_kebab">
+           <Original>Gecko kebab</Original>
+           <Czech>Gecko kebab</Czech>
+           <Spanish>Gecko kebab</Spanish>
+           <Russian>Gecko kebab</Russian>
+           <German>Gecko kebab</German>
+           <French>Gecko kebab</French>
+           <Italian>Gecko kebab</Italian>
+           <Portuguese>Gecko kebab</Portuguese>
+           <Polish>Gecko kebab</Polish>
+           <Chinesesimp>Gecko kebab</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_gecko_meat">
+           <Original>Gecko meat</Original>
+           <Czech>Gecko meat</Czech>
+           <Spanish>Gecko meat</Spanish>
+           <Russian>Gecko meat</Russian>
+           <German>Gecko meat</German>
+           <French>Gecko meat</French>
+           <Italian>Gecko meat</Italian>
+           <Portuguese>Gecko meat</Portuguese>
+           <Polish>Gecko meat</Polish>
+           <Chinesesimp>Gecko meat</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_gecko_steak">
+           <Original>Gecko steak</Original>
+           <Czech>Gecko steak</Czech>
+           <Spanish>Gecko steak</Spanish>
+           <Russian>Gecko steak</Russian>
+           <German>Gecko steak</German>
+           <French>Gecko steak</French>
+           <Italian>Gecko steak</Italian>
+           <Portuguese>Gecko steak</Portuguese>
+           <Polish>Gecko steak</Polish>
+           <Chinesesimp>Gecko steak</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_giant_rat_meat">
+           <Original>Giant rat meat</Original>
+           <Czech>Giant rat meat</Czech>
+           <Spanish>Giant rat meat</Spanish>
+           <Russian>Giant rat meat</Russian>
+           <German>Giant rat meat</German>
+           <French>Giant rat meat</French>
+           <Italian>Giant rat meat</Italian>
+           <Portuguese>Giant rat meat</Portuguese>
+           <Polish>Giant rat meat</Polish>
+           <Chinesesimp>Giant rat meat</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_grilled_mantis">
+           <Original>Grilled mantis</Original>
+           <Czech>Grilled mantis</Czech>
+           <Spanish>Grilled mantis</Spanish>
+           <Russian>Grilled mantis</Russian>
+           <German>Grilled mantis</German>
+           <French>Grilled mantis</French>
+           <Italian>Grilled mantis</Italian>
+           <Portuguese>Grilled mantis</Portuguese>
+           <Polish>Grilled mantis</Polish>
+           <Chinesesimp>Grilled mantis</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_gum_drops">
+           <Original>Gum drops</Original>
+           <Czech>Gum drops</Czech>
+           <Spanish>Gum drops</Spanish>
+           <Russian>Gum drops</Russian>
+           <German>Gum drops</German>
+           <French>Gum drops</French>
+           <Italian>Gum drops</Italian>
+           <Portuguese>Gum drops</Portuguese>
+           <Polish>Gum drops</Polish>
+           <Chinesesimp>Gum drops</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_honey_mesquite_pod">
+           <Original>Honey mesquite pod</Original>
+           <Czech>Honey mesquite pod</Czech>
+           <Spanish>Honey mesquite pod</Spanish>
+           <Russian>Honey mesquite pod</Russian>
+           <German>Honey mesquite pod</German>
+           <French>Honey mesquite pod</French>
+           <Italian>Honey mesquite pod</Italian>
+           <Portuguese>Honey mesquite pod</Portuguese>
+           <Polish>Honey mesquite pod</Polish>
+           <Chinesesimp>Honey mesquite pod</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_human_flesh">
+           <Original>Human flesh</Original>
+           <Czech>Human flesh</Czech>
+           <Spanish>Human flesh</Spanish>
+           <Russian>Human flesh</Russian>
+           <German>Human flesh</German>
+           <French>Human flesh</French>
+           <Italian>Human flesh</Italian>
+           <Portuguese>Human flesh</Portuguese>
+           <Polish>Human flesh</Polish>
+           <Chinesesimp>Human flesh</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_human_remains">
+           <Original>Human remains</Original>
+           <Czech>Human remains</Czech>
+           <Spanish>Human remains</Spanish>
+           <Russian>Human remains</Russian>
+           <German>Human remains</German>
+           <French>Human remains</French>
+           <Italian>Human remains</Italian>
+           <Portuguese>Human remains</Portuguese>
+           <Polish>Human remains</Polish>
+           <Chinesesimp>Human remains</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_iguana_bits">
+           <Original>Iguana bits</Original>
+           <Czech>Iguana bits</Czech>
+           <Spanish>Iguana bits</Spanish>
+           <Russian>Iguana bits</Russian>
+           <German>Iguana bits</German>
+           <French>Iguana bits</French>
+           <Italian>Iguana bits</Italian>
+           <Portuguese>Iguana bits</Portuguese>
+           <Polish>Iguana bits</Polish>
+           <Chinesesimp>Iguana bits</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_iguana-on-a-stick">
+           <Original>Iguana-on-a-stick</Original>
+           <Czech>Iguana-on-a-stick</Czech>
+           <Spanish>Iguana-on-a-stick</Spanish>
+           <Russian>Iguana-on-a-stick</Russian>
+           <German>Iguana-on-a-stick</German>
+           <French>Iguana-on-a-stick</French>
+           <Italian>Iguana-on-a-stick</Italian>
+           <Portuguese>Iguana-on-a-stick</Portuguese>
+           <Polish>Iguana-on-a-stick</Polish>
+           <Chinesesimp>Iguana-on-a-stick</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_imitation_strange_meat_pie">
+           <Original>Imitation strange meat pie</Original>
+           <Czech>Imitation strange meat pie</Czech>
+           <Spanish>Imitation strange meat pie</Spanish>
+           <Russian>Imitation strange meat pie</Russian>
+           <German>Imitation strange meat pie</German>
+           <French>Imitation strange meat pie</French>
+           <Italian>Imitation strange meat pie</Italian>
+           <Portuguese>Imitation strange meat pie</Portuguese>
+           <Polish>Imitation strange meat pie</Polish>
+           <Chinesesimp>Imitation strange meat pie</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_instamash">
+           <Original>InstaMash</Original>
+           <Czech>InstaMash</Czech>
+           <Spanish>InstaMash</Spanish>
+           <Russian>InstaMash</Russian>
+           <German>InstaMash</German>
+           <French>InstaMash</French>
+           <Italian>InstaMash</Italian>
+           <Portuguese>InstaMash</Portuguese>
+           <Polish>InstaMash</Polish>
+           <Chinesesimp>InstaMash</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_irr._banana_yucca">
+           <Original>Irr. banana yucca</Original>
+           <Czech>Irr. banana yucca</Czech>
+           <Spanish>Irr. banana yucca</Spanish>
+           <Russian>Irr. banana yucca</Russian>
+           <German>Irr. banana yucca</German>
+           <French>Irr. banana yucca</French>
+           <Italian>Irr. banana yucca</Italian>
+           <Portuguese>Irr. banana yucca</Portuguese>
+           <Polish>Irr. banana yucca</Polish>
+           <Chinesesimp>Irr. banana yucca</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_irr._barrel_cactus">
+           <Original>Irr. barrel cactus</Original>
+           <Czech>Irr. barrel cactus</Czech>
+           <Spanish>Irr. barrel cactus</Spanish>
+           <Russian>Irr. barrel cactus</Russian>
+           <German>Irr. barrel cactus</German>
+           <French>Irr. barrel cactus</French>
+           <Italian>Irr. barrel cactus</Italian>
+           <Portuguese>Irr. barrel cactus</Portuguese>
+           <Polish>Irr. barrel cactus</Polish>
+           <Chinesesimp>Irr. barrel cactus</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_irr._mac_&_cheese">
+           <Original>Irr. Mac & Cheese</Original>
+           <Czech>Irr. Mac & Cheese</Czech>
+           <Spanish>Irr. Mac & Cheese</Spanish>
+           <Russian>Irr. Mac & Cheese</Russian>
+           <German>Irr. Mac & Cheese</German>
+           <French>Irr. Mac & Cheese</French>
+           <Italian>Irr. Mac & Cheese</Italian>
+           <Portuguese>Irr. Mac & Cheese</Portuguese>
+           <Polish>Irr. Mac & Cheese</Polish>
+           <Chinesesimp>Irr. Mac & Cheese</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_irradiated_cram">
+           <Original>Irradiated Cram</Original>
+           <Czech>Irradiated Cram</Czech>
+           <Spanish>Irradiated Cram</Spanish>
+           <Russian>Irradiated Cram</Russian>
+           <German>Irradiated Cram</German>
+           <French>Irradiated Cram</French>
+           <Italian>Irradiated Cram</Italian>
+           <Portuguese>Irradiated Cram</Portuguese>
+           <Polish>Irradiated Cram</Polish>
+           <Chinesesimp>Irradiated Cram</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_irr._crunchy_mutfruit">
+           <Original>Irr. crunchy mutfruit</Original>
+           <Czech>Irr. crunchy mutfruit</Czech>
+           <Spanish>Irr. crunchy mutfruit</Spanish>
+           <Russian>Irr. crunchy mutfruit</Russian>
+           <German>Irr. crunchy mutfruit</German>
+           <French>Irr. crunchy mutfruit</French>
+           <Italian>Irr. crunchy mutfruit</Italian>
+           <Portuguese>Irr. crunchy mutfruit</Portuguese>
+           <Polish>Irr. crunchy mutfruit</Polish>
+           <Chinesesimp>Irr. crunchy mutfruit</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_irr._dandy_boy_apples">
+           <Original>Irr. Dandy Boy Apples</Original>
+           <Czech>Irr. Dandy Boy Apples</Czech>
+           <Spanish>Irr. Dandy Boy Apples</Spanish>
+           <Russian>Irr. Dandy Boy Apples</Russian>
+           <German>Irr. Dandy Boy Apples</German>
+           <French>Irr. Dandy Boy Apples</French>
+           <Italian>Irr. Dandy Boy Apples</Italian>
+           <Portuguese>Irr. Dandy Boy Apples</Portuguese>
+           <Polish>Irr. Dandy Boy Apples</Polish>
+           <Chinesesimp>Irr. Dandy Boy Apples</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_irr._fancy_lads">
+           <Original>Irr. Fancy Lads</Original>
+           <Czech>Irr. Fancy Lads</Czech>
+           <Spanish>Irr. Fancy Lads</Spanish>
+           <Russian>Irr. Fancy Lads</Russian>
+           <German>Irr. Fancy Lads</German>
+           <French>Irr. Fancy Lads</French>
+           <Italian>Irr. Fancy Lads</Italian>
+           <Portuguese>Irr. Fancy Lads</Portuguese>
+           <Polish>Irr. Fancy Lads</Polish>
+           <Chinesesimp>Irr. Fancy Lads</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_irr._gecko_meat">
+           <Original>Irr. gecko meat</Original>
+           <Czech>Irr. gecko meat</Czech>
+           <Spanish>Irr. gecko meat</Spanish>
+           <Russian>Irr. gecko meat</Russian>
+           <German>Irr. gecko meat</German>
+           <French>Irr. gecko meat</French>
+           <Italian>Irr. gecko meat</Italian>
+           <Portuguese>Irr. gecko meat</Portuguese>
+           <Polish>Irr. gecko meat</Polish>
+           <Chinesesimp>Irr. gecko meat</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_irradiated_instamash">
+           <Original>Irradiated InstaMash</Original>
+           <Czech>Irradiated InstaMash</Czech>
+           <Spanish>Irradiated InstaMash</Spanish>
+           <Russian>Irradiated InstaMash</Russian>
+           <German>Irradiated InstaMash</German>
+           <French>Irradiated InstaMash</French>
+           <Italian>Irradiated InstaMash</Italian>
+           <Portuguese>Irradiated InstaMash</Portuguese>
+           <Polish>Irradiated InstaMash</Polish>
+           <Chinesesimp>Irradiated InstaMash</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_irradiated_mutfruit">
+           <Original>Irradiated mutfruit</Original>
+           <Czech>Irradiated mutfruit</Czech>
+           <Spanish>Irradiated mutfruit</Spanish>
+           <Russian>Irradiated mutfruit</Russian>
+           <German>Irradiated mutfruit</German>
+           <French>Irradiated mutfruit</French>
+           <Italian>Irradiated mutfruit</Italian>
+           <Portuguese>Irradiated mutfruit</Portuguese>
+           <Polish>Irradiated mutfruit</Polish>
+           <Chinesesimp>Irradiated mutfruit</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_irr._pork_n_beans">
+           <Original>Irr. Pork n' Beans</Original>
+           <Czech>Irr. Pork n' Beans</Czech>
+           <Spanish>Irr. Pork n' Beans</Spanish>
+           <Russian>Irr. Pork n' Beans</Russian>
+           <German>Irr. Pork n' Beans</German>
+           <French>Irr. Pork n' Beans</French>
+           <Italian>Irr. Pork n' Beans</Italian>
+           <Portuguese>Irr. Pork n' Beans</Portuguese>
+           <Polish>Irr. Pork n' Beans</Polish>
+           <Chinesesimp>Irr. Pork n' Beans</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_irradiated_potato">
+           <Original>Irradiated potato</Original>
+           <Czech>Irradiated potato</Czech>
+           <Spanish>Irradiated potato</Spanish>
+           <Russian>Irradiated potato</Russian>
+           <German>Irradiated potato</German>
+           <French>Irradiated potato</French>
+           <Italian>Irradiated potato</Italian>
+           <Portuguese>Irradiated potato</Portuguese>
+           <Polish>Irradiated potato</Polish>
+           <Chinesesimp>Irradiated potato</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_irr._potato_crisps">
+           <Original>Irr. Potato Crisps</Original>
+           <Czech>Irr. Potato Crisps</Czech>
+           <Spanish>Irr. Potato Crisps</Spanish>
+           <Russian>Irr. Potato Crisps</Russian>
+           <German>Irr. Potato Crisps</German>
+           <French>Irr. Potato Crisps</French>
+           <Italian>Irr. Potato Crisps</Italian>
+           <Portuguese>Irr. Potato Crisps</Portuguese>
+           <Polish>Irr. Potato Crisps</Polish>
+           <Chinesesimp>Irr. Potato Crisps</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_irr._salisbury_steak">
+           <Original>Irr. Salisbury Steak</Original>
+           <Czech>Irr. Salisbury Steak</Czech>
+           <Spanish>Irr. Salisbury Steak</Spanish>
+           <Russian>Irr. Salisbury Steak</Russian>
+           <German>Irr. Salisbury Steak</German>
+           <French>Irr. Salisbury Steak</French>
+           <Italian>Irr. Salisbury Steak</Italian>
+           <Portuguese>Irr. Salisbury Steak</Portuguese>
+           <Polish>Irr. Salisbury Steak</Polish>
+           <Chinesesimp>Irr. Salisbury Steak</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_irr._sugar_bombs">
+           <Original>Irr. Sugar Bombs</Original>
+           <Czech>Irr. Sugar Bombs</Czech>
+           <Spanish>Irr. Sugar Bombs</Spanish>
+           <Russian>Irr. Sugar Bombs</Russian>
+           <German>Irr. Sugar Bombs</German>
+           <French>Irr. Sugar Bombs</French>
+           <Italian>Irr. Sugar Bombs</Italian>
+           <Portuguese>Irr. Sugar Bombs</Portuguese>
+           <Polish>Irr. Sugar Bombs</Polish>
+           <Chinesesimp>Irr. Sugar Bombs</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_irr._yumyum_d._eggs">
+           <Original>Irr. YumYum D. Eggs</Original>
+           <Czech>Irr. YumYum D. Eggs</Czech>
+           <Spanish>Irr. YumYum D. Eggs</Spanish>
+           <Russian>Irr. YumYum D. Eggs</Russian>
+           <German>Irr. YumYum D. Eggs</German>
+           <French>Irr. YumYum D. Eggs</French>
+           <Italian>Irr. YumYum D. Eggs</Italian>
+           <Portuguese>Irr. YumYum D. Eggs</Portuguese>
+           <Polish>Irr. YumYum D. Eggs</Polish>
+           <Chinesesimp>Irr. YumYum D. Eggs</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_jalapeño_pepper">
+           <Original>Jalapeño pepper</Original>
+           <Czech>Jalapeño pepper</Czech>
+           <Spanish>Jalapeño pepper</Spanish>
+           <Russian>Jalapeño pepper</Russian>
+           <German>Jalapeño pepper</German>
+           <French>Jalapeño pepper</French>
+           <Italian>Jalapeño pepper</Italian>
+           <Portuguese>Jalapeño pepper</Portuguese>
+           <Polish>Jalapeño pepper</Polish>
+           <Chinesesimp>Jalapeño pepper</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_junk_food">
+           <Original>Junk food</Original>
+           <Czech>Junk food</Czech>
+           <Spanish>Junk food</Spanish>
+           <Russian>Junk food</Russian>
+           <German>Junk food</German>
+           <French>Junk food</French>
+           <Italian>Junk food</Italian>
+           <Portuguese>Junk food</Portuguese>
+           <Polish>Junk food</Polish>
+           <Chinesesimp>Junk food</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_lakelurk_egg">
+           <Original>Lakelurk egg</Original>
+           <Czech>Lakelurk egg</Czech>
+           <Spanish>Lakelurk egg</Spanish>
+           <Russian>Lakelurk egg</Russian>
+           <German>Lakelurk egg</German>
+           <French>Lakelurk egg</French>
+           <Italian>Lakelurk egg</Italian>
+           <Portuguese>Lakelurk egg</Portuguese>
+           <Polish>Lakelurk egg</Polish>
+           <Chinesesimp>Lakelurk egg</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_lakelurk_meat">
+           <Original>Lakelurk meat</Original>
+           <Czech>Lakelurk meat</Czech>
+           <Spanish>Lakelurk meat</Spanish>
+           <Russian>Lakelurk meat</Russian>
+           <German>Lakelurk meat</German>
+           <French>Lakelurk meat</French>
+           <Italian>Lakelurk meat</Italian>
+           <Portuguese>Lakelurk meat</Portuguese>
+           <Polish>Lakelurk meat</Polish>
+           <Chinesesimp>Lakelurk meat</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_maize">
+           <Original>Maize</Original>
+           <Czech>Maize</Czech>
+           <Spanish>Maize</Spanish>
+           <Russian>Maize</Russian>
+           <German>Maize</German>
+           <French>Maize</French>
+           <Italian>Maize</Italian>
+           <Portuguese>Maize</Portuguese>
+           <Polish>Maize</Polish>
+           <Chinesesimp>Maize</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_mole_rat_meat">
+           <Original>Mole rat meat</Original>
+           <Czech>Mole rat meat</Czech>
+           <Spanish>Mole rat meat</Spanish>
+           <Russian>Mole rat meat</Russian>
+           <German>Mole rat meat</German>
+           <French>Mole rat meat</French>
+           <Italian>Mole rat meat</Italian>
+           <Portuguese>Mole rat meat</Portuguese>
+           <Polish>Mole rat meat</Polish>
+           <Chinesesimp>Mole rat meat</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_mole_rat_stew">
+           <Original>Mole rat stew</Original>
+           <Czech>Mole rat stew</Czech>
+           <Spanish>Mole rat stew</Spanish>
+           <Russian>Mole rat stew</Russian>
+           <German>Mole rat stew</German>
+           <French>Mole rat stew</French>
+           <Italian>Mole rat stew</Italian>
+           <Portuguese>Mole rat stew</Portuguese>
+           <Polish>Mole rat stew</Polish>
+           <Chinesesimp>Mole rat stew</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_mole_rat_wonder_meat">
+           <Original>Mole rat wonder meat</Original>
+           <Czech>Mole rat wonder meat</Czech>
+           <Spanish>Mole rat wonder meat</Spanish>
+           <Russian>Mole rat wonder meat</Russian>
+           <German>Mole rat wonder meat</German>
+           <French>Mole rat wonder meat</French>
+           <Italian>Mole rat wonder meat</Italian>
+           <Portuguese>Mole rat wonder meat</Portuguese>
+           <Polish>Mole rat wonder meat</Polish>
+           <Chinesesimp>Mole rat wonder meat</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_mre">
+           <Original>MRE</Original>
+           <Czech>MRE</Czech>
+           <Spanish>MRE</Spanish>
+           <Russian>MRE</Russian>
+           <German>MRE</German>
+           <French>MRE</French>
+           <Italian>MRE</Italian>
+           <Portuguese>MRE</Portuguese>
+           <Polish>MRE</Polish>
+           <Chinesesimp>MRE</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_mushroom_cloud">
+           <Original>Mushroom Cloud</Original>
+           <Czech>Mushroom Cloud</Czech>
+           <Spanish>Mushroom Cloud</Spanish>
+           <Russian>Mushroom Cloud</Russian>
+           <German>Mushroom Cloud</German>
+           <French>Mushroom Cloud</French>
+           <Italian>Mushroom Cloud</Italian>
+           <Portuguese>Mushroom Cloud</Portuguese>
+           <Polish>Mushroom Cloud</Polish>
+           <Chinesesimp>Mushroom Cloud</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_mutant_cave_fungus">
+           <Original>Mutant cave fungus</Original>
+           <Czech>Mutant cave fungus</Czech>
+           <Spanish>Mutant cave fungus</Spanish>
+           <Russian>Mutant cave fungus</Russian>
+           <German>Mutant cave fungus</German>
+           <French>Mutant cave fungus</French>
+           <Italian>Mutant cave fungus</Italian>
+           <Portuguese>Mutant cave fungus</Portuguese>
+           <Polish>Mutant cave fungus</Polish>
+           <Chinesesimp>Mutant cave fungus</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_mutfruit">
+           <Original>Mutfruit</Original>
+           <Czech>Mutfruit</Czech>
+           <Spanish>Mutfruit</Spanish>
+           <Russian>Mutfruit</Russian>
+           <German>Mutfruit</German>
+           <French>Mutfruit</French>
+           <Italian>Mutfruit</Italian>
+           <Portuguese>Mutfruit</Portuguese>
+           <Polish>Mutfruit</Polish>
+           <Chinesesimp>Mutfruit</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_nevada_agave_fruit">
+           <Original>Nevada agave fruit</Original>
+           <Czech>Nevada agave fruit</Czech>
+           <Spanish>Nevada agave fruit</Spanish>
+           <Russian>Nevada agave fruit</Russian>
+           <German>Nevada agave fruit</German>
+           <French>Nevada agave fruit</French>
+           <Italian>Nevada agave fruit</Italian>
+           <Portuguese>Nevada agave fruit</Portuguese>
+           <Polish>Nevada agave fruit</Polish>
+           <Chinesesimp>Nevada agave fruit</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_nightstalker_tail">
+           <Original>Nightstalker tail</Original>
+           <Czech>Nightstalker tail</Czech>
+           <Spanish>Nightstalker tail</Spanish>
+           <Russian>Nightstalker tail</Russian>
+           <German>Nightstalker tail</German>
+           <French>Nightstalker tail</French>
+           <Italian>Nightstalker tail</Italian>
+           <Portuguese>Nightstalker tail</Portuguese>
+           <Polish>Nightstalker tail</Polish>
+           <Chinesesimp>Nightstalker tail</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_noodles">
+           <Original>Noodles</Original>
+           <Czech>Noodles</Czech>
+           <Spanish>Noodles</Spanish>
+           <Russian>Noodles</Russian>
+           <German>Noodles</German>
+           <French>Noodles</French>
+           <Italian>Noodles</Italian>
+           <Portuguese>Noodles</Portuguese>
+           <Polish>Noodles</Polish>
+           <Chinesesimp>Noodles</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_pinto_bean_pod">
+           <Original>Pinto bean pod</Original>
+           <Czech>Pinto bean pod</Czech>
+           <Spanish>Pinto bean pod</Spanish>
+           <Russian>Pinto bean pod</Russian>
+           <German>Pinto bean pod</German>
+           <French>Pinto bean pod</French>
+           <Italian>Pinto bean pod</Italian>
+           <Portuguese>Pinto bean pod</Portuguese>
+           <Polish>Pinto bean pod</Polish>
+           <Chinesesimp>Pinto bean pod</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_pinyon_nuts">
+           <Original>Pinyon nuts</Original>
+           <Czech>Pinyon nuts</Czech>
+           <Spanish>Pinyon nuts</Spanish>
+           <Russian>Pinyon nuts</Russian>
+           <German>Pinyon nuts</German>
+           <French>Pinyon nuts</French>
+           <Italian>Pinyon nuts</Italian>
+           <Portuguese>Pinyon nuts</Portuguese>
+           <Polish>Pinyon nuts</Polish>
+           <Chinesesimp>Pinyon nuts</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_pork_n_beans">
+           <Original>Pork n' Beans</Original>
+           <Czech>Pork n' Beans</Czech>
+           <Spanish>Pork n' Beans</Spanish>
+           <Russian>Pork n' Beans</Russian>
+           <German>Pork n' Beans</German>
+           <French>Pork n' Beans</French>
+           <Italian>Pork n' Beans</Italian>
+           <Portuguese>Pork n' Beans</Portuguese>
+           <Polish>Pork n' Beans</Polish>
+           <Chinesesimp>Pork n' Beans</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_potato_crisps">
+           <Original>Potato Crisps</Original>
+           <Czech>Potato Crisps</Czech>
+           <Spanish>Potato Crisps</Spanish>
+           <Russian>Potato Crisps</Russian>
+           <German>Potato Crisps</German>
+           <French>Potato Crisps</French>
+           <Italian>Potato Crisps</Italian>
+           <Portuguese>Potato Crisps</Portuguese>
+           <Polish>Potato Crisps</Polish>
+           <Chinesesimp>Potato Crisps</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_preserved_meat">
+           <Original>Preserved meat</Original>
+           <Czech>Preserved meat</Czech>
+           <Spanish>Preserved meat</Spanish>
+           <Russian>Preserved meat</Russian>
+           <German>Preserved meat</German>
+           <French>Preserved meat</French>
+           <Italian>Preserved meat</Italian>
+           <Portuguese>Preserved meat</Portuguese>
+           <Polish>Preserved meat</Polish>
+           <Chinesesimp>Preserved meat</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_pre-war_steak">
+           <Original>Pre-War steak</Original>
+           <Czech>Pre-War steak</Czech>
+           <Spanish>Pre-War steak</Spanish>
+           <Russian>Pre-War steak</Russian>
+           <German>Pre-War steak</German>
+           <French>Pre-War steak</French>
+           <Italian>Pre-War steak</Italian>
+           <Portuguese>Pre-War steak</Portuguese>
+           <Polish>Pre-War steak</Polish>
+           <Chinesesimp>Pre-War steak</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_prickly_pear_fruit">
+           <Original>Prickly pear fruit</Original>
+           <Czech>Prickly pear fruit</Czech>
+           <Spanish>Prickly pear fruit</Spanish>
+           <Russian>Prickly pear fruit</Russian>
+           <German>Prickly pear fruit</German>
+           <French>Prickly pear fruit</French>
+           <Italian>Prickly pear fruit</Italian>
+           <Portuguese>Prickly pear fruit</Portuguese>
+           <Polish>Prickly pear fruit</Polish>
+           <Chinesesimp>Prickly pear fruit</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_radroach_meat">
+           <Original>Radroach meat</Original>
+           <Czech>Radroach meat</Czech>
+           <Spanish>Radroach meat</Spanish>
+           <Russian>Radroach meat</Russian>
+           <German>Radroach meat</German>
+           <French>Radroach meat</French>
+           <Italian>Radroach meat</Italian>
+           <Portuguese>Radroach meat</Portuguese>
+           <Polish>Radroach meat</Polish>
+           <Chinesesimp>Radroach meat</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_rat_meat">
+           <Original>Rat meat</Original>
+           <Czech>Rat meat</Czech>
+           <Spanish>Rat meat</Spanish>
+           <Russian>Rat meat</Russian>
+           <German>Rat meat</German>
+           <French>Rat meat</French>
+           <Italian>Rat meat</Italian>
+           <Portuguese>Rat meat</Portuguese>
+           <Polish>Rat meat</Polish>
+           <Chinesesimp>Rat meat</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_rubys_casserole">
+           <Original>Ruby's casserole</Original>
+           <Czech>Ruby's casserole</Czech>
+           <Spanish>Ruby's casserole</Spanish>
+           <Russian>Ruby's casserole</Russian>
+           <German>Ruby's casserole</German>
+           <French>Ruby's casserole</French>
+           <Italian>Ruby's casserole</Italian>
+           <Portuguese>Ruby's casserole</Portuguese>
+           <Polish>Ruby's casserole</Polish>
+           <Chinesesimp>Ruby's casserole</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_sacred_datura_root">
+           <Original>Sacred datura root</Original>
+           <Czech>Sacred datura root</Czech>
+           <Spanish>Sacred datura root</Spanish>
+           <Russian>Sacred datura root</Russian>
+           <German>Sacred datura root</German>
+           <French>Sacred datura root</French>
+           <Italian>Sacred datura root</Italian>
+           <Portuguese>Sacred datura root</Portuguese>
+           <Polish>Sacred datura root</Polish>
+           <Chinesesimp>Sacred datura root</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_salient_green">
+           <Original>Salient Green</Original>
+           <Czech>Salient Green</Czech>
+           <Spanish>Salient Green</Spanish>
+           <Russian>Salient Green</Russian>
+           <German>Salient Green</German>
+           <French>Salient Green</French>
+           <Italian>Salient Green</Italian>
+           <Portuguese>Salient Green</Portuguese>
+           <Polish>Salient Green</Polish>
+           <Chinesesimp>Salient Green</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_salisbury_steak">
+           <Original>Salisbury Steak</Original>
+           <Czech>Salisbury Steak</Czech>
+           <Spanish>Salisbury Steak</Spanish>
+           <Russian>Salisbury Steak</Russian>
+           <German>Salisbury Steak</German>
+           <French>Salisbury Steak</French>
+           <Italian>Salisbury Steak</Italian>
+           <Portuguese>Salisbury Steak</Portuguese>
+           <Polish>Salisbury Steak</Polish>
+           <Chinesesimp>Salisbury Steak</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_spore_carrier_sap">
+           <Original>Spore carrier sap</Original>
+           <Czech>Spore carrier sap</Czech>
+           <Spanish>Spore carrier sap</Spanish>
+           <Russian>Spore carrier sap</Russian>
+           <German>Spore carrier sap</German>
+           <French>Spore carrier sap</French>
+           <Italian>Spore carrier sap</Italian>
+           <Portuguese>Spore carrier sap</Portuguese>
+           <Polish>Spore carrier sap</Polish>
+           <Chinesesimp>Spore carrier sap</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_spore_plant_pods">
+           <Original>Spore plant pods</Original>
+           <Czech>Spore plant pods</Czech>
+           <Spanish>Spore plant pods</Spanish>
+           <Russian>Spore plant pods</Russian>
+           <German>Spore plant pods</German>
+           <French>Spore plant pods</French>
+           <Italian>Spore plant pods</Italian>
+           <Portuguese>Spore plant pods</Portuguese>
+           <Polish>Spore plant pods</Polish>
+           <Chinesesimp>Spore plant pods</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_squirrel_on_a_stick">
+           <Original>Squirrel on a stick</Original>
+           <Czech>Squirrel on a stick</Czech>
+           <Spanish>Squirrel on a stick</Spanish>
+           <Russian>Squirrel on a stick</Russian>
+           <German>Squirrel on a stick</German>
+           <French>Squirrel on a stick</French>
+           <Italian>Squirrel on a stick</Italian>
+           <Portuguese>Squirrel on a stick</Portuguese>
+           <Polish>Squirrel on a stick</Polish>
+           <Chinesesimp>Squirrel on a stick</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_squirrel_stew">
+           <Original>Squirrel stew</Original>
+           <Czech>Squirrel stew</Czech>
+           <Spanish>Squirrel stew</Spanish>
+           <Russian>Squirrel stew</Russian>
+           <German>Squirrel stew</German>
+           <French>Squirrel stew</French>
+           <Italian>Squirrel stew</Italian>
+           <Portuguese>Squirrel stew</Portuguese>
+           <Polish>Squirrel stew</Polish>
+           <Chinesesimp>Squirrel stew</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_strange_meat">
+           <Original>Strange meat</Original>
+           <Czech>Strange meat</Czech>
+           <Spanish>Strange meat</Spanish>
+           <Russian>Strange meat</Russian>
+           <German>Strange meat</German>
+           <French>Strange meat</French>
+           <Italian>Strange meat</Italian>
+           <Portuguese>Strange meat</Portuguese>
+           <Polish>Strange meat</Polish>
+           <Chinesesimp>Strange meat</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_strange_meat_pie">
+           <Original>Strange meat pie</Original>
+           <Czech>Strange meat pie</Czech>
+           <Spanish>Strange meat pie</Spanish>
+           <Russian>Strange meat pie</Russian>
+           <German>Strange meat pie</German>
+           <French>Strange meat pie</French>
+           <Italian>Strange meat pie</Italian>
+           <Portuguese>Strange meat pie</Portuguese>
+           <Polish>Strange meat pie</Polish>
+           <Chinesesimp>Strange meat pie</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_sugar_bombs">
+           <Original>Sugar Bombs</Original>
+           <Czech>Sugar Bombs</Czech>
+           <Spanish>Sugar Bombs</Spanish>
+           <Russian>Sugar Bombs</Russian>
+           <German>Sugar Bombs</German>
+           <French>Sugar Bombs</French>
+           <Italian>Sugar Bombs</Italian>
+           <Portuguese>Sugar Bombs</Portuguese>
+           <Polish>Sugar Bombs</Polish>
+           <Chinesesimp>Sugar Bombs</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_thick_red_paste">
+           <Original>Thick red paste</Original>
+           <Czech>Thick red paste</Czech>
+           <Spanish>Thick red paste</Spanish>
+           <Russian>Thick red paste</Russian>
+           <German>Thick red paste</German>
+           <French>Thick red paste</French>
+           <Italian>Thick red paste</Italian>
+           <Portuguese>Thick red paste</Portuguese>
+           <Polish>Thick red paste</Polish>
+           <Chinesesimp>Thick red paste</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_thin_red_paste">
+           <Original>Thin red paste</Original>
+           <Czech>Thin red paste</Czech>
+           <Spanish>Thin red paste</Spanish>
+           <Russian>Thin red paste</Russian>
+           <German>Thin red paste</German>
+           <French>Thin red paste</French>
+           <Italian>Thin red paste</Italian>
+           <Portuguese>Thin red paste</Portuguese>
+           <Polish>Thin red paste</Polish>
+           <Chinesesimp>Thin red paste</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_trail_mix">
+           <Original>Trail mix</Original>
+           <Czech>Trail mix</Czech>
+           <Spanish>Trail mix</Spanish>
+           <Russian>Trail mix</Russian>
+           <German>Trail mix</German>
+           <French>Trail mix</French>
+           <Italian>Trail mix</Italian>
+           <Portuguese>Trail mix</Portuguese>
+           <Polish>Trail mix</Polish>
+           <Chinesesimp>Trail mix</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_wasteland_omelet">
+           <Original>Wasteland omelet</Original>
+           <Czech>Wasteland omelet</Czech>
+           <Spanish>Wasteland omelet</Spanish>
+           <Russian>Wasteland omelet</Russian>
+           <German>Wasteland omelet</German>
+           <French>Wasteland omelet</French>
+           <Italian>Wasteland omelet</Italian>
+           <Portuguese>Wasteland omelet</Portuguese>
+           <Polish>Wasteland omelet</Polish>
+           <Chinesesimp>Wasteland omelet</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_white_horsenettle">
+           <Original>White horsenettle</Original>
+           <Czech>White horsenettle</Czech>
+           <Spanish>White horsenettle</Spanish>
+           <Russian>White horsenettle</Russian>
+           <German>White horsenettle</German>
+           <French>White horsenettle</French>
+           <Italian>White horsenettle</Italian>
+           <Portuguese>White horsenettle</Portuguese>
+           <Polish>White horsenettle</Polish>
+           <Chinesesimp>White horsenettle</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_xander_root">
+           <Original>Xander root</Original>
+           <Czech>Xander root</Czech>
+           <Spanish>Xander root</Spanish>
+           <Russian>Xander root</Russian>
+           <German>Xander root</German>
+           <French>Xander root</French>
+           <Italian>Xander root</Italian>
+           <Portuguese>Xander root</Portuguese>
+           <Polish>Xander root</Polish>
+           <Chinesesimp>Xander root</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_yao_guai_meat">
+           <Original>Yao guai meat</Original>
+           <Czech>Yao guai meat</Czech>
+           <Spanish>Yao guai meat</Spanish>
+           <Russian>Yao guai meat</Russian>
+           <German>Yao guai meat</German>
+           <French>Yao guai meat</French>
+           <Italian>Yao guai meat</Italian>
+           <Portuguese>Yao guai meat</Portuguese>
+           <Polish>Yao guai meat</Polish>
+           <Chinesesimp>Yao guai meat</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_yumyum_deviled_eggs">
+           <Original>YumYum Deviled Eggs</Original>
+           <Czech>YumYum Deviled Eggs</Czech>
+           <Spanish>YumYum Deviled Eggs</Spanish>
+           <Russian>YumYum Deviled Eggs</Russian>
+           <German>YumYum Deviled Eggs</German>
+           <French>YumYum Deviled Eggs</French>
+           <Italian>YumYum Deviled Eggs</Italian>
+           <Portuguese>YumYum Deviled Eggs</Portuguese>
+           <Polish>YumYum Deviled Eggs</Polish>
+           <Chinesesimp>YumYum Deviled Eggs</Chinesesimp>
+       </Key>
