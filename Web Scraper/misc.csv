@@ -1,0 +1,335 @@
+Name,Weight,Value,V:W,QI,Related quest,Component in,Form ID
+$5 NCR,0,2,∞,,-,-,00176AC6 0013A4D6
+$20 NCR,0,8,∞,,-,-,00176AC8 0013A4D7
+$100 NCR,0,40,∞,,-,-,00176AC9 0013A4D8
+10-ball,1,2,2,,-,-,0002B41B
+13-ball,1,2,2,,-,-,0002B41D
+2-ball,1,2,2,,-,-,0002B415
+5-ball,1,2,2,,-,-,0002B417
+8-ball,1,2,2,,-,-,0002B419
+Abraxo cleaner,1,5,5,,-,"Cosmic knife clean, Cloud Kiss, Knife spear clean, Nuka-grenade",00022106
+Acoustic guitar,3,50,17,,-,-,00168A6C
+Ashtray,1,1,1,,-,-,00034057
+Automatic surgical unit,0,30,∞,,"Et Tumor, Brute?",-,001252D1
+Bag of bottle caps (Grecks),0,1,∞,,Debt Collector,-,00127227
+Bag of bottle caps (Lady Jane),0,1,∞,,Debt Collector,-,00127226
+Bag of bottle caps (Santiago),0,1,∞,,Debt Collector,-,00127225
+Bark scorpion poison gland,1,35,35,,-,"Bleak venom, Mother Darkness, Silver Sting",0013B2AF
+Barnabas bear,1,3,3,,-,-,0013ABDC
+Baseball glove,1,4,4,,-,-,0002B410
+Baseball,1,2,2,,-,-,0002B40B
+Basketball,1,1,1,,-,-,0002B40E
+Bent tin can,1,1,1,,Dealing with Contreras,-,0005B6CA
+Big spoon,1,1,1,,-,-,0005B640
+Bobby pin,0,1,∞,,-,-,0000000A
+Bonesaw,2,5,3,,Restoring Hope,-,000250A3
+Bottle cap,0,1,∞,,-,Bottlecap mine,0000000F
+Box of detergent,1,1,1,,-,"Homemade flamer fuel, Rocket",0003406F
+Brahmin skull,2,1,1,,-,-,0003405E
+Broken sentry bot toy,0,0,0,,-,-,00140CA1
+Brotherhood of Steel holotag,0,1,∞,,-,-,0001EDC5
+Butter knife (common),1,1,1,,-,Scrap metal,0005B639
+Butter knife (uncommon),1,1,1,,-,Scrap metal,0005B63A
+Camera,1,5,5,,-,-,00034062
+Camp Forlorn Hope supply shipment,0,0,0,,Restoring Hope,-,00122005
+Caravan deck,1,0,0,,-,-,0015F8C3
+Carton of cigarettes,2,40,20,,-,-,00034068
+"Case box, .308",1,7,7,,-,"Case, .308",00166D55
+"Case box, .357 Magnum",1,7,7,,-,"Case, .357 Magnum",00166D53
+"Case box, .44 Magnum",1,7,7,,-,"Case, .44 Magnum",00166D54
+"Case box, .45-70 Gov't",1,10,10,,-,"Case, .45-70 Gov't",00166D57
+"Case box, .50 MG",1,14,14,,-,"Case, .50 MG",00166D56
+"Case box, 10mm",1,7,7,,-,"Case, 10mm",00166D4E
+"Case box, 12.7mm",1,7,7,,-,"Case, 12.7mm",00166D4F
+"Case box, 5.56mm",1,7,7,,-,"Case, 5.56mm",00166D52
+"Case box, 5mm",1,5,5,,-,"Case, 5mm",00166D51
+"Case box, 9mm",1,7,7,,-,"Case, 9mm",00166D50
+"Case, .308",0,0,0,,-,.308 round,00140AA5
+"Case, .357 Magnum",0,0,0,,-,.357 Magnum round,00140AA2
+"Case, .44 Magnum",0,0,0,,-,.44 Magnum round,00140AA3
+"Case, .45-70 Gov't",0,0,0,,-,.45-70 Gov't,00140AA4
+"Case, .50 MG",0,0,0,,-,.50 MG Round,00140AA6
+"Case, 10mm",0,0,0,,-,10mm round,00140AA7
+"Case, 12.7mm",0,0,0,,-,12.7mm round,001429D3
+"Case, 5.56mm",0,0,0,,-,5.56mm round,00140ADF
+"Case, 5mm",0,0,0,,-,5mm round,00140ADE
+"Case, 9mm",0,0,0,,-,9mm round,00140ADD
+Cazador poison gland,1,85,85,,-,"Mother Darkness, Silver Sting, turbo",0013B2B0
+Centaur blood,0,15,∞,,-,-,0015D9AF
+Ceramic dinner plate,1,3,3,,-,-,000340A0
+Charlie station supply manifest,0,0,0,,-,-,001210FB
+Cherry bomb,0,5,∞,,-,Bottlecap mine,00022108
+Chessboard,1,1,1,,-,-,0009A809
+Chewed Stealth Boy,0,0,0,,Guess Who I Saw Today,-,00147748
+Cigarette,0,1,∞,,-,-,0005B52C
+Clipboard,1,1,1,,-,-,00025238
+Coffee mug,1,1,1,,-,Black coffee,0003406C
+Coffee pot,1,1,1,,Dealing with Contreras,Black coffee,00025421
+Conductor,5,30,6,,-,Rocket,00022102
+Container of chlorine,0,45,∞,,How Little We Know,-,0011ED81
+Cook-Cook's head,0,1,∞,,Three-Card Bounty,-,000F81BF
+Cook-Cook's mangled head,0,1,∞,,Three-Card Bounty,-,00104174
+Counterfeit bottle cap,0,0,0,,-,-,00157381
+Counterfeit passport,0,1,∞,,"Papers, Please",-,00115CD4
+Coyote hide,0,7,∞,,-,Leather belt,0015D9B0
+Crutch,2,5,2.5,,-,-,0001B01F
+Cuddles' toy car,1,5,5,,-,-,000E810F
+Cue ball,1,3,3,,-,-,0002B41F
+Cup,1,1,1,,-,-,0003407B
+Cutting board,1,1,1,,-,-,0003406E
+Damaged garden gnome,4,1,0.25,,-,-,0005B635
+Deathclaw egg,7,400,57,,You Gotta Break Out a Few Eggs,Wasteland omelet,000E6627
+Deathclaw hand,1,75,75,,-,-,0002210B
+Deployable ballast,5,30,6,,Volare!,-,00100634
+Differential pressure controller,0,0,0,,Still in the Dark,-,001632E0
+Dinky the T-Rex souvenir,0.1,1,10,,-,-,0008E664
+Dinner plate,1,1,1,,-,-,0005B59F
+Dino toy,0,0,0,,-,-,000CD18B
+Disassembled weapons shipment,0,4996,∞,,How Little We Know,-,0011F55A
+Distinctive cigarette butt,0,1,∞,,Ring-a-Ding-Ding!,-,00115F04
+Dog bowl,1,1,1,,-,-,00034070
+Dog hide,0,4,∞,,-,Leather belt,0015D9B1
+Doggie treat,1,1,1,,-,-,0015D914
+Drained electron charge pack,0,0,0,,-,Electron charge pack,0015C62A
+Drained flamer fuel tank,0,0,0,,-,Flamer fuel,0015C631
+Drained microfusion cell,0,0,0,,-,Microfusion cell,0015C629
+Drained small energy cell,0,0,0,,-,Energy cell,0012115E
+Drinking glass,1,1,1,,-,-,0005B633
+Driver Nephi's head,0,1,∞,,Three-Card Bounty,-,000F81C0
+Driver Nephi's mangled head,0,1,∞,,Three-Card Bounty,-,00104175
+Drug chemicals,0,100,∞,,Don't Make a Beggar of Me,-,000E7C18
+Duct tape,1,5,5,,-,"Time bomb, Weapon repair kit, powder charge, cosmic knife spear, gas bomb, knife spear",0013B2B2
+Earnings clipboard,1,1,1,,-,-,00025237
+Egg timer,1,1,1,,-,Time bomb,0013B2B3
+Empty hydra syringe,0,0,0,,Medical Mystery,-,0012B039
+Empty Jet inhaler,0,0,0,,-,-,0011C0E6
+Empty Nuka-Cola bottle,1,2,2,,-,Purified water,00022103
+Empty soda bottle,1,1,1,,-,Cactus water,0009AA4E
+Empty Sunset Sarsaparilla bottle,1,2,2,,-,Homebrewed Sunset Sarsaparilla,00103B1B
+Empty Sunset Sarsaparilla bottle (no float),1,2,2,,-,Homebrewed Sunset Sarsaparilla,00170F87
+Empty syringe,0.005,8,1600,,-,Stimpak,000250A8
+Empty whiskey bottle,1,1,1,,-,Wasteland tequila,0005B6CE
+Engraved cigarette lighter,0,1,∞,,Ring-a-Ding-Ding!,-,00115F05
+Erasmus' logbook,0,0,0,,-,-,001210FD
+Ericsen's log,0,0,0,,-,-,001210FA
+Evil gnome,5,1,0.2,,-,-,000EB40B
+Explosive charge,5,30,6,,I Put a Spell on You,-,000F827F
+Finance clipboard,1,1,1,,-,-,00025236
+Finger,0,1,∞,,-,-,000604DE
+Fire gecko egg,3,65,22,,Bleed Me Dry,-,0015E5BE
+Fire gecko hide,1,25,25,,-,"Tanned fire gecko hide, Leather belt",0013B2B7
+Firehose nozzle,1,5,5,,Not Worth a Hill of Corn and Beans,-,00022101
+Fission battery,6,75,13,,-,"Moonshine, Sierra Madre chip",00033BC6
+Flour,1,2,2,,-,"Brahmin Wellington, fire ant fricassée",00074EE1
+Food additive,0,0,0,,Not Worth a Hill of Corn and Beans,-,000EFAE0
+Food sanitizer,7,150,22,,-,-,0002D3A5
+Forceps,1,5,5,,-,Doctor's bag,000250A7
+Fork,0.5,1,2,,-,Scrap metal,00034078
+GBRM2KX memory chip,0,0,0,,Return to Sender,-,001210FC
+Gecko egg,1,10,10,,-,-,0015E5BD
+Gecko hide,1,10,10,,-,"Tanned gecko hide, Leather belt",0013B2B5
+Glass pitcher,1,1,1,,-,Mass purified water,0005B636
+Golden gecko egg,1,50,50,,-,-,0015E5BF
+Golden gecko hide,1,20,20,,-,"Tanned golden gecko hide, Leather belt",0013B2B6
+Golf ball,0.1,1,10,,-,-,001175A2
+Great Khan supply cache,10,0,0,,"No, Not Much",-,00130D0C
+Green plate,1,1,1,,-,-,0005B63F
+Hammer,2,3,1,,-,-,0005B637
+Harmonica,1,2,1,,-,-,0005B638
+HEPA 20 cartridge filter,0,0,0,,Still in the Dark,-,001632E2
+Highly suspicious package,0,0,0,,Aba Daba Honeymoon,-,001466A9
+Hot plate,2,5,3,,-,Cosmic knife super-heated,0005516B
+Howitzer firing mechanism,1,1,1,,I Hear You Knocking,-,00125C30
+"Hull box, 12 Ga.",1,7,7,,-,-,00173F81
+"Hull box, 20 Ga.",1,5,5,,-,-,00173F82
+"Hull, 12 gauge",0,0,0,,-,12 gauge shotgun shell,00140AEB
+"Hull, 20 gauge",0,0,0,,-,20 gauge shotgun shell,00140AEA
+Infected brahmin meat,5,1,0.2,,-,-,00129D1D
+Intact garden gnome,5,1,0.2,,-,-,0005B634
+Iron,5,2,0.4,,Dealing with Contreras,-,00034088
+Irradiated NCR dogtag,0,1,∞,,We Will All Go Together,-,0013FE77
+Isotope-239 igniting agent,0,0,0,,Come Fly With Me,-,000B1DF4
+Boomer outfit for Janet,0,0,0,,Young Hearts,-,00107AF3
+"Jar, pistol powder",1,2,2,,-,-,0016665D
+"Jar, rifle powder",1,5,5,,-,-,0016665C
+Keyring,0,0,0,,-,-,-
+Large burned book,1,1,1,,-,Blank book,000A9E6C
+Large destroyed book,1,1,1,,-,Blank book,000A9E6F
+Large ruined book,1,1,1,,-,Blank book,000A9E6D
+Large scorched book,1,1,1,,-,Blank book,000A9E6E
+Large whiskey bottle,2,5,3,,-,Large wasteland tequila,0005B6CD
+Lawn mower blade,2,10,5,,-,-,00025E03
+Lead,0.001*,0,0,,-,(All projectile ammunition),00140C2F
+Leaf blower,2,15,8,,-,-,00022100
+Leather belt,1,5,5,,-,Super stimpak,0002210C
+Legion Aureus,0.02,100,5000,,-,-,00176AC7 0013A4D9
+Legion Denarius,0.01,4,400,,-,12 Ga. coin shot,00176AC4 00137B9D
+"Legion Denarius, mangled",0.01,3,300,,-,-,00176AC5 00173236
+Legion ear,0,1,∞,,An Ear to the Ground,-,00125F4C
+Legion patrol notes,0,100,∞,,Eye for an Eye,-,001349C2
+Legion raid plans,0,100,100,,Eye for an Eye,-,001343E8
+Legion slave ledger,0,1,∞,,Oh My Papa,-,00144674
+Lineholm's log,0,0,0,,-,-,001210F9
+Lottery ticket,0,1,∞,,-,-,0015FE13
+Lottery ticket,0,10,∞,,-,-,0015FE47
+Lunchbox,1,3,3,,-,"Bottlecap mine, caravan lunch",00022107
+Lupa's brain,0,0,0,,Nothin' But a Hound Dog,-,0013D851
+Mantis egg,0,0,0,,Bleed Me Dry,-,000EF40D
+Mantis egg,1,12,12,,-,-,0015E5C0
+Mantis foreleg,0,1,∞,,-,Grilled mantis leg,000EE6CC
+Mark of Caesar,0,1,∞,,Render Unto Caesar,-,001374AE
+Marked cards,0,0,0,,Keith's Caravan Charade,-,000FB0E9
+Medical brace,2,1,0.5,,-,Doctor's bag,0003A73A
+Medical brace,2,10,5,,-,Doctor's bag,0002210D
+Medical clipboard,1,1,1,,-,-,00025235
+Metal cooking pan,1,5,5,,Dealing with Contreras,Scrap metal,0003409C
+Metal cooking pot,1,1,1,,Dealing with Contreras,Scrap metal,000340A7
+Metal spoon,0.5,1,2,,-,Scrap metal,000340BC
+Microphone and stand,0,0,0,,-,,00127C6B
+Mildly suspicious package,0,0,0,,Birds of a Feather Aba Daba Honeymoon,-,001466A8
+Milk bottle,1,1,1,,-,-,0005B63B
+Mister Cuddles,1,3,3,,Bear Necessities,-,00104A2D
+Motorcycle gas tank,5,25,5,,-,-,000220FB
+Motorcycle handbrake,1,15,15,,-,-,000220FE
+Mutilated arm,2,0,0,,-,-,0006EEE7
+Mutilated leg,2,0,0,,-,-,0006F2D8
+Mutilated organs,2,0,0,,-,-,0006F2D9
+Mutilated skull,2,0,0,,-,-,00074170
+Mutilated torso,2,0,0,,-,-,0006F2DA
+NCR 10mm pistol,1,5,5,,Wheel of Fortune,-,001482FA
+NCR 9mm submachine gun,1,5,5,,Wheel of Fortune,-,001482FB
+NCR bug,1,1,1,,Eye for an Eye,-,00135A3B
+NCR computer parts,1,5,5,,Wheel of Fortune,-,001482F9
+NCR computer parts,1,15,15,,Wheel of Fortune,-,001482F7
+NCR dogtag,0,1,∞,,Arizona Scavenger Tags of Our Fallen,Dog tag fist,00123054
+NCR frag grenade,1,5,5,,Wheel of Fortune,-,001482F5
+NCR grenade rifle,1,5,5,,Wheel of Fortune,-,001482FC
+NCR radio parts,1,5,5,,Wheel of Fortune,-,001482F8
+NCR radio parts,1,15,15,,Wheel of Fortune,-,001482F6
+New Vegas passport,0,1,∞,,-,-,001161E9
+Nightstalker blood,1,5,5,,-,"Antivenom, hydra",0013B2B8
+Nightstalker egg,2,45,23,,-,Mushroom Cloud,0015E5C1
+Nuka-Cola truck,2,5,3,,-,-,00029171
+Old Legion patrol notes,0,0,0,,Eye for an Eye,-,00135128
+Old Legion raid plans,0,0,0,,Eye for an Eye,-,00135129
+Ophthalmascope,1,4,4,,-,-,0005F183
+Override chip,0,1,1,,"The House Always Wins, VII, Wild Card: Finishing Touches",-,001554ED
+Pack of cigarettes,0.5,10,20,,-,-,00034069
+Paint gun,5,15,3,,-,-,0002210E
+Paperweight,1,1,1,,-,-,0003409D
+Pencil,0,1,∞,,-,-,0005B63C
+Pile of cazador eggs,0,0,0,,Bleed Me Dry,-,001378E8
+Pile of deathclaw eggs,10,2500,250,,Bleed Me Dry,-,001378E9
+Pile of fire gecko eggs,0,0,0,,Bleed Me Dry,-,001378E6
+Pile of giant mantis eggs,0,0,0,,Bleed Me Dry,-,0013494E
+Pile of night stalker eggs,0,0,0,,Bleed Me Dry,Mushroom Cloud,001378E7
+Pile of radscorpion eggs,0,0,0,,Bleed Me Dry,-,001378EA
+Pilot light,1,14,14,,-,Gas bomb,000220FC
+Ping pong ball,0.1,1,10,,-,-,0011836D
+Platinum chip,0,1,∞,,The House Always Wins,-,0011678E
+Plunger,1,1,1,,-,-,000340A4
+Pool ball,1,2,2,,-,-,0002B412
+Pot,2,0,0,,Dealing with Contreras,Scrap metal,0002541B
+"Powder, pistol",0,0,0,,-,(Various pistol ammunition),00140AB2
+"Powder, rifle",0,0,0,,-,(Various rifle ammunition),00140AB3
+Pressure cooker,5,15,3,,-,-,00022113
+Pretty Pretty Horsies: A History of the Mongol Empire,0,1,∞,,Oh My Papa,-,00148C25
+Pre-War book,1,1,1,,-,Blank book,000C5D24
+Pre-War book,1,1,1,,-,Blank book,000FC9C0
+Pre-War book,1,1,1,,-,Blank book,000FC9BA 000FC9BF
+Pre-War book,1,5,5,,-,Blank book,000943F2
+Pre-War money,0,10,∞,,-,-,00034067
+"Primer box, .50 MG",1,12,12,,-,-,00166656
+"Primer box, large pistol",1,7,7,,-,-,00166658
+"Primer box, large rifle",1,10,10,,-,-,00166657
+"Primer box, shotshell",1,5,5,,-,-,00173F7E
+"Primer box, small pistol",1,5,5,,-,-,0016665B
+"Primer box, small rifle",1,7,7,,-,-,00166659
+"Primer, .50 MG",0,0,0,,-,(Various rifle ammunition),00140AAC
+"Primer, large pistol",0,0,0,,-,(Various pistol ammunition),00140AAA
+"Primer, large rifle",0,0,0,,-,(Various rifle ammunition),00140AAB
+"Primer, shotshell",0,0,0,,-,(Various buckshot ammunition),00140AEC
+"Primer, small pistol",0,0,0,,-,(Various pistol ammunition),00140AA9
+"Primer, small rifle",0,0,0,,-,(Various rifle ammunition),00140AE0
+Radiation suit package,1,5,5,,Wheel of Fortune,-,00146618
+Radioactive supply cache,10,0,0,,"No, Not Much",-,00130D0B
+Radscorpion egg,2,5,3,,-,-,0015E5C2
+Radscorpion poison gland,1,25,25,,Gland for Some Home Cooking,"Antivenom, hydra, Ruby's casserole, Silver Sting, Tremble",0002210F
+Rake,2,1,1,,-,-,000340AD
+Ralph's sexbot holodisk,1,1,1,,Wang Dang Atomic Tango,-,0011F8C0
+Recipes - Brahmin Wellington,0,100,∞,,-,-,00175AAC
+Recipes - Cook-Cook's Fiend stew,0,400,∞,,-,-,00175AB2
+Recipes - Ruby's spicy casserole,0,100,∞,,-,-,001613D3
+Red plate,1,1,1,,-,-,0005B63E
+Redundant failsafe detonator,0,0,0,,You'll Know It When It Happens,-,00137AD6
+Remote signal transmitter,0,0,0,,Eyesight to the Blind,-,001638F1
+Reverse pulse cleaner,0,0,0,,Still in the Dark,-,001632E1
+Rey's brain,0,0,0,,Nothin' But a Hound Dog,-,0013D852
+Rocket souvenir,0,3,∞,,Come Fly With Me,-,0008E665
+Scalpel,1,8,8,,-,Doctor's bag,000250A5
+Schematics - billboard,0,50,∞,,-,-,0011A581
+Schematics - mantis scythe,0,800,∞,,-,-,000EFB3C
+Schematics - powder charge,0,300,∞,,-,-,0017509C
+Scissors,1,3,3,,-,-,000250A4
+Scrap electronics,1,1,1,,-,"Time bomb, Weapon repair kit, gas bomb",0013B2B1
+Scrap metal,1,1,1,,"Dealing with Contreras, Iron and Stealing","Weapon repair kit, Lead, Sierra Madre chip",00031944
+Sensor module,2,30,15,,-,"Bottlecap mine, powder charge, gas bomb",00022109
+Sentry bot toy,0,0,0,,-,-,00140CA2
+Sergeant Teddy,1,1,1,,Saving (or Savaging) Sergeant Teddy,-,001367FB
+Sheet music book,1,100,100,,-,-,0006835F
+Shot glass,1,1,1,,-,-,000340B5
+Small burned book,1,1,1,,-,Blank book,000A9E70
+Small destroyed book,1,1,1,,-,Blank book,000A9E6B
+Small ruined book,1,1,1,,-,Blank book,000A9E69
+Small scorched book,1,1,1,,-,Blank book,000A9E6A
+Snow globe - Goodsprings,0,2000,0,,Useless Baubles or Fancy Trinkets?,-,0015DB3A
+Snow globe - Hoover Dam,0,2000,0,,Useless Baubles or Fancy Trinkets?,-,0015DB39
+Snow globe - Mormon Fort,0,2000,0,,Useless Baubles or Fancy Trinkets?,-,0015DB37
+Snow globe - Mt. Charleston,0,2000,0,,Useless Baubles or Fancy Trinkets?,-,0015DB38
+Snow globe - Nellis AFB,0,2000,0,,Useless Baubles or Fancy Trinkets?,-,0015DB3C
+Snow globe - Test Site,0,2000,0,,Useless Baubles or Fancy Trinkets?,-,0015DB3B
+Snow globe - The Strip,0,2000,0,,Useless Baubles or Fancy Trinkets?,-,0015DB3D
+Solar array parts,0,0,0,,Sunshine Boogie,-,0015ECD6
+Sonic emitter,5,30,6,,Ant Misbehavin',-,0010417F
+Spare medical supplies,0,100,∞,,Run Goodsprings Run,-,0015EF9C
+Spatula,1,1,1,,-,-,000340BB
+Spork,0.5,1,2,,-,-,0005B641
+Steam gauge assembly,10,25,3,,Not Worth a Hill of Corn and Beans,-,00022112
+Stress and the Modern Refugee: A Primer,1,20,20,,Bitter Springs Infirmary Blues,-,00134995
+Sunset Sarsaparilla bottle,1,1,1,,-,-,0010A1F6
+Sunset Sarsaparilla deputy badge,0,0,0,,-,-,0010291C
+Sunset Sarsaparilla star bottle cap,0,1,∞,,The Legend of the Star,-,00103B1C
+Surgical tools,1,1000,1000,,"Et Tumor, Brute?",-,00157249
+Surgical tubing,1,10,10,,-,"Doctor's bag, mass purified water, Snakebite tourniquet",00022111
+Suspicious package,0,0,0,,Flags of Our Foul-Ups,-,001482D5
+Tanned fire gecko hide,1,125,125,,-,"Gecko-backed metal armor, Gecko-backed metal armor, reinforced, Gecko-backed leather armor, Gecko-backed leather armor, reinforced",0013D52D
+Tanned gecko hide,1,50,50,,-,-,0013D52F
+Tanned golden gecko hide,1,250,250,,-,"Gecko-backed metal armor, Gecko-backed metal armor, reinforced, Gecko-backed leather armor, Gecko-backed leather armor, reinforced",0013D52E
+Ted Gunderson's blood,0,1,∞,,Beyond the Beef,-,00125AF1
+Teddy bear,1,3,3,,-,-,0001F21F
+Teddy bear,1,3,3,,The Coyotes,-,000F8891
+Thermite,0,0,0,,How Little We Know,-,0011BC7E
+Thrust control modules,0,0,0,,Come Fly With Me,-,00087AEA
+Thrust control modules,1,100,100,,-,-,000842D7
+Tin can,1,1,1,,Dealing with Contreras,"Powder charge, Junk Rounds, Sierra Madre martini",00022104
+Tin plate,1,1,1,,-,Scrap metal,0002541C
+"Tiny, Tiny Babies: All You Need to Know About Pediatric Medicine",1,20,20,,Bitter Springs Infirmary Blues,-,00134996
+Toaster,3,5,2,,-,-,0009A807
+Tommy Torini's business card,0,0,0,,Talent Pool,-,00116A3B
+Toy car,1,5,5,,-,-,000E810E
+Triangle,1,1,1,,-,-,0002C5F6
+Turpentine,2,10,5,,-,"Tanned fire gecko hide, tanned gecko hide, tanned golden gecko hide, turbo, Cloud Kiss",00022105
+Tweezers,1,3,3,,-,-,000250A6
+Vacuum cleaner,10,20,2,,-,-,000220FF
+Van Graff package,0,0,0,,Birds of a Feather,-,001251CB
+Vault 13 canteen,0,1,∞,,-,-,001735D2
+Vertibird bomb,0,0,0,,Arizona Killer,-,0013C6F9
+Violet's head,0,1,∞,,Three-Card Bounty,-,000F81BE
+Violet's mangled head,0,1,∞,,Three-Card Bounty,-,00104173
+Violetta's brain,0,0,0,,Nothin' But a Hound Dog,-,0013E5BA
+Whet stone,1,4,4,,-,-,0005B6CB
+White plate,1,1,1,,-,-,0005B63D
+Wonderglue,1,10,10,,-,Weapon repair kit,0002210A
+Wood chipper,50,25,0.5,,-,-,0007CBCC
+Wrench,1,1,1,,-,Weapon repair kit,0005B6D0
+Yeast,1,2,2,,-,Moonshine,0016163C

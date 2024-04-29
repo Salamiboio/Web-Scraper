@@ -1,0 +1,4008 @@
+    class 5_ncr {
+        variable = "5_ncr";
+        displayName = "STR_Item_5_ncr";
+        weight = 0;
+        buyPrice = 2;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_5_ncr.paa";
+    };
+
+    class 20_ncr {
+        variable = "20_ncr";
+        displayName = "STR_Item_20_ncr";
+        weight = 0;
+        buyPrice = 8;
+        sellPrice = 3;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_20_ncr.paa";
+    };
+
+    class 100_ncr {
+        variable = "100_ncr";
+        displayName = "STR_Item_100_ncr";
+        weight = 0;
+        buyPrice = 40;
+        sellPrice = 14;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_100_ncr.paa";
+    };
+
+    class 10_ball {
+        variable = "10_ball";
+        displayName = "STR_Item_10_ball";
+        weight = 1;
+        buyPrice = 2;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_10_ball.paa";
+    };
+
+    class 13_ball {
+        variable = "13_ball";
+        displayName = "STR_Item_13_ball";
+        weight = 1;
+        buyPrice = 2;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_13_ball.paa";
+    };
+
+    class 2_ball {
+        variable = "2_ball";
+        displayName = "STR_Item_2_ball";
+        weight = 1;
+        buyPrice = 2;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_2_ball.paa";
+    };
+
+    class 5_ball {
+        variable = "5_ball";
+        displayName = "STR_Item_5_ball";
+        weight = 1;
+        buyPrice = 2;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_5_ball.paa";
+    };
+
+    class 8_ball {
+        variable = "8_ball";
+        displayName = "STR_Item_8_ball";
+        weight = 1;
+        buyPrice = 2;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_8_ball.paa";
+    };
+
+    class abraxo_cleaner {
+        variable = "abraxo_cleaner";
+        displayName = "STR_Item_abraxo_cleaner";
+        weight = 1;
+        buyPrice = 5;
+        sellPrice = 2;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_abraxo_cleaner.paa";
+    };
+
+    class acoustic_guitar {
+        variable = "acoustic_guitar";
+        displayName = "STR_Item_acoustic_guitar";
+        weight = 3;
+        buyPrice = 50;
+        sellPrice = 17;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_acoustic_guitar.paa";
+    };
+
+    class ashtray {
+        variable = "ashtray";
+        displayName = "STR_Item_ashtray";
+        weight = 1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_ashtray.paa";
+    };
+
+    class automatic_surgical_unit {
+        variable = "automatic_surgical_unit";
+        displayName = "STR_Item_automatic_surgical_unit";
+        weight = 0;
+        buyPrice = 30;
+        sellPrice = 10;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_automatic_surgical_unit.paa";
+    };
+
+    class bag_of_bottle_caps_(grecks) {
+        variable = "bag_of_bottle_caps_(grecks)";
+        displayName = "STR_Item_bag_of_bottle_caps_(grecks)";
+        weight = 0;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_bag_of_bottle_caps_(grecks).paa";
+    };
+
+    class bag_of_bottle_caps_(lady_jane) {
+        variable = "bag_of_bottle_caps_(lady_jane)";
+        displayName = "STR_Item_bag_of_bottle_caps_(lady_jane)";
+        weight = 0;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_bag_of_bottle_caps_(lady_jane).paa";
+    };
+
+    class bag_of_bottle_caps_(santiago) {
+        variable = "bag_of_bottle_caps_(santiago)";
+        displayName = "STR_Item_bag_of_bottle_caps_(santiago)";
+        weight = 0;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_bag_of_bottle_caps_(santiago).paa";
+    };
+
+    class bark_scorpion_poison_gland {
+        variable = "bark_scorpion_poison_gland";
+        displayName = "STR_Item_bark_scorpion_poison_gland";
+        weight = 1;
+        buyPrice = 35;
+        sellPrice = 12;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_bark_scorpion_poison_gland.paa";
+    };
+
+    class barnabas_bear {
+        variable = "barnabas_bear";
+        displayName = "STR_Item_barnabas_bear";
+        weight = 1;
+        buyPrice = 3;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_barnabas_bear.paa";
+    };
+
+    class baseball_glove {
+        variable = "baseball_glove";
+        displayName = "STR_Item_baseball_glove";
+        weight = 1;
+        buyPrice = 4;
+        sellPrice = 2;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_baseball_glove.paa";
+    };
+
+    class baseball {
+        variable = "baseball";
+        displayName = "STR_Item_baseball";
+        weight = 1;
+        buyPrice = 2;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_baseball.paa";
+    };
+
+    class basketball {
+        variable = "basketball";
+        displayName = "STR_Item_basketball";
+        weight = 1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_basketball.paa";
+    };
+
+    class bent_tin_can {
+        variable = "bent_tin_can";
+        displayName = "STR_Item_bent_tin_can";
+        weight = 1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_bent_tin_can.paa";
+    };
+
+    class big_spoon {
+        variable = "big_spoon";
+        displayName = "STR_Item_big_spoon";
+        weight = 1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_big_spoon.paa";
+    };
+
+    class bobby_pin {
+        variable = "bobby_pin";
+        displayName = "STR_Item_bobby_pin";
+        weight = 0;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_bobby_pin.paa";
+    };
+
+    class bonesaw {
+        variable = "bonesaw";
+        displayName = "STR_Item_bonesaw";
+        weight = 2;
+        buyPrice = 5;
+        sellPrice = 2;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_bonesaw.paa";
+    };
+
+    class bottle_cap {
+        variable = "bottle_cap";
+        displayName = "STR_Item_bottle_cap";
+        weight = 0;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_bottle_cap.paa";
+    };
+
+    class box_of_detergent {
+        variable = "box_of_detergent";
+        displayName = "STR_Item_box_of_detergent";
+        weight = 1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_box_of_detergent.paa";
+    };
+
+    class brahmin_skull {
+        variable = "brahmin_skull";
+        displayName = "STR_Item_brahmin_skull";
+        weight = 2;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_brahmin_skull.paa";
+    };
+
+    class broken_sentry_bot_toy {
+        variable = "broken_sentry_bot_toy";
+        displayName = "STR_Item_broken_sentry_bot_toy";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_broken_sentry_bot_toy.paa";
+    };
+
+    class brotherhood_of_steel_holotag {
+        variable = "brotherhood_of_steel_holotag";
+        displayName = "STR_Item_brotherhood_of_steel_holotag";
+        weight = 0;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_brotherhood_of_steel_holotag.paa";
+    };
+
+    class butter_knife_(common) {
+        variable = "butter_knife_(common)";
+        displayName = "STR_Item_butter_knife_(common)";
+        weight = 1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_butter_knife_(common).paa";
+    };
+
+    class butter_knife_(uncommon) {
+        variable = "butter_knife_(uncommon)";
+        displayName = "STR_Item_butter_knife_(uncommon)";
+        weight = 1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_butter_knife_(uncommon).paa";
+    };
+
+    class camera {
+        variable = "camera";
+        displayName = "STR_Item_camera";
+        weight = 1;
+        buyPrice = 5;
+        sellPrice = 2;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_camera.paa";
+    };
+
+    class camp_forlorn_hope_supply_shipment {
+        variable = "camp_forlorn_hope_supply_shipment";
+        displayName = "STR_Item_camp_forlorn_hope_supply_shipment";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_camp_forlorn_hope_supply_shipment.paa";
+    };
+
+    class caravan_deck {
+        variable = "caravan_deck";
+        displayName = "STR_Item_caravan_deck";
+        weight = 1;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_caravan_deck.paa";
+    };
+
+    class carton_of_cigarettes {
+        variable = "carton_of_cigarettes";
+        displayName = "STR_Item_carton_of_cigarettes";
+        weight = 2;
+        buyPrice = 40;
+        sellPrice = 14;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_carton_of_cigarettes.paa";
+    };
+
+    class case_box,_.308 {
+        variable = "case_box,_.308";
+        displayName = "STR_Item_case_box,_.308";
+        weight = 1;
+        buyPrice = 7;
+        sellPrice = 3;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_case_box,_.308.paa";
+    };
+
+    class case_box,_.357_magnum {
+        variable = "case_box,_.357_magnum";
+        displayName = "STR_Item_case_box,_.357_magnum";
+        weight = 1;
+        buyPrice = 7;
+        sellPrice = 3;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_case_box,_.357_magnum.paa";
+    };
+
+    class case_box,_.44_magnum {
+        variable = "case_box,_.44_magnum";
+        displayName = "STR_Item_case_box,_.44_magnum";
+        weight = 1;
+        buyPrice = 7;
+        sellPrice = 3;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_case_box,_.44_magnum.paa";
+    };
+
+    class case_box,_.45_70_govt {
+        variable = "case_box,_.45_70_govt";
+        displayName = "STR_Item_case_box,_.45_70_govt";
+        weight = 1;
+        buyPrice = 10;
+        sellPrice = 4;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_case_box,_.45_70_govt.paa";
+    };
+
+    class case_box,_.50_mg {
+        variable = "case_box,_.50_mg";
+        displayName = "STR_Item_case_box,_.50_mg";
+        weight = 1;
+        buyPrice = 14;
+        sellPrice = 5;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_case_box,_.50_mg.paa";
+    };
+
+    class case_box,_10mm {
+        variable = "case_box,_10mm";
+        displayName = "STR_Item_case_box,_10mm";
+        weight = 1;
+        buyPrice = 7;
+        sellPrice = 3;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_case_box,_10mm.paa";
+    };
+
+    class case_box,_12.7mm {
+        variable = "case_box,_12.7mm";
+        displayName = "STR_Item_case_box,_12.7mm";
+        weight = 1;
+        buyPrice = 7;
+        sellPrice = 3;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_case_box,_12.7mm.paa";
+    };
+
+    class case_box,_5.56mm {
+        variable = "case_box,_5.56mm";
+        displayName = "STR_Item_case_box,_5.56mm";
+        weight = 1;
+        buyPrice = 7;
+        sellPrice = 3;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_case_box,_5.56mm.paa";
+    };
+
+    class case_box,_5mm {
+        variable = "case_box,_5mm";
+        displayName = "STR_Item_case_box,_5mm";
+        weight = 1;
+        buyPrice = 5;
+        sellPrice = 2;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_case_box,_5mm.paa";
+    };
+
+    class case_box,_9mm {
+        variable = "case_box,_9mm";
+        displayName = "STR_Item_case_box,_9mm";
+        weight = 1;
+        buyPrice = 7;
+        sellPrice = 3;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_case_box,_9mm.paa";
+    };
+
+    class case,_.308 {
+        variable = "case,_.308";
+        displayName = "STR_Item_case,_.308";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_case,_.308.paa";
+    };
+
+    class case,_.357_magnum {
+        variable = "case,_.357_magnum";
+        displayName = "STR_Item_case,_.357_magnum";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_case,_.357_magnum.paa";
+    };
+
+    class case,_.44_magnum {
+        variable = "case,_.44_magnum";
+        displayName = "STR_Item_case,_.44_magnum";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_case,_.44_magnum.paa";
+    };
+
+    class case,_.45_70_govt {
+        variable = "case,_.45_70_govt";
+        displayName = "STR_Item_case,_.45_70_govt";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_case,_.45_70_govt.paa";
+    };
+
+    class case,_.50_mg {
+        variable = "case,_.50_mg";
+        displayName = "STR_Item_case,_.50_mg";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_case,_.50_mg.paa";
+    };
+
+    class case,_10mm {
+        variable = "case,_10mm";
+        displayName = "STR_Item_case,_10mm";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_case,_10mm.paa";
+    };
+
+    class case,_12.7mm {
+        variable = "case,_12.7mm";
+        displayName = "STR_Item_case,_12.7mm";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_case,_12.7mm.paa";
+    };
+
+    class case,_5.56mm {
+        variable = "case,_5.56mm";
+        displayName = "STR_Item_case,_5.56mm";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_case,_5.56mm.paa";
+    };
+
+    class case,_5mm {
+        variable = "case,_5mm";
+        displayName = "STR_Item_case,_5mm";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_case,_5mm.paa";
+    };
+
+    class case,_9mm {
+        variable = "case,_9mm";
+        displayName = "STR_Item_case,_9mm";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_case,_9mm.paa";
+    };
+
+    class cazador_poison_gland {
+        variable = "cazador_poison_gland";
+        displayName = "STR_Item_cazador_poison_gland";
+        weight = 1;
+        buyPrice = 85;
+        sellPrice = 29;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_cazador_poison_gland.paa";
+    };
+
+    class centaur_blood {
+        variable = "centaur_blood";
+        displayName = "STR_Item_centaur_blood";
+        weight = 0;
+        buyPrice = 15;
+        sellPrice = 5;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_centaur_blood.paa";
+    };
+
+    class ceramic_dinner_plate {
+        variable = "ceramic_dinner_plate";
+        displayName = "STR_Item_ceramic_dinner_plate";
+        weight = 1;
+        buyPrice = 3;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_ceramic_dinner_plate.paa";
+    };
+
+    class charlie_station_supply_manifest {
+        variable = "charlie_station_supply_manifest";
+        displayName = "STR_Item_charlie_station_supply_manifest";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_charlie_station_supply_manifest.paa";
+    };
+
+    class cherry_bomb {
+        variable = "cherry_bomb";
+        displayName = "STR_Item_cherry_bomb";
+        weight = 0;
+        buyPrice = 5;
+        sellPrice = 2;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_cherry_bomb.paa";
+    };
+
+    class chessboard {
+        variable = "chessboard";
+        displayName = "STR_Item_chessboard";
+        weight = 1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_chessboard.paa";
+    };
+
+    class chewed_stealth_boy {
+        variable = "chewed_stealth_boy";
+        displayName = "STR_Item_chewed_stealth_boy";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_chewed_stealth_boy.paa";
+    };
+
+    class cigarette {
+        variable = "cigarette";
+        displayName = "STR_Item_cigarette";
+        weight = 0;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_cigarette.paa";
+    };
+
+    class clipboard {
+        variable = "clipboard";
+        displayName = "STR_Item_clipboard";
+        weight = 1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_clipboard.paa";
+    };
+
+    class coffee_mug {
+        variable = "coffee_mug";
+        displayName = "STR_Item_coffee_mug";
+        weight = 1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_coffee_mug.paa";
+    };
+
+    class coffee_pot {
+        variable = "coffee_pot";
+        displayName = "STR_Item_coffee_pot";
+        weight = 1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_coffee_pot.paa";
+    };
+
+    class conductor {
+        variable = "conductor";
+        displayName = "STR_Item_conductor";
+        weight = 5;
+        buyPrice = 30;
+        sellPrice = 10;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_conductor.paa";
+    };
+
+    class container_of_chlorine {
+        variable = "container_of_chlorine";
+        displayName = "STR_Item_container_of_chlorine";
+        weight = 0;
+        buyPrice = 45;
+        sellPrice = 15;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_container_of_chlorine.paa";
+    };
+
+    class cook_cooks_head {
+        variable = "cook_cooks_head";
+        displayName = "STR_Item_cook_cooks_head";
+        weight = 0;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_cook_cooks_head.paa";
+    };
+
+    class cook_cooks_mangled_head {
+        variable = "cook_cooks_mangled_head";
+        displayName = "STR_Item_cook_cooks_mangled_head";
+        weight = 0;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_cook_cooks_mangled_head.paa";
+    };
+
+    class counterfeit_bottle_cap {
+        variable = "counterfeit_bottle_cap";
+        displayName = "STR_Item_counterfeit_bottle_cap";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_counterfeit_bottle_cap.paa";
+    };
+
+    class counterfeit_passport {
+        variable = "counterfeit_passport";
+        displayName = "STR_Item_counterfeit_passport";
+        weight = 0;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_counterfeit_passport.paa";
+    };
+
+    class coyote_hide {
+        variable = "coyote_hide";
+        displayName = "STR_Item_coyote_hide";
+        weight = 0;
+        buyPrice = 7;
+        sellPrice = 3;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_coyote_hide.paa";
+    };
+
+    class crutch {
+        variable = "crutch";
+        displayName = "STR_Item_crutch";
+        weight = 2;
+        buyPrice = 5;
+        sellPrice = 2;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_crutch.paa";
+    };
+
+    class cuddles_toy_car {
+        variable = "cuddles_toy_car";
+        displayName = "STR_Item_cuddles_toy_car";
+        weight = 1;
+        buyPrice = 5;
+        sellPrice = 2;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_cuddles_toy_car.paa";
+    };
+
+    class cue_ball {
+        variable = "cue_ball";
+        displayName = "STR_Item_cue_ball";
+        weight = 1;
+        buyPrice = 3;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_cue_ball.paa";
+    };
+
+    class cup {
+        variable = "cup";
+        displayName = "STR_Item_cup";
+        weight = 1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_cup.paa";
+    };
+
+    class cutting_board {
+        variable = "cutting_board";
+        displayName = "STR_Item_cutting_board";
+        weight = 1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_cutting_board.paa";
+    };
+
+    class damaged_garden_gnome {
+        variable = "damaged_garden_gnome";
+        displayName = "STR_Item_damaged_garden_gnome";
+        weight = 4;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_damaged_garden_gnome.paa";
+    };
+
+    class deathclaw_egg {
+        variable = "deathclaw_egg";
+        displayName = "STR_Item_deathclaw_egg";
+        weight = 7;
+        buyPrice = 400;
+        sellPrice = 134;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_deathclaw_egg.paa";
+    };
+
+    class deathclaw_hand {
+        variable = "deathclaw_hand";
+        displayName = "STR_Item_deathclaw_hand";
+        weight = 1;
+        buyPrice = 75;
+        sellPrice = 25;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_deathclaw_hand.paa";
+    };
+
+    class deployable_ballast {
+        variable = "deployable_ballast";
+        displayName = "STR_Item_deployable_ballast";
+        weight = 5;
+        buyPrice = 30;
+        sellPrice = 10;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_deployable_ballast.paa";
+    };
+
+    class differential_pressure_controller {
+        variable = "differential_pressure_controller";
+        displayName = "STR_Item_differential_pressure_controller";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_differential_pressure_controller.paa";
+    };
+
+    class dinky_the_t_rex_souvenir {
+        variable = "dinky_the_t_rex_souvenir";
+        displayName = "STR_Item_dinky_the_t_rex_souvenir";
+        weight = 0.1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_dinky_the_t_rex_souvenir.paa";
+    };
+
+    class dinner_plate {
+        variable = "dinner_plate";
+        displayName = "STR_Item_dinner_plate";
+        weight = 1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_dinner_plate.paa";
+    };
+
+    class dino_toy {
+        variable = "dino_toy";
+        displayName = "STR_Item_dino_toy";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_dino_toy.paa";
+    };
+
+    class disassembled_weapons_shipment {
+        variable = "disassembled_weapons_shipment";
+        displayName = "STR_Item_disassembled_weapons_shipment";
+        weight = 0;
+        buyPrice = 4996;
+        sellPrice = 1666;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_disassembled_weapons_shipment.paa";
+    };
+
+    class distinctive_cigarette_butt {
+        variable = "distinctive_cigarette_butt";
+        displayName = "STR_Item_distinctive_cigarette_butt";
+        weight = 0;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_distinctive_cigarette_butt.paa";
+    };
+
+    class dog_bowl {
+        variable = "dog_bowl";
+        displayName = "STR_Item_dog_bowl";
+        weight = 1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_dog_bowl.paa";
+    };
+
+    class dog_hide {
+        variable = "dog_hide";
+        displayName = "STR_Item_dog_hide";
+        weight = 0;
+        buyPrice = 4;
+        sellPrice = 2;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_dog_hide.paa";
+    };
+
+    class doggie_treat {
+        variable = "doggie_treat";
+        displayName = "STR_Item_doggie_treat";
+        weight = 1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_doggie_treat.paa";
+    };
+
+    class drained_electron_charge_pack {
+        variable = "drained_electron_charge_pack";
+        displayName = "STR_Item_drained_electron_charge_pack";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_drained_electron_charge_pack.paa";
+    };
+
+    class drained_flamer_fuel_tank {
+        variable = "drained_flamer_fuel_tank";
+        displayName = "STR_Item_drained_flamer_fuel_tank";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_drained_flamer_fuel_tank.paa";
+    };
+
+    class drained_microfusion_cell {
+        variable = "drained_microfusion_cell";
+        displayName = "STR_Item_drained_microfusion_cell";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_drained_microfusion_cell.paa";
+    };
+
+    class drained_small_energy_cell {
+        variable = "drained_small_energy_cell";
+        displayName = "STR_Item_drained_small_energy_cell";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_drained_small_energy_cell.paa";
+    };
+
+    class drinking_glass {
+        variable = "drinking_glass";
+        displayName = "STR_Item_drinking_glass";
+        weight = 1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_drinking_glass.paa";
+    };
+
+    class driver_nephis_head {
+        variable = "driver_nephis_head";
+        displayName = "STR_Item_driver_nephis_head";
+        weight = 0;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_driver_nephis_head.paa";
+    };
+
+    class driver_nephis_mangled_head {
+        variable = "driver_nephis_mangled_head";
+        displayName = "STR_Item_driver_nephis_mangled_head";
+        weight = 0;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_driver_nephis_mangled_head.paa";
+    };
+
+    class drug_chemicals {
+        variable = "drug_chemicals";
+        displayName = "STR_Item_drug_chemicals";
+        weight = 0;
+        buyPrice = 100;
+        sellPrice = 34;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_drug_chemicals.paa";
+    };
+
+    class duct_tape {
+        variable = "duct_tape";
+        displayName = "STR_Item_duct_tape";
+        weight = 1;
+        buyPrice = 5;
+        sellPrice = 2;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_duct_tape.paa";
+    };
+
+    class earnings_clipboard {
+        variable = "earnings_clipboard";
+        displayName = "STR_Item_earnings_clipboard";
+        weight = 1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_earnings_clipboard.paa";
+    };
+
+    class egg_timer {
+        variable = "egg_timer";
+        displayName = "STR_Item_egg_timer";
+        weight = 1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_egg_timer.paa";
+    };
+
+    class empty_hydra_syringe {
+        variable = "empty_hydra_syringe";
+        displayName = "STR_Item_empty_hydra_syringe";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_empty_hydra_syringe.paa";
+    };
+
+    class empty_jet_inhaler {
+        variable = "empty_jet_inhaler";
+        displayName = "STR_Item_empty_jet_inhaler";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_empty_jet_inhaler.paa";
+    };
+
+    class empty_nuka_cola_bottle {
+        variable = "empty_nuka_cola_bottle";
+        displayName = "STR_Item_empty_nuka_cola_bottle";
+        weight = 1;
+        buyPrice = 2;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_empty_nuka_cola_bottle.paa";
+    };
+
+    class empty_soda_bottle {
+        variable = "empty_soda_bottle";
+        displayName = "STR_Item_empty_soda_bottle";
+        weight = 1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_empty_soda_bottle.paa";
+    };
+
+    class empty_sunset_sarsaparilla_bottle {
+        variable = "empty_sunset_sarsaparilla_bottle";
+        displayName = "STR_Item_empty_sunset_sarsaparilla_bottle";
+        weight = 1;
+        buyPrice = 2;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_empty_sunset_sarsaparilla_bottle.paa";
+    };
+
+    class empty_sunset_sarsaparilla_bottle_(no_float) {
+        variable = "empty_sunset_sarsaparilla_bottle_(no_float)";
+        displayName = "STR_Item_empty_sunset_sarsaparilla_bottle_(no_float)";
+        weight = 1;
+        buyPrice = 2;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_empty_sunset_sarsaparilla_bottle_(no_float).paa";
+    };
+
+    class empty_syringe {
+        variable = "empty_syringe";
+        displayName = "STR_Item_empty_syringe";
+        weight = 0.005;
+        buyPrice = 8;
+        sellPrice = 3;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_empty_syringe.paa";
+    };
+
+    class empty_whiskey_bottle {
+        variable = "empty_whiskey_bottle";
+        displayName = "STR_Item_empty_whiskey_bottle";
+        weight = 1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_empty_whiskey_bottle.paa";
+    };
+
+    class engraved_cigarette_lighter {
+        variable = "engraved_cigarette_lighter";
+        displayName = "STR_Item_engraved_cigarette_lighter";
+        weight = 0;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_engraved_cigarette_lighter.paa";
+    };
+
+    class erasmus_logbook {
+        variable = "erasmus_logbook";
+        displayName = "STR_Item_erasmus_logbook";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_erasmus_logbook.paa";
+    };
+
+    class ericsens_log {
+        variable = "ericsens_log";
+        displayName = "STR_Item_ericsens_log";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_ericsens_log.paa";
+    };
+
+    class evil_gnome {
+        variable = "evil_gnome";
+        displayName = "STR_Item_evil_gnome";
+        weight = 5;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_evil_gnome.paa";
+    };
+
+    class explosive_charge {
+        variable = "explosive_charge";
+        displayName = "STR_Item_explosive_charge";
+        weight = 5;
+        buyPrice = 30;
+        sellPrice = 10;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_explosive_charge.paa";
+    };
+
+    class finance_clipboard {
+        variable = "finance_clipboard";
+        displayName = "STR_Item_finance_clipboard";
+        weight = 1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_finance_clipboard.paa";
+    };
+
+    class finger {
+        variable = "finger";
+        displayName = "STR_Item_finger";
+        weight = 0;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_finger.paa";
+    };
+
+    class fire_gecko_egg {
+        variable = "fire_gecko_egg";
+        displayName = "STR_Item_fire_gecko_egg";
+        weight = 3;
+        buyPrice = 65;
+        sellPrice = 22;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_fire_gecko_egg.paa";
+    };
+
+    class fire_gecko_hide {
+        variable = "fire_gecko_hide";
+        displayName = "STR_Item_fire_gecko_hide";
+        weight = 1;
+        buyPrice = 25;
+        sellPrice = 9;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_fire_gecko_hide.paa";
+    };
+
+    class firehose_nozzle {
+        variable = "firehose_nozzle";
+        displayName = "STR_Item_firehose_nozzle";
+        weight = 1;
+        buyPrice = 5;
+        sellPrice = 2;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_firehose_nozzle.paa";
+    };
+
+    class fission_battery {
+        variable = "fission_battery";
+        displayName = "STR_Item_fission_battery";
+        weight = 6;
+        buyPrice = 75;
+        sellPrice = 25;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_fission_battery.paa";
+    };
+
+    class flour {
+        variable = "flour";
+        displayName = "STR_Item_flour";
+        weight = 1;
+        buyPrice = 2;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_flour.paa";
+    };
+
+    class food_additive {
+        variable = "food_additive";
+        displayName = "STR_Item_food_additive";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_food_additive.paa";
+    };
+
+    class food_sanitizer {
+        variable = "food_sanitizer";
+        displayName = "STR_Item_food_sanitizer";
+        weight = 7;
+        buyPrice = 150;
+        sellPrice = 50;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_food_sanitizer.paa";
+    };
+
+    class forceps {
+        variable = "forceps";
+        displayName = "STR_Item_forceps";
+        weight = 1;
+        buyPrice = 5;
+        sellPrice = 2;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_forceps.paa";
+    };
+
+    class fork {
+        variable = "fork";
+        displayName = "STR_Item_fork";
+        weight = 0.5;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_fork.paa";
+    };
+
+    class gbrm2kx_memory_chip {
+        variable = "gbrm2kx_memory_chip";
+        displayName = "STR_Item_gbrm2kx_memory_chip";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_gbrm2kx_memory_chip.paa";
+    };
+
+    class gecko_egg {
+        variable = "gecko_egg";
+        displayName = "STR_Item_gecko_egg";
+        weight = 1;
+        buyPrice = 10;
+        sellPrice = 4;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_gecko_egg.paa";
+    };
+
+    class gecko_hide {
+        variable = "gecko_hide";
+        displayName = "STR_Item_gecko_hide";
+        weight = 1;
+        buyPrice = 10;
+        sellPrice = 4;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_gecko_hide.paa";
+    };
+
+    class glass_pitcher {
+        variable = "glass_pitcher";
+        displayName = "STR_Item_glass_pitcher";
+        weight = 1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_glass_pitcher.paa";
+    };
+
+    class golden_gecko_egg {
+        variable = "golden_gecko_egg";
+        displayName = "STR_Item_golden_gecko_egg";
+        weight = 1;
+        buyPrice = 50;
+        sellPrice = 17;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_golden_gecko_egg.paa";
+    };
+
+    class golden_gecko_hide {
+        variable = "golden_gecko_hide";
+        displayName = "STR_Item_golden_gecko_hide";
+        weight = 1;
+        buyPrice = 20;
+        sellPrice = 7;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_golden_gecko_hide.paa";
+    };
+
+    class golf_ball {
+        variable = "golf_ball";
+        displayName = "STR_Item_golf_ball";
+        weight = 0.1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_golf_ball.paa";
+    };
+
+    class great_khan_supply_cache {
+        variable = "great_khan_supply_cache";
+        displayName = "STR_Item_great_khan_supply_cache";
+        weight = 10;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_great_khan_supply_cache.paa";
+    };
+
+    class green_plate {
+        variable = "green_plate";
+        displayName = "STR_Item_green_plate";
+        weight = 1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_green_plate.paa";
+    };
+
+    class hammer {
+        variable = "hammer";
+        displayName = "STR_Item_hammer";
+        weight = 2;
+        buyPrice = 3;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_hammer.paa";
+    };
+
+    class harmonica {
+        variable = "harmonica";
+        displayName = "STR_Item_harmonica";
+        weight = 1;
+        buyPrice = 2;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_harmonica.paa";
+    };
+
+    class hepa_20_cartridge_filter {
+        variable = "hepa_20_cartridge_filter";
+        displayName = "STR_Item_hepa_20_cartridge_filter";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_hepa_20_cartridge_filter.paa";
+    };
+
+    class highly_suspicious_package {
+        variable = "highly_suspicious_package";
+        displayName = "STR_Item_highly_suspicious_package";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_highly_suspicious_package.paa";
+    };
+
+    class hot_plate {
+        variable = "hot_plate";
+        displayName = "STR_Item_hot_plate";
+        weight = 2;
+        buyPrice = 5;
+        sellPrice = 2;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_hot_plate.paa";
+    };
+
+    class howitzer_firing_mechanism {
+        variable = "howitzer_firing_mechanism";
+        displayName = "STR_Item_howitzer_firing_mechanism";
+        weight = 1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_howitzer_firing_mechanism.paa";
+    };
+
+    class hull_box,_12_ga. {
+        variable = "hull_box,_12_ga.";
+        displayName = "STR_Item_hull_box,_12_ga.";
+        weight = 1;
+        buyPrice = 7;
+        sellPrice = 3;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_hull_box,_12_ga..paa";
+    };
+
+    class hull_box,_20_ga. {
+        variable = "hull_box,_20_ga.";
+        displayName = "STR_Item_hull_box,_20_ga.";
+        weight = 1;
+        buyPrice = 5;
+        sellPrice = 2;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_hull_box,_20_ga..paa";
+    };
+
+    class hull,_12_gauge {
+        variable = "hull,_12_gauge";
+        displayName = "STR_Item_hull,_12_gauge";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_hull,_12_gauge.paa";
+    };
+
+    class hull,_20_gauge {
+        variable = "hull,_20_gauge";
+        displayName = "STR_Item_hull,_20_gauge";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_hull,_20_gauge.paa";
+    };
+
+    class infected_brahmin_meat {
+        variable = "infected_brahmin_meat";
+        displayName = "STR_Item_infected_brahmin_meat";
+        weight = 5;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_infected_brahmin_meat.paa";
+    };
+
+    class intact_garden_gnome {
+        variable = "intact_garden_gnome";
+        displayName = "STR_Item_intact_garden_gnome";
+        weight = 5;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_intact_garden_gnome.paa";
+    };
+
+    class iron {
+        variable = "iron";
+        displayName = "STR_Item_iron";
+        weight = 5;
+        buyPrice = 2;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_iron.paa";
+    };
+
+    class irradiated_ncr_dogtag {
+        variable = "irradiated_ncr_dogtag";
+        displayName = "STR_Item_irradiated_ncr_dogtag";
+        weight = 0;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_irradiated_ncr_dogtag.paa";
+    };
+
+    class isotope_239_igniting_agent {
+        variable = "isotope_239_igniting_agent";
+        displayName = "STR_Item_isotope_239_igniting_agent";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_isotope_239_igniting_agent.paa";
+    };
+
+    class boomer_outfit_for_janet {
+        variable = "boomer_outfit_for_janet";
+        displayName = "STR_Item_boomer_outfit_for_janet";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_boomer_outfit_for_janet.paa";
+    };
+
+    class jar,_pistol_powder {
+        variable = "jar,_pistol_powder";
+        displayName = "STR_Item_jar,_pistol_powder";
+        weight = 1;
+        buyPrice = 2;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_jar,_pistol_powder.paa";
+    };
+
+    class jar,_rifle_powder {
+        variable = "jar,_rifle_powder";
+        displayName = "STR_Item_jar,_rifle_powder";
+        weight = 1;
+        buyPrice = 5;
+        sellPrice = 2;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_jar,_rifle_powder.paa";
+    };
+
+    class keyring {
+        variable = "keyring";
+        displayName = "STR_Item_keyring";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_keyring.paa";
+    };
+
+    class large_burned_book {
+        variable = "large_burned_book";
+        displayName = "STR_Item_large_burned_book";
+        weight = 1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_large_burned_book.paa";
+    };
+
+    class large_destroyed_book {
+        variable = "large_destroyed_book";
+        displayName = "STR_Item_large_destroyed_book";
+        weight = 1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_large_destroyed_book.paa";
+    };
+
+    class large_ruined_book {
+        variable = "large_ruined_book";
+        displayName = "STR_Item_large_ruined_book";
+        weight = 1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_large_ruined_book.paa";
+    };
+
+    class large_scorched_book {
+        variable = "large_scorched_book";
+        displayName = "STR_Item_large_scorched_book";
+        weight = 1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_large_scorched_book.paa";
+    };
+
+    class large_whiskey_bottle {
+        variable = "large_whiskey_bottle";
+        displayName = "STR_Item_large_whiskey_bottle";
+        weight = 2;
+        buyPrice = 5;
+        sellPrice = 2;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_large_whiskey_bottle.paa";
+    };
+
+    class lawn_mower_blade {
+        variable = "lawn_mower_blade";
+        displayName = "STR_Item_lawn_mower_blade";
+        weight = 2;
+        buyPrice = 10;
+        sellPrice = 4;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_lawn_mower_blade.paa";
+    };
+
+    class lead {
+        variable = "lead";
+        displayName = "STR_Item_lead";
+        weight = 0.001*;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_lead.paa";
+    };
+
+    class leaf_blower {
+        variable = "leaf_blower";
+        displayName = "STR_Item_leaf_blower";
+        weight = 2;
+        buyPrice = 15;
+        sellPrice = 5;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_leaf_blower.paa";
+    };
+
+    class leather_belt {
+        variable = "leather_belt";
+        displayName = "STR_Item_leather_belt";
+        weight = 1;
+        buyPrice = 5;
+        sellPrice = 2;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_leather_belt.paa";
+    };
+
+    class legion_aureus {
+        variable = "legion_aureus";
+        displayName = "STR_Item_legion_aureus";
+        weight = 0.02;
+        buyPrice = 100;
+        sellPrice = 34;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_legion_aureus.paa";
+    };
+
+    class legion_denarius {
+        variable = "legion_denarius";
+        displayName = "STR_Item_legion_denarius";
+        weight = 0.01;
+        buyPrice = 4;
+        sellPrice = 2;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_legion_denarius.paa";
+    };
+
+    class legion_denarius,_mangled {
+        variable = "legion_denarius,_mangled";
+        displayName = "STR_Item_legion_denarius,_mangled";
+        weight = 0.01;
+        buyPrice = 3;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_legion_denarius,_mangled.paa";
+    };
+
+    class legion_ear {
+        variable = "legion_ear";
+        displayName = "STR_Item_legion_ear";
+        weight = 0;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_legion_ear.paa";
+    };
+
+    class legion_patrol_notes {
+        variable = "legion_patrol_notes";
+        displayName = "STR_Item_legion_patrol_notes";
+        weight = 0;
+        buyPrice = 100;
+        sellPrice = 34;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_legion_patrol_notes.paa";
+    };
+
+    class legion_raid_plans {
+        variable = "legion_raid_plans";
+        displayName = "STR_Item_legion_raid_plans";
+        weight = 0;
+        buyPrice = 100;
+        sellPrice = 34;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_legion_raid_plans.paa";
+    };
+
+    class legion_slave_ledger {
+        variable = "legion_slave_ledger";
+        displayName = "STR_Item_legion_slave_ledger";
+        weight = 0;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_legion_slave_ledger.paa";
+    };
+
+    class lineholms_log {
+        variable = "lineholms_log";
+        displayName = "STR_Item_lineholms_log";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_lineholms_log.paa";
+    };
+
+    class lottery_ticket {
+        variable = "lottery_ticket";
+        displayName = "STR_Item_lottery_ticket";
+        weight = 0;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_lottery_ticket.paa";
+    };
+
+    class lottery_ticket {
+        variable = "lottery_ticket";
+        displayName = "STR_Item_lottery_ticket";
+        weight = 0;
+        buyPrice = 10;
+        sellPrice = 4;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_lottery_ticket.paa";
+    };
+
+    class lunchbox {
+        variable = "lunchbox";
+        displayName = "STR_Item_lunchbox";
+        weight = 1;
+        buyPrice = 3;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_lunchbox.paa";
+    };
+
+    class lupas_brain {
+        variable = "lupas_brain";
+        displayName = "STR_Item_lupas_brain";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_lupas_brain.paa";
+    };
+
+    class mantis_egg {
+        variable = "mantis_egg";
+        displayName = "STR_Item_mantis_egg";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_mantis_egg.paa";
+    };
+
+    class mantis_egg {
+        variable = "mantis_egg";
+        displayName = "STR_Item_mantis_egg";
+        weight = 1;
+        buyPrice = 12;
+        sellPrice = 4;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_mantis_egg.paa";
+    };
+
+    class mantis_foreleg {
+        variable = "mantis_foreleg";
+        displayName = "STR_Item_mantis_foreleg";
+        weight = 0;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_mantis_foreleg.paa";
+    };
+
+    class mark_of_caesar {
+        variable = "mark_of_caesar";
+        displayName = "STR_Item_mark_of_caesar";
+        weight = 0;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_mark_of_caesar.paa";
+    };
+
+    class marked_cards {
+        variable = "marked_cards";
+        displayName = "STR_Item_marked_cards";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_marked_cards.paa";
+    };
+
+    class medical_brace {
+        variable = "medical_brace";
+        displayName = "STR_Item_medical_brace";
+        weight = 2;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_medical_brace.paa";
+    };
+
+    class medical_brace {
+        variable = "medical_brace";
+        displayName = "STR_Item_medical_brace";
+        weight = 2;
+        buyPrice = 10;
+        sellPrice = 4;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_medical_brace.paa";
+    };
+
+    class medical_clipboard {
+        variable = "medical_clipboard";
+        displayName = "STR_Item_medical_clipboard";
+        weight = 1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_medical_clipboard.paa";
+    };
+
+    class metal_cooking_pan {
+        variable = "metal_cooking_pan";
+        displayName = "STR_Item_metal_cooking_pan";
+        weight = 1;
+        buyPrice = 5;
+        sellPrice = 2;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_metal_cooking_pan.paa";
+    };
+
+    class metal_cooking_pot {
+        variable = "metal_cooking_pot";
+        displayName = "STR_Item_metal_cooking_pot";
+        weight = 1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_metal_cooking_pot.paa";
+    };
+
+    class metal_spoon {
+        variable = "metal_spoon";
+        displayName = "STR_Item_metal_spoon";
+        weight = 0.5;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_metal_spoon.paa";
+    };
+
+    class microphone_and_stand {
+        variable = "microphone_and_stand";
+        displayName = "STR_Item_microphone_and_stand";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_microphone_and_stand.paa";
+    };
+
+    class mildly_suspicious_package {
+        variable = "mildly_suspicious_package";
+        displayName = "STR_Item_mildly_suspicious_package";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_mildly_suspicious_package.paa";
+    };
+
+    class milk_bottle {
+        variable = "milk_bottle";
+        displayName = "STR_Item_milk_bottle";
+        weight = 1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_milk_bottle.paa";
+    };
+
+    class mister_cuddles {
+        variable = "mister_cuddles";
+        displayName = "STR_Item_mister_cuddles";
+        weight = 1;
+        buyPrice = 3;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_mister_cuddles.paa";
+    };
+
+    class motorcycle_gas_tank {
+        variable = "motorcycle_gas_tank";
+        displayName = "STR_Item_motorcycle_gas_tank";
+        weight = 5;
+        buyPrice = 25;
+        sellPrice = 9;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_motorcycle_gas_tank.paa";
+    };
+
+    class motorcycle_handbrake {
+        variable = "motorcycle_handbrake";
+        displayName = "STR_Item_motorcycle_handbrake";
+        weight = 1;
+        buyPrice = 15;
+        sellPrice = 5;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_motorcycle_handbrake.paa";
+    };
+
+    class mutilated_arm {
+        variable = "mutilated_arm";
+        displayName = "STR_Item_mutilated_arm";
+        weight = 2;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_mutilated_arm.paa";
+    };
+
+    class mutilated_leg {
+        variable = "mutilated_leg";
+        displayName = "STR_Item_mutilated_leg";
+        weight = 2;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_mutilated_leg.paa";
+    };
+
+    class mutilated_organs {
+        variable = "mutilated_organs";
+        displayName = "STR_Item_mutilated_organs";
+        weight = 2;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_mutilated_organs.paa";
+    };
+
+    class mutilated_skull {
+        variable = "mutilated_skull";
+        displayName = "STR_Item_mutilated_skull";
+        weight = 2;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_mutilated_skull.paa";
+    };
+
+    class mutilated_torso {
+        variable = "mutilated_torso";
+        displayName = "STR_Item_mutilated_torso";
+        weight = 2;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_mutilated_torso.paa";
+    };
+
+    class ncr_10mm_pistol {
+        variable = "ncr_10mm_pistol";
+        displayName = "STR_Item_ncr_10mm_pistol";
+        weight = 1;
+        buyPrice = 5;
+        sellPrice = 2;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_ncr_10mm_pistol.paa";
+    };
+
+    class ncr_9mm_submachine_gun {
+        variable = "ncr_9mm_submachine_gun";
+        displayName = "STR_Item_ncr_9mm_submachine_gun";
+        weight = 1;
+        buyPrice = 5;
+        sellPrice = 2;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_ncr_9mm_submachine_gun.paa";
+    };
+
+    class ncr_bug {
+        variable = "ncr_bug";
+        displayName = "STR_Item_ncr_bug";
+        weight = 1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_ncr_bug.paa";
+    };
+
+    class ncr_computer_parts {
+        variable = "ncr_computer_parts";
+        displayName = "STR_Item_ncr_computer_parts";
+        weight = 1;
+        buyPrice = 5;
+        sellPrice = 2;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_ncr_computer_parts.paa";
+    };
+
+    class ncr_computer_parts {
+        variable = "ncr_computer_parts";
+        displayName = "STR_Item_ncr_computer_parts";
+        weight = 1;
+        buyPrice = 15;
+        sellPrice = 5;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_ncr_computer_parts.paa";
+    };
+
+    class ncr_dogtag {
+        variable = "ncr_dogtag";
+        displayName = "STR_Item_ncr_dogtag";
+        weight = 0;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_ncr_dogtag.paa";
+    };
+
+    class ncr_frag_grenade {
+        variable = "ncr_frag_grenade";
+        displayName = "STR_Item_ncr_frag_grenade";
+        weight = 1;
+        buyPrice = 5;
+        sellPrice = 2;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_ncr_frag_grenade.paa";
+    };
+
+    class ncr_grenade_rifle {
+        variable = "ncr_grenade_rifle";
+        displayName = "STR_Item_ncr_grenade_rifle";
+        weight = 1;
+        buyPrice = 5;
+        sellPrice = 2;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_ncr_grenade_rifle.paa";
+    };
+
+    class ncr_radio_parts {
+        variable = "ncr_radio_parts";
+        displayName = "STR_Item_ncr_radio_parts";
+        weight = 1;
+        buyPrice = 5;
+        sellPrice = 2;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_ncr_radio_parts.paa";
+    };
+
+    class ncr_radio_parts {
+        variable = "ncr_radio_parts";
+        displayName = "STR_Item_ncr_radio_parts";
+        weight = 1;
+        buyPrice = 15;
+        sellPrice = 5;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_ncr_radio_parts.paa";
+    };
+
+    class new_vegas_passport {
+        variable = "new_vegas_passport";
+        displayName = "STR_Item_new_vegas_passport";
+        weight = 0;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_new_vegas_passport.paa";
+    };
+
+    class nightstalker_blood {
+        variable = "nightstalker_blood";
+        displayName = "STR_Item_nightstalker_blood";
+        weight = 1;
+        buyPrice = 5;
+        sellPrice = 2;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_nightstalker_blood.paa";
+    };
+
+    class nightstalker_egg {
+        variable = "nightstalker_egg";
+        displayName = "STR_Item_nightstalker_egg";
+        weight = 2;
+        buyPrice = 45;
+        sellPrice = 15;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_nightstalker_egg.paa";
+    };
+
+    class nuka_cola_truck {
+        variable = "nuka_cola_truck";
+        displayName = "STR_Item_nuka_cola_truck";
+        weight = 2;
+        buyPrice = 5;
+        sellPrice = 2;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_nuka_cola_truck.paa";
+    };
+
+    class old_legion_patrol_notes {
+        variable = "old_legion_patrol_notes";
+        displayName = "STR_Item_old_legion_patrol_notes";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_old_legion_patrol_notes.paa";
+    };
+
+    class old_legion_raid_plans {
+        variable = "old_legion_raid_plans";
+        displayName = "STR_Item_old_legion_raid_plans";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_old_legion_raid_plans.paa";
+    };
+
+    class ophthalmascope {
+        variable = "ophthalmascope";
+        displayName = "STR_Item_ophthalmascope";
+        weight = 1;
+        buyPrice = 4;
+        sellPrice = 2;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_ophthalmascope.paa";
+    };
+
+    class override_chip {
+        variable = "override_chip";
+        displayName = "STR_Item_override_chip";
+        weight = 0;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_override_chip.paa";
+    };
+
+    class pack_of_cigarettes {
+        variable = "pack_of_cigarettes";
+        displayName = "STR_Item_pack_of_cigarettes";
+        weight = 0.5;
+        buyPrice = 10;
+        sellPrice = 4;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_pack_of_cigarettes.paa";
+    };
+
+    class paint_gun {
+        variable = "paint_gun";
+        displayName = "STR_Item_paint_gun";
+        weight = 5;
+        buyPrice = 15;
+        sellPrice = 5;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_paint_gun.paa";
+    };
+
+    class paperweight {
+        variable = "paperweight";
+        displayName = "STR_Item_paperweight";
+        weight = 1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_paperweight.paa";
+    };
+
+    class pencil {
+        variable = "pencil";
+        displayName = "STR_Item_pencil";
+        weight = 0;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_pencil.paa";
+    };
+
+    class pile_of_cazador_eggs {
+        variable = "pile_of_cazador_eggs";
+        displayName = "STR_Item_pile_of_cazador_eggs";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_pile_of_cazador_eggs.paa";
+    };
+
+    class pile_of_deathclaw_eggs {
+        variable = "pile_of_deathclaw_eggs";
+        displayName = "STR_Item_pile_of_deathclaw_eggs";
+        weight = 10;
+        buyPrice = 2500;
+        sellPrice = 834;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_pile_of_deathclaw_eggs.paa";
+    };
+
+    class pile_of_fire_gecko_eggs {
+        variable = "pile_of_fire_gecko_eggs";
+        displayName = "STR_Item_pile_of_fire_gecko_eggs";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_pile_of_fire_gecko_eggs.paa";
+    };
+
+    class pile_of_giant_mantis_eggs {
+        variable = "pile_of_giant_mantis_eggs";
+        displayName = "STR_Item_pile_of_giant_mantis_eggs";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_pile_of_giant_mantis_eggs.paa";
+    };
+
+    class pile_of_night_stalker_eggs {
+        variable = "pile_of_night_stalker_eggs";
+        displayName = "STR_Item_pile_of_night_stalker_eggs";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_pile_of_night_stalker_eggs.paa";
+    };
+
+    class pile_of_radscorpion_eggs {
+        variable = "pile_of_radscorpion_eggs";
+        displayName = "STR_Item_pile_of_radscorpion_eggs";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_pile_of_radscorpion_eggs.paa";
+    };
+
+    class pilot_light {
+        variable = "pilot_light";
+        displayName = "STR_Item_pilot_light";
+        weight = 1;
+        buyPrice = 14;
+        sellPrice = 5;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_pilot_light.paa";
+    };
+
+    class ping_pong_ball {
+        variable = "ping_pong_ball";
+        displayName = "STR_Item_ping_pong_ball";
+        weight = 0.1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_ping_pong_ball.paa";
+    };
+
+    class platinum_chip {
+        variable = "platinum_chip";
+        displayName = "STR_Item_platinum_chip";
+        weight = 0;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_platinum_chip.paa";
+    };
+
+    class plunger {
+        variable = "plunger";
+        displayName = "STR_Item_plunger";
+        weight = 1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_plunger.paa";
+    };
+
+    class pool_ball {
+        variable = "pool_ball";
+        displayName = "STR_Item_pool_ball";
+        weight = 1;
+        buyPrice = 2;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_pool_ball.paa";
+    };
+
+    class pot {
+        variable = "pot";
+        displayName = "STR_Item_pot";
+        weight = 2;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_pot.paa";
+    };
+
+    class powder,_pistol {
+        variable = "powder,_pistol";
+        displayName = "STR_Item_powder,_pistol";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_powder,_pistol.paa";
+    };
+
+    class powder,_rifle {
+        variable = "powder,_rifle";
+        displayName = "STR_Item_powder,_rifle";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_powder,_rifle.paa";
+    };
+
+    class pressure_cooker {
+        variable = "pressure_cooker";
+        displayName = "STR_Item_pressure_cooker";
+        weight = 5;
+        buyPrice = 15;
+        sellPrice = 5;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_pressure_cooker.paa";
+    };
+
+    class pretty_pretty_horsies:_a_history_of_the_mongol_empire {
+        variable = "pretty_pretty_horsies:_a_history_of_the_mongol_empire";
+        displayName = "STR_Item_pretty_pretty_horsies:_a_history_of_the_mongol_empire";
+        weight = 0;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_pretty_pretty_horsies:_a_history_of_the_mongol_empire.paa";
+    };
+
+    class pre_war_book {
+        variable = "pre_war_book";
+        displayName = "STR_Item_pre_war_book";
+        weight = 1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_pre_war_book.paa";
+    };
+
+    class pre_war_book {
+        variable = "pre_war_book";
+        displayName = "STR_Item_pre_war_book";
+        weight = 1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_pre_war_book.paa";
+    };
+
+    class pre_war_book {
+        variable = "pre_war_book";
+        displayName = "STR_Item_pre_war_book";
+        weight = 1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_pre_war_book.paa";
+    };
+
+    class pre_war_book {
+        variable = "pre_war_book";
+        displayName = "STR_Item_pre_war_book";
+        weight = 1;
+        buyPrice = 5;
+        sellPrice = 2;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_pre_war_book.paa";
+    };
+
+    class pre_war_money {
+        variable = "pre_war_money";
+        displayName = "STR_Item_pre_war_money";
+        weight = 0;
+        buyPrice = 10;
+        sellPrice = 4;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_pre_war_money.paa";
+    };
+
+    class primer_box,_.50_mg {
+        variable = "primer_box,_.50_mg";
+        displayName = "STR_Item_primer_box,_.50_mg";
+        weight = 1;
+        buyPrice = 12;
+        sellPrice = 4;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_primer_box,_.50_mg.paa";
+    };
+
+    class primer_box,_large_pistol {
+        variable = "primer_box,_large_pistol";
+        displayName = "STR_Item_primer_box,_large_pistol";
+        weight = 1;
+        buyPrice = 7;
+        sellPrice = 3;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_primer_box,_large_pistol.paa";
+    };
+
+    class primer_box,_large_rifle {
+        variable = "primer_box,_large_rifle";
+        displayName = "STR_Item_primer_box,_large_rifle";
+        weight = 1;
+        buyPrice = 10;
+        sellPrice = 4;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_primer_box,_large_rifle.paa";
+    };
+
+    class primer_box,_shotshell {
+        variable = "primer_box,_shotshell";
+        displayName = "STR_Item_primer_box,_shotshell";
+        weight = 1;
+        buyPrice = 5;
+        sellPrice = 2;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_primer_box,_shotshell.paa";
+    };
+
+    class primer_box,_small_pistol {
+        variable = "primer_box,_small_pistol";
+        displayName = "STR_Item_primer_box,_small_pistol";
+        weight = 1;
+        buyPrice = 5;
+        sellPrice = 2;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_primer_box,_small_pistol.paa";
+    };
+
+    class primer_box,_small_rifle {
+        variable = "primer_box,_small_rifle";
+        displayName = "STR_Item_primer_box,_small_rifle";
+        weight = 1;
+        buyPrice = 7;
+        sellPrice = 3;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_primer_box,_small_rifle.paa";
+    };
+
+    class primer,_.50_mg {
+        variable = "primer,_.50_mg";
+        displayName = "STR_Item_primer,_.50_mg";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_primer,_.50_mg.paa";
+    };
+
+    class primer,_large_pistol {
+        variable = "primer,_large_pistol";
+        displayName = "STR_Item_primer,_large_pistol";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_primer,_large_pistol.paa";
+    };
+
+    class primer,_large_rifle {
+        variable = "primer,_large_rifle";
+        displayName = "STR_Item_primer,_large_rifle";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_primer,_large_rifle.paa";
+    };
+
+    class primer,_shotshell {
+        variable = "primer,_shotshell";
+        displayName = "STR_Item_primer,_shotshell";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_primer,_shotshell.paa";
+    };
+
+    class primer,_small_pistol {
+        variable = "primer,_small_pistol";
+        displayName = "STR_Item_primer,_small_pistol";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_primer,_small_pistol.paa";
+    };
+
+    class primer,_small_rifle {
+        variable = "primer,_small_rifle";
+        displayName = "STR_Item_primer,_small_rifle";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_primer,_small_rifle.paa";
+    };
+
+    class radiation_suit_package {
+        variable = "radiation_suit_package";
+        displayName = "STR_Item_radiation_suit_package";
+        weight = 1;
+        buyPrice = 5;
+        sellPrice = 2;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_radiation_suit_package.paa";
+    };
+
+    class radioactive_supply_cache {
+        variable = "radioactive_supply_cache";
+        displayName = "STR_Item_radioactive_supply_cache";
+        weight = 10;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_radioactive_supply_cache.paa";
+    };
+
+    class radscorpion_egg {
+        variable = "radscorpion_egg";
+        displayName = "STR_Item_radscorpion_egg";
+        weight = 2;
+        buyPrice = 5;
+        sellPrice = 2;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_radscorpion_egg.paa";
+    };
+
+    class radscorpion_poison_gland {
+        variable = "radscorpion_poison_gland";
+        displayName = "STR_Item_radscorpion_poison_gland";
+        weight = 1;
+        buyPrice = 25;
+        sellPrice = 9;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_radscorpion_poison_gland.paa";
+    };
+
+    class rake {
+        variable = "rake";
+        displayName = "STR_Item_rake";
+        weight = 2;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_rake.paa";
+    };
+
+    class ralphs_sexbot_holodisk {
+        variable = "ralphs_sexbot_holodisk";
+        displayName = "STR_Item_ralphs_sexbot_holodisk";
+        weight = 1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_ralphs_sexbot_holodisk.paa";
+    };
+
+    class recipes___brahmin_wellington {
+        variable = "recipes___brahmin_wellington";
+        displayName = "STR_Item_recipes___brahmin_wellington";
+        weight = 0;
+        buyPrice = 100;
+        sellPrice = 34;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_recipes___brahmin_wellington.paa";
+    };
+
+    class recipes___cook_cooks_fiend_stew {
+        variable = "recipes___cook_cooks_fiend_stew";
+        displayName = "STR_Item_recipes___cook_cooks_fiend_stew";
+        weight = 0;
+        buyPrice = 400;
+        sellPrice = 134;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_recipes___cook_cooks_fiend_stew.paa";
+    };
+
+    class recipes___rubys_spicy_casserole {
+        variable = "recipes___rubys_spicy_casserole";
+        displayName = "STR_Item_recipes___rubys_spicy_casserole";
+        weight = 0;
+        buyPrice = 100;
+        sellPrice = 34;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_recipes___rubys_spicy_casserole.paa";
+    };
+
+    class red_plate {
+        variable = "red_plate";
+        displayName = "STR_Item_red_plate";
+        weight = 1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_red_plate.paa";
+    };
+
+    class redundant_failsafe_detonator {
+        variable = "redundant_failsafe_detonator";
+        displayName = "STR_Item_redundant_failsafe_detonator";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_redundant_failsafe_detonator.paa";
+    };
+
+    class remote_signal_transmitter {
+        variable = "remote_signal_transmitter";
+        displayName = "STR_Item_remote_signal_transmitter";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_remote_signal_transmitter.paa";
+    };
+
+    class reverse_pulse_cleaner {
+        variable = "reverse_pulse_cleaner";
+        displayName = "STR_Item_reverse_pulse_cleaner";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_reverse_pulse_cleaner.paa";
+    };
+
+    class reys_brain {
+        variable = "reys_brain";
+        displayName = "STR_Item_reys_brain";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_reys_brain.paa";
+    };
+
+    class rocket_souvenir {
+        variable = "rocket_souvenir";
+        displayName = "STR_Item_rocket_souvenir";
+        weight = 0;
+        buyPrice = 3;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_rocket_souvenir.paa";
+    };
+
+    class scalpel {
+        variable = "scalpel";
+        displayName = "STR_Item_scalpel";
+        weight = 1;
+        buyPrice = 8;
+        sellPrice = 3;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_scalpel.paa";
+    };
+
+    class schematics___billboard {
+        variable = "schematics___billboard";
+        displayName = "STR_Item_schematics___billboard";
+        weight = 0;
+        buyPrice = 50;
+        sellPrice = 17;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_schematics___billboard.paa";
+    };
+
+    class schematics___mantis_scythe {
+        variable = "schematics___mantis_scythe";
+        displayName = "STR_Item_schematics___mantis_scythe";
+        weight = 0;
+        buyPrice = 800;
+        sellPrice = 267;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_schematics___mantis_scythe.paa";
+    };
+
+    class schematics___powder_charge {
+        variable = "schematics___powder_charge";
+        displayName = "STR_Item_schematics___powder_charge";
+        weight = 0;
+        buyPrice = 300;
+        sellPrice = 100;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_schematics___powder_charge.paa";
+    };
+
+    class scissors {
+        variable = "scissors";
+        displayName = "STR_Item_scissors";
+        weight = 1;
+        buyPrice = 3;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_scissors.paa";
+    };
+
+    class scrap_electronics {
+        variable = "scrap_electronics";
+        displayName = "STR_Item_scrap_electronics";
+        weight = 1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_scrap_electronics.paa";
+    };
+
+    class scrap_metal {
+        variable = "scrap_metal";
+        displayName = "STR_Item_scrap_metal";
+        weight = 1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_scrap_metal.paa";
+    };
+
+    class sensor_module {
+        variable = "sensor_module";
+        displayName = "STR_Item_sensor_module";
+        weight = 2;
+        buyPrice = 30;
+        sellPrice = 10;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_sensor_module.paa";
+    };
+
+    class sentry_bot_toy {
+        variable = "sentry_bot_toy";
+        displayName = "STR_Item_sentry_bot_toy";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_sentry_bot_toy.paa";
+    };
+
+    class sergeant_teddy {
+        variable = "sergeant_teddy";
+        displayName = "STR_Item_sergeant_teddy";
+        weight = 1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_sergeant_teddy.paa";
+    };
+
+    class sheet_music_book {
+        variable = "sheet_music_book";
+        displayName = "STR_Item_sheet_music_book";
+        weight = 1;
+        buyPrice = 100;
+        sellPrice = 34;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_sheet_music_book.paa";
+    };
+
+    class shot_glass {
+        variable = "shot_glass";
+        displayName = "STR_Item_shot_glass";
+        weight = 1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_shot_glass.paa";
+    };
+
+    class small_burned_book {
+        variable = "small_burned_book";
+        displayName = "STR_Item_small_burned_book";
+        weight = 1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_small_burned_book.paa";
+    };
+
+    class small_destroyed_book {
+        variable = "small_destroyed_book";
+        displayName = "STR_Item_small_destroyed_book";
+        weight = 1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_small_destroyed_book.paa";
+    };
+
+    class small_ruined_book {
+        variable = "small_ruined_book";
+        displayName = "STR_Item_small_ruined_book";
+        weight = 1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_small_ruined_book.paa";
+    };
+
+    class small_scorched_book {
+        variable = "small_scorched_book";
+        displayName = "STR_Item_small_scorched_book";
+        weight = 1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_small_scorched_book.paa";
+    };
+
+    class snow_globe___goodsprings {
+        variable = "snow_globe___goodsprings";
+        displayName = "STR_Item_snow_globe___goodsprings";
+        weight = 0;
+        buyPrice = 2000;
+        sellPrice = 667;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_snow_globe___goodsprings.paa";
+    };
+
+    class snow_globe___hoover_dam {
+        variable = "snow_globe___hoover_dam";
+        displayName = "STR_Item_snow_globe___hoover_dam";
+        weight = 0;
+        buyPrice = 2000;
+        sellPrice = 667;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_snow_globe___hoover_dam.paa";
+    };
+
+    class snow_globe___mormon_fort {
+        variable = "snow_globe___mormon_fort";
+        displayName = "STR_Item_snow_globe___mormon_fort";
+        weight = 0;
+        buyPrice = 2000;
+        sellPrice = 667;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_snow_globe___mormon_fort.paa";
+    };
+
+    class snow_globe___mt._charleston {
+        variable = "snow_globe___mt._charleston";
+        displayName = "STR_Item_snow_globe___mt._charleston";
+        weight = 0;
+        buyPrice = 2000;
+        sellPrice = 667;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_snow_globe___mt._charleston.paa";
+    };
+
+    class snow_globe___nellis_afb {
+        variable = "snow_globe___nellis_afb";
+        displayName = "STR_Item_snow_globe___nellis_afb";
+        weight = 0;
+        buyPrice = 2000;
+        sellPrice = 667;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_snow_globe___nellis_afb.paa";
+    };
+
+    class snow_globe___test_site {
+        variable = "snow_globe___test_site";
+        displayName = "STR_Item_snow_globe___test_site";
+        weight = 0;
+        buyPrice = 2000;
+        sellPrice = 667;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_snow_globe___test_site.paa";
+    };
+
+    class snow_globe___the_strip {
+        variable = "snow_globe___the_strip";
+        displayName = "STR_Item_snow_globe___the_strip";
+        weight = 0;
+        buyPrice = 2000;
+        sellPrice = 667;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_snow_globe___the_strip.paa";
+    };
+
+    class solar_array_parts {
+        variable = "solar_array_parts";
+        displayName = "STR_Item_solar_array_parts";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_solar_array_parts.paa";
+    };
+
+    class sonic_emitter {
+        variable = "sonic_emitter";
+        displayName = "STR_Item_sonic_emitter";
+        weight = 5;
+        buyPrice = 30;
+        sellPrice = 10;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_sonic_emitter.paa";
+    };
+
+    class spare_medical_supplies {
+        variable = "spare_medical_supplies";
+        displayName = "STR_Item_spare_medical_supplies";
+        weight = 0;
+        buyPrice = 100;
+        sellPrice = 34;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_spare_medical_supplies.paa";
+    };
+
+    class spatula {
+        variable = "spatula";
+        displayName = "STR_Item_spatula";
+        weight = 1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_spatula.paa";
+    };
+
+    class spork {
+        variable = "spork";
+        displayName = "STR_Item_spork";
+        weight = 0.5;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_spork.paa";
+    };
+
+    class steam_gauge_assembly {
+        variable = "steam_gauge_assembly";
+        displayName = "STR_Item_steam_gauge_assembly";
+        weight = 10;
+        buyPrice = 25;
+        sellPrice = 9;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_steam_gauge_assembly.paa";
+    };
+
+    class stress_and_the_modern_refugee:_a_primer {
+        variable = "stress_and_the_modern_refugee:_a_primer";
+        displayName = "STR_Item_stress_and_the_modern_refugee:_a_primer";
+        weight = 1;
+        buyPrice = 20;
+        sellPrice = 7;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_stress_and_the_modern_refugee:_a_primer.paa";
+    };
+
+    class sunset_sarsaparilla_bottle {
+        variable = "sunset_sarsaparilla_bottle";
+        displayName = "STR_Item_sunset_sarsaparilla_bottle";
+        weight = 1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_sunset_sarsaparilla_bottle.paa";
+    };
+
+    class sunset_sarsaparilla_deputy_badge {
+        variable = "sunset_sarsaparilla_deputy_badge";
+        displayName = "STR_Item_sunset_sarsaparilla_deputy_badge";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_sunset_sarsaparilla_deputy_badge.paa";
+    };
+
+    class sunset_sarsaparilla_star_bottle_cap {
+        variable = "sunset_sarsaparilla_star_bottle_cap";
+        displayName = "STR_Item_sunset_sarsaparilla_star_bottle_cap";
+        weight = 0;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_sunset_sarsaparilla_star_bottle_cap.paa";
+    };
+
+    class surgical_tools {
+        variable = "surgical_tools";
+        displayName = "STR_Item_surgical_tools";
+        weight = 1;
+        buyPrice = 1000;
+        sellPrice = 334;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_surgical_tools.paa";
+    };
+
+    class surgical_tubing {
+        variable = "surgical_tubing";
+        displayName = "STR_Item_surgical_tubing";
+        weight = 1;
+        buyPrice = 10;
+        sellPrice = 4;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_surgical_tubing.paa";
+    };
+
+    class suspicious_package {
+        variable = "suspicious_package";
+        displayName = "STR_Item_suspicious_package";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_suspicious_package.paa";
+    };
+
+    class tanned_fire_gecko_hide {
+        variable = "tanned_fire_gecko_hide";
+        displayName = "STR_Item_tanned_fire_gecko_hide";
+        weight = 1;
+        buyPrice = 125;
+        sellPrice = 42;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_tanned_fire_gecko_hide.paa";
+    };
+
+    class tanned_gecko_hide {
+        variable = "tanned_gecko_hide";
+        displayName = "STR_Item_tanned_gecko_hide";
+        weight = 1;
+        buyPrice = 50;
+        sellPrice = 17;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_tanned_gecko_hide.paa";
+    };
+
+    class tanned_golden_gecko_hide {
+        variable = "tanned_golden_gecko_hide";
+        displayName = "STR_Item_tanned_golden_gecko_hide";
+        weight = 1;
+        buyPrice = 250;
+        sellPrice = 84;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_tanned_golden_gecko_hide.paa";
+    };
+
+    class ted_gundersons_blood {
+        variable = "ted_gundersons_blood";
+        displayName = "STR_Item_ted_gundersons_blood";
+        weight = 0;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_ted_gundersons_blood.paa";
+    };
+
+    class teddy_bear {
+        variable = "teddy_bear";
+        displayName = "STR_Item_teddy_bear";
+        weight = 1;
+        buyPrice = 3;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_teddy_bear.paa";
+    };
+
+    class teddy_bear {
+        variable = "teddy_bear";
+        displayName = "STR_Item_teddy_bear";
+        weight = 1;
+        buyPrice = 3;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_teddy_bear.paa";
+    };
+
+    class thermite {
+        variable = "thermite";
+        displayName = "STR_Item_thermite";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_thermite.paa";
+    };
+
+    class thrust_control_modules {
+        variable = "thrust_control_modules";
+        displayName = "STR_Item_thrust_control_modules";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_thrust_control_modules.paa";
+    };
+
+    class thrust_control_modules {
+        variable = "thrust_control_modules";
+        displayName = "STR_Item_thrust_control_modules";
+        weight = 1;
+        buyPrice = 100;
+        sellPrice = 34;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_thrust_control_modules.paa";
+    };
+
+    class tin_can {
+        variable = "tin_can";
+        displayName = "STR_Item_tin_can";
+        weight = 1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_tin_can.paa";
+    };
+
+    class tin_plate {
+        variable = "tin_plate";
+        displayName = "STR_Item_tin_plate";
+        weight = 1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_tin_plate.paa";
+    };
+
+    class tiny,_tiny_babies:_all_you_need_to_know_about_pediatric_medicine {
+        variable = "tiny,_tiny_babies:_all_you_need_to_know_about_pediatric_medicine";
+        displayName = "STR_Item_tiny,_tiny_babies:_all_you_need_to_know_about_pediatric_medicine";
+        weight = 1;
+        buyPrice = 20;
+        sellPrice = 7;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_tiny,_tiny_babies:_all_you_need_to_know_about_pediatric_medicine.paa";
+    };
+
+    class toaster {
+        variable = "toaster";
+        displayName = "STR_Item_toaster";
+        weight = 3;
+        buyPrice = 5;
+        sellPrice = 2;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_toaster.paa";
+    };
+
+    class tommy_torinis_business_card {
+        variable = "tommy_torinis_business_card";
+        displayName = "STR_Item_tommy_torinis_business_card";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_tommy_torinis_business_card.paa";
+    };
+
+    class toy_car {
+        variable = "toy_car";
+        displayName = "STR_Item_toy_car";
+        weight = 1;
+        buyPrice = 5;
+        sellPrice = 2;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_toy_car.paa";
+    };
+
+    class triangle {
+        variable = "triangle";
+        displayName = "STR_Item_triangle";
+        weight = 1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_triangle.paa";
+    };
+
+    class turpentine {
+        variable = "turpentine";
+        displayName = "STR_Item_turpentine";
+        weight = 2;
+        buyPrice = 10;
+        sellPrice = 4;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_turpentine.paa";
+    };
+
+    class tweezers {
+        variable = "tweezers";
+        displayName = "STR_Item_tweezers";
+        weight = 1;
+        buyPrice = 3;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_tweezers.paa";
+    };
+
+    class vacuum_cleaner {
+        variable = "vacuum_cleaner";
+        displayName = "STR_Item_vacuum_cleaner";
+        weight = 10;
+        buyPrice = 20;
+        sellPrice = 7;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_vacuum_cleaner.paa";
+    };
+
+    class van_graff_package {
+        variable = "van_graff_package";
+        displayName = "STR_Item_van_graff_package";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_van_graff_package.paa";
+    };
+
+    class vault_13_canteen {
+        variable = "vault_13_canteen";
+        displayName = "STR_Item_vault_13_canteen";
+        weight = 0;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_vault_13_canteen.paa";
+    };
+
+    class vertibird_bomb {
+        variable = "vertibird_bomb";
+        displayName = "STR_Item_vertibird_bomb";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_vertibird_bomb.paa";
+    };
+
+    class violets_head {
+        variable = "violets_head";
+        displayName = "STR_Item_violets_head";
+        weight = 0;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_violets_head.paa";
+    };
+
+    class violets_mangled_head {
+        variable = "violets_mangled_head";
+        displayName = "STR_Item_violets_mangled_head";
+        weight = 0;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_violets_mangled_head.paa";
+    };
+
+    class violettas_brain {
+        variable = "violettas_brain";
+        displayName = "STR_Item_violettas_brain";
+        weight = 0;
+        buyPrice = 0;
+        sellPrice = 0;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_violettas_brain.paa";
+    };
+
+    class whet_stone {
+        variable = "whet_stone";
+        displayName = "STR_Item_whet_stone";
+        weight = 1;
+        buyPrice = 4;
+        sellPrice = 2;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_whet_stone.paa";
+    };
+
+    class white_plate {
+        variable = "white_plate";
+        displayName = "STR_Item_white_plate";
+        weight = 1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_white_plate.paa";
+    };
+
+    class wonderglue {
+        variable = "wonderglue";
+        displayName = "STR_Item_wonderglue";
+        weight = 1;
+        buyPrice = 10;
+        sellPrice = 4;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_wonderglue.paa";
+    };
+
+    class wood_chipper {
+        variable = "wood_chipper";
+        displayName = "STR_Item_wood_chipper";
+        weight = 50;
+        buyPrice = 25;
+        sellPrice = 9;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_wood_chipper.paa";
+    };
+
+    class wrench {
+        variable = "wrench";
+        displayName = "STR_Item_wrench";
+        weight = 1;
+        buyPrice = 1;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_wrench.paa";
+    };
+
+    class yeast {
+        variable = "yeast";
+        displayName = "STR_Item_yeast";
+        weight = 1;
+        buyPrice = 2;
+        sellPrice = 1;
+        illegal = false;
+        edible = -1;
+        drinkable = -1;
+        icon = "icons\ico_yeast.paa";
+    };
+

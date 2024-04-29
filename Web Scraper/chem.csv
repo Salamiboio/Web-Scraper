@@ -1,0 +1,39 @@
+Image,Name,Weight,Value,Effect,Addiction,Form ID
+,Ant queen pheromones,1.0,75,"+3 CH, -3 IN, -3 PE",,00033068
+,Antivenom,0.0,25,Cures animal poison,,000E2C6F
+,Ant nectar,0.25,20,"+4 ST (240s), -2 CH (240s), -2 IN (240s),",Ant nectar addiction 5% +20 UMON (1h) -2 ST,00031020
+,Auto-inject stimpak,0.2,75,Automatic use at 50% health HP +90,,xx00917C
+,Auto-inject super stimpak,0.2,150,Automatic use at 25% health Super stimpak sickness- (-1 ST and -1 AG) HP +180,,xx00917D
+,Blood Shield,0.5,50,"+4 HP (6s), +50 Poison Resistance",,xx01110A
+,Buffout,0.0,20,"+3 EN (240s), +60 HP (240s), +2 ST (240s)",Buffout addiction 10% +30 UMON (30h),00015163
+,Cateye,0.0,20,Low-Light Vision (120s),,0007EA1B
+,Coyote tobacco chew,0.01,1,"+1 PE (240s), +1 AG (240s) Hardcore mode only: SLP -30",Tobacco addiction 10% +30 UMON (30h),000EACA3
+,Datura antivenom,0.5,50,Cures Poison,,xx00F948
+,Datura hide,0.5,20,+1 DT (60s),,xx00CCF6
+,Dixon's Jet,0.0,5,+10 AP (240s),Jet addiction 50% +30 UMON (30h) -1 AG and -1 CH,00122B49
+,Doctor's bag,1.0,55,Heals all Crippled Limbs by +36,,000CB05C
+,Fiery purgative,0.2,5,"Cures animal poison END -1, RAD -5 (10s)",,xx00917B
+,Fire ant nectar,1.0,35,"+25% Fire Resistance (120s), +4 AG (120s), -3 IN (120s)",Ant nectar addiction 5% -2 ST,00085ABB
+,Fixer,0.0,20,Temporary addiction removal (120s),,000CB5A9
+,Ghost Sight,0.0,20,Ghost Sight vision (150s),,xx012C38
+,Healing poultice,0.03,20,"+250 Restores limb condition, +5 HP (18s), -1 AG (18s)",,xx01103C
+,Healing powder,0.03,5,"-2 PE (18s), +2 HP (18s)",,00136A1D
+,Hydra,0.0,55,Restores limb condition +10 for 60s,Hydra addiction 10% -3 EN,0013B2C3
+,Jet,0.0,20,+15 AP (240s),Jet addiction 20% +30 UMON (30h) -1 AG and -1 CH,00015164
+,Med-X,0.0,20,+25 Damage Resistance (240s),Med-X addiction 10% +30 UMON (30h) -1 AG and -1 IN,00050F8F
+,Medical supplies,10.0,0,Restores all limbs,,000F1865
+,Mentats,0.0,20,"+2 IN (240s), +2 PE (240s), +1 CH (240s)",Mentats addiction 5%+30 UMON (30h) -1 IN and -1 PE,00015165
+,Party Time Mentats,0.0,20,"+2 IN (60s), +2 PE (60s), +5 CH (60s)",Mentats addiction 15%+30 UMON (30h) -1 IN and -1 PE,00146CCB
+,Psycho,0.0,20,+25% Damage (240s),Psycho addiction 20% +30 UMON (30h) -1 EN and -1 PE,00015166
+,Rad-X,0.0,20,+25 Radiation Resistance (240s),,00015168
+,RadAway,0.0,20,-50 RAD,,00015167
+,Rebound,0.0,20,+5 AP regeneration (60s),Jet addiction 20% +30 UMON (30h) -1 AG and -1 CH,000CEA5F
+,Rocket,0.0,20,+30 AP (60s),Jet addiction 30% +30 UMON (30h) -1 AG and -1 CH,00146CCD
+,Rushing water,1.0,20,-50 H2O +50% Attack Speed (30s) HP +2(5s),,xx009180
+,Slasher,0.0,20,"+25 Damage Resistance (60s), +25% Damage (60s)",Psycho addiction 20% +30 UMON (30h) -1 EN and -1 PE,00146CCA
+,Steady,0.0,20,Weapon spread reduced (60s),Steady addiction 80% +30 UMON -1 ST and -1 AG,000CED8C
+,Stimpak,0.0,75,+5 HP (6s),,00015169
+,Super stimpak,0.0,150,"+20 HP (3s), super stimpak sickness (-1 ST and -1 AG)",,000CCEF2
+,Turbo,0.0,20,Turbo (Slow Motion) (3s),Turbo addiction 20% -2 AG,00120D81
+,Ultrajet,0.0,50,+40 AP (240s),"Ultrajet addiction 20% chance +12 UMON (48m) -2 AG, -1 PE and -2 ST",000C9CF4
+,Weapon binding ritual,0.5,50,+150 Restores limb condition +10 Melee Damage (120s) +10 Unarmed Damage (120s) -2 HP (2s),,xx00CCF5

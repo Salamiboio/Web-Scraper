@@ -1,0 +1,4008 @@
+        <Key ID="STR_Item_$5_ncr">
+           <Original>$5 NCR</Original>
+           <Czech>$5 NCR</Czech>
+           <Spanish>$5 NCR</Spanish>
+           <Russian>$5 NCR</Russian>
+           <German>$5 NCR</German>
+           <French>$5 NCR</French>
+           <Italian>$5 NCR</Italian>
+           <Portuguese>$5 NCR</Portuguese>
+           <Polish>$5 NCR</Polish>
+           <Chinesesimp>$5 NCR</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_$20_ncr">
+           <Original>$20 NCR</Original>
+           <Czech>$20 NCR</Czech>
+           <Spanish>$20 NCR</Spanish>
+           <Russian>$20 NCR</Russian>
+           <German>$20 NCR</German>
+           <French>$20 NCR</French>
+           <Italian>$20 NCR</Italian>
+           <Portuguese>$20 NCR</Portuguese>
+           <Polish>$20 NCR</Polish>
+           <Chinesesimp>$20 NCR</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_$100_ncr">
+           <Original>$100 NCR</Original>
+           <Czech>$100 NCR</Czech>
+           <Spanish>$100 NCR</Spanish>
+           <Russian>$100 NCR</Russian>
+           <German>$100 NCR</German>
+           <French>$100 NCR</French>
+           <Italian>$100 NCR</Italian>
+           <Portuguese>$100 NCR</Portuguese>
+           <Polish>$100 NCR</Polish>
+           <Chinesesimp>$100 NCR</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_10-ball">
+           <Original>10-ball</Original>
+           <Czech>10-ball</Czech>
+           <Spanish>10-ball</Spanish>
+           <Russian>10-ball</Russian>
+           <German>10-ball</German>
+           <French>10-ball</French>
+           <Italian>10-ball</Italian>
+           <Portuguese>10-ball</Portuguese>
+           <Polish>10-ball</Polish>
+           <Chinesesimp>10-ball</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_13-ball">
+           <Original>13-ball</Original>
+           <Czech>13-ball</Czech>
+           <Spanish>13-ball</Spanish>
+           <Russian>13-ball</Russian>
+           <German>13-ball</German>
+           <French>13-ball</French>
+           <Italian>13-ball</Italian>
+           <Portuguese>13-ball</Portuguese>
+           <Polish>13-ball</Polish>
+           <Chinesesimp>13-ball</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_2-ball">
+           <Original>2-ball</Original>
+           <Czech>2-ball</Czech>
+           <Spanish>2-ball</Spanish>
+           <Russian>2-ball</Russian>
+           <German>2-ball</German>
+           <French>2-ball</French>
+           <Italian>2-ball</Italian>
+           <Portuguese>2-ball</Portuguese>
+           <Polish>2-ball</Polish>
+           <Chinesesimp>2-ball</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_5-ball">
+           <Original>5-ball</Original>
+           <Czech>5-ball</Czech>
+           <Spanish>5-ball</Spanish>
+           <Russian>5-ball</Russian>
+           <German>5-ball</German>
+           <French>5-ball</French>
+           <Italian>5-ball</Italian>
+           <Portuguese>5-ball</Portuguese>
+           <Polish>5-ball</Polish>
+           <Chinesesimp>5-ball</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_8-ball">
+           <Original>8-ball</Original>
+           <Czech>8-ball</Czech>
+           <Spanish>8-ball</Spanish>
+           <Russian>8-ball</Russian>
+           <German>8-ball</German>
+           <French>8-ball</French>
+           <Italian>8-ball</Italian>
+           <Portuguese>8-ball</Portuguese>
+           <Polish>8-ball</Polish>
+           <Chinesesimp>8-ball</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_abraxo_cleaner">
+           <Original>Abraxo cleaner</Original>
+           <Czech>Abraxo cleaner</Czech>
+           <Spanish>Abraxo cleaner</Spanish>
+           <Russian>Abraxo cleaner</Russian>
+           <German>Abraxo cleaner</German>
+           <French>Abraxo cleaner</French>
+           <Italian>Abraxo cleaner</Italian>
+           <Portuguese>Abraxo cleaner</Portuguese>
+           <Polish>Abraxo cleaner</Polish>
+           <Chinesesimp>Abraxo cleaner</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_acoustic_guitar">
+           <Original>Acoustic guitar</Original>
+           <Czech>Acoustic guitar</Czech>
+           <Spanish>Acoustic guitar</Spanish>
+           <Russian>Acoustic guitar</Russian>
+           <German>Acoustic guitar</German>
+           <French>Acoustic guitar</French>
+           <Italian>Acoustic guitar</Italian>
+           <Portuguese>Acoustic guitar</Portuguese>
+           <Polish>Acoustic guitar</Polish>
+           <Chinesesimp>Acoustic guitar</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_ashtray">
+           <Original>Ashtray</Original>
+           <Czech>Ashtray</Czech>
+           <Spanish>Ashtray</Spanish>
+           <Russian>Ashtray</Russian>
+           <German>Ashtray</German>
+           <French>Ashtray</French>
+           <Italian>Ashtray</Italian>
+           <Portuguese>Ashtray</Portuguese>
+           <Polish>Ashtray</Polish>
+           <Chinesesimp>Ashtray</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_automatic_surgical_unit">
+           <Original>Automatic surgical unit</Original>
+           <Czech>Automatic surgical unit</Czech>
+           <Spanish>Automatic surgical unit</Spanish>
+           <Russian>Automatic surgical unit</Russian>
+           <German>Automatic surgical unit</German>
+           <French>Automatic surgical unit</French>
+           <Italian>Automatic surgical unit</Italian>
+           <Portuguese>Automatic surgical unit</Portuguese>
+           <Polish>Automatic surgical unit</Polish>
+           <Chinesesimp>Automatic surgical unit</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_bag_of_bottle_caps_(grecks)">
+           <Original>Bag of bottle caps (Grecks)</Original>
+           <Czech>Bag of bottle caps (Grecks)</Czech>
+           <Spanish>Bag of bottle caps (Grecks)</Spanish>
+           <Russian>Bag of bottle caps (Grecks)</Russian>
+           <German>Bag of bottle caps (Grecks)</German>
+           <French>Bag of bottle caps (Grecks)</French>
+           <Italian>Bag of bottle caps (Grecks)</Italian>
+           <Portuguese>Bag of bottle caps (Grecks)</Portuguese>
+           <Polish>Bag of bottle caps (Grecks)</Polish>
+           <Chinesesimp>Bag of bottle caps (Grecks)</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_bag_of_bottle_caps_(lady_jane)">
+           <Original>Bag of bottle caps (Lady Jane)</Original>
+           <Czech>Bag of bottle caps (Lady Jane)</Czech>
+           <Spanish>Bag of bottle caps (Lady Jane)</Spanish>
+           <Russian>Bag of bottle caps (Lady Jane)</Russian>
+           <German>Bag of bottle caps (Lady Jane)</German>
+           <French>Bag of bottle caps (Lady Jane)</French>
+           <Italian>Bag of bottle caps (Lady Jane)</Italian>
+           <Portuguese>Bag of bottle caps (Lady Jane)</Portuguese>
+           <Polish>Bag of bottle caps (Lady Jane)</Polish>
+           <Chinesesimp>Bag of bottle caps (Lady Jane)</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_bag_of_bottle_caps_(santiago)">
+           <Original>Bag of bottle caps (Santiago)</Original>
+           <Czech>Bag of bottle caps (Santiago)</Czech>
+           <Spanish>Bag of bottle caps (Santiago)</Spanish>
+           <Russian>Bag of bottle caps (Santiago)</Russian>
+           <German>Bag of bottle caps (Santiago)</German>
+           <French>Bag of bottle caps (Santiago)</French>
+           <Italian>Bag of bottle caps (Santiago)</Italian>
+           <Portuguese>Bag of bottle caps (Santiago)</Portuguese>
+           <Polish>Bag of bottle caps (Santiago)</Polish>
+           <Chinesesimp>Bag of bottle caps (Santiago)</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_bark_scorpion_poison_gland">
+           <Original>Bark scorpion poison gland</Original>
+           <Czech>Bark scorpion poison gland</Czech>
+           <Spanish>Bark scorpion poison gland</Spanish>
+           <Russian>Bark scorpion poison gland</Russian>
+           <German>Bark scorpion poison gland</German>
+           <French>Bark scorpion poison gland</French>
+           <Italian>Bark scorpion poison gland</Italian>
+           <Portuguese>Bark scorpion poison gland</Portuguese>
+           <Polish>Bark scorpion poison gland</Polish>
+           <Chinesesimp>Bark scorpion poison gland</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_barnabas_bear">
+           <Original>Barnabas bear</Original>
+           <Czech>Barnabas bear</Czech>
+           <Spanish>Barnabas bear</Spanish>
+           <Russian>Barnabas bear</Russian>
+           <German>Barnabas bear</German>
+           <French>Barnabas bear</French>
+           <Italian>Barnabas bear</Italian>
+           <Portuguese>Barnabas bear</Portuguese>
+           <Polish>Barnabas bear</Polish>
+           <Chinesesimp>Barnabas bear</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_baseball_glove">
+           <Original>Baseball glove</Original>
+           <Czech>Baseball glove</Czech>
+           <Spanish>Baseball glove</Spanish>
+           <Russian>Baseball glove</Russian>
+           <German>Baseball glove</German>
+           <French>Baseball glove</French>
+           <Italian>Baseball glove</Italian>
+           <Portuguese>Baseball glove</Portuguese>
+           <Polish>Baseball glove</Polish>
+           <Chinesesimp>Baseball glove</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_baseball">
+           <Original>Baseball</Original>
+           <Czech>Baseball</Czech>
+           <Spanish>Baseball</Spanish>
+           <Russian>Baseball</Russian>
+           <German>Baseball</German>
+           <French>Baseball</French>
+           <Italian>Baseball</Italian>
+           <Portuguese>Baseball</Portuguese>
+           <Polish>Baseball</Polish>
+           <Chinesesimp>Baseball</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_basketball">
+           <Original>Basketball</Original>
+           <Czech>Basketball</Czech>
+           <Spanish>Basketball</Spanish>
+           <Russian>Basketball</Russian>
+           <German>Basketball</German>
+           <French>Basketball</French>
+           <Italian>Basketball</Italian>
+           <Portuguese>Basketball</Portuguese>
+           <Polish>Basketball</Polish>
+           <Chinesesimp>Basketball</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_bent_tin_can">
+           <Original>Bent tin can</Original>
+           <Czech>Bent tin can</Czech>
+           <Spanish>Bent tin can</Spanish>
+           <Russian>Bent tin can</Russian>
+           <German>Bent tin can</German>
+           <French>Bent tin can</French>
+           <Italian>Bent tin can</Italian>
+           <Portuguese>Bent tin can</Portuguese>
+           <Polish>Bent tin can</Polish>
+           <Chinesesimp>Bent tin can</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_big_spoon">
+           <Original>Big spoon</Original>
+           <Czech>Big spoon</Czech>
+           <Spanish>Big spoon</Spanish>
+           <Russian>Big spoon</Russian>
+           <German>Big spoon</German>
+           <French>Big spoon</French>
+           <Italian>Big spoon</Italian>
+           <Portuguese>Big spoon</Portuguese>
+           <Polish>Big spoon</Polish>
+           <Chinesesimp>Big spoon</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_bobby_pin">
+           <Original>Bobby pin</Original>
+           <Czech>Bobby pin</Czech>
+           <Spanish>Bobby pin</Spanish>
+           <Russian>Bobby pin</Russian>
+           <German>Bobby pin</German>
+           <French>Bobby pin</French>
+           <Italian>Bobby pin</Italian>
+           <Portuguese>Bobby pin</Portuguese>
+           <Polish>Bobby pin</Polish>
+           <Chinesesimp>Bobby pin</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_bonesaw">
+           <Original>Bonesaw</Original>
+           <Czech>Bonesaw</Czech>
+           <Spanish>Bonesaw</Spanish>
+           <Russian>Bonesaw</Russian>
+           <German>Bonesaw</German>
+           <French>Bonesaw</French>
+           <Italian>Bonesaw</Italian>
+           <Portuguese>Bonesaw</Portuguese>
+           <Polish>Bonesaw</Polish>
+           <Chinesesimp>Bonesaw</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_bottle_cap">
+           <Original>Bottle cap</Original>
+           <Czech>Bottle cap</Czech>
+           <Spanish>Bottle cap</Spanish>
+           <Russian>Bottle cap</Russian>
+           <German>Bottle cap</German>
+           <French>Bottle cap</French>
+           <Italian>Bottle cap</Italian>
+           <Portuguese>Bottle cap</Portuguese>
+           <Polish>Bottle cap</Polish>
+           <Chinesesimp>Bottle cap</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_box_of_detergent">
+           <Original>Box of detergent</Original>
+           <Czech>Box of detergent</Czech>
+           <Spanish>Box of detergent</Spanish>
+           <Russian>Box of detergent</Russian>
+           <German>Box of detergent</German>
+           <French>Box of detergent</French>
+           <Italian>Box of detergent</Italian>
+           <Portuguese>Box of detergent</Portuguese>
+           <Polish>Box of detergent</Polish>
+           <Chinesesimp>Box of detergent</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_brahmin_skull">
+           <Original>Brahmin skull</Original>
+           <Czech>Brahmin skull</Czech>
+           <Spanish>Brahmin skull</Spanish>
+           <Russian>Brahmin skull</Russian>
+           <German>Brahmin skull</German>
+           <French>Brahmin skull</French>
+           <Italian>Brahmin skull</Italian>
+           <Portuguese>Brahmin skull</Portuguese>
+           <Polish>Brahmin skull</Polish>
+           <Chinesesimp>Brahmin skull</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_broken_sentry_bot_toy">
+           <Original>Broken sentry bot toy</Original>
+           <Czech>Broken sentry bot toy</Czech>
+           <Spanish>Broken sentry bot toy</Spanish>
+           <Russian>Broken sentry bot toy</Russian>
+           <German>Broken sentry bot toy</German>
+           <French>Broken sentry bot toy</French>
+           <Italian>Broken sentry bot toy</Italian>
+           <Portuguese>Broken sentry bot toy</Portuguese>
+           <Polish>Broken sentry bot toy</Polish>
+           <Chinesesimp>Broken sentry bot toy</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_brotherhood_of_steel_holotag">
+           <Original>Brotherhood of Steel holotag</Original>
+           <Czech>Brotherhood of Steel holotag</Czech>
+           <Spanish>Brotherhood of Steel holotag</Spanish>
+           <Russian>Brotherhood of Steel holotag</Russian>
+           <German>Brotherhood of Steel holotag</German>
+           <French>Brotherhood of Steel holotag</French>
+           <Italian>Brotherhood of Steel holotag</Italian>
+           <Portuguese>Brotherhood of Steel holotag</Portuguese>
+           <Polish>Brotherhood of Steel holotag</Polish>
+           <Chinesesimp>Brotherhood of Steel holotag</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_butter_knife_(common)">
+           <Original>Butter knife (common)</Original>
+           <Czech>Butter knife (common)</Czech>
+           <Spanish>Butter knife (common)</Spanish>
+           <Russian>Butter knife (common)</Russian>
+           <German>Butter knife (common)</German>
+           <French>Butter knife (common)</French>
+           <Italian>Butter knife (common)</Italian>
+           <Portuguese>Butter knife (common)</Portuguese>
+           <Polish>Butter knife (common)</Polish>
+           <Chinesesimp>Butter knife (common)</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_butter_knife_(uncommon)">
+           <Original>Butter knife (uncommon)</Original>
+           <Czech>Butter knife (uncommon)</Czech>
+           <Spanish>Butter knife (uncommon)</Spanish>
+           <Russian>Butter knife (uncommon)</Russian>
+           <German>Butter knife (uncommon)</German>
+           <French>Butter knife (uncommon)</French>
+           <Italian>Butter knife (uncommon)</Italian>
+           <Portuguese>Butter knife (uncommon)</Portuguese>
+           <Polish>Butter knife (uncommon)</Polish>
+           <Chinesesimp>Butter knife (uncommon)</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_camera">
+           <Original>Camera</Original>
+           <Czech>Camera</Czech>
+           <Spanish>Camera</Spanish>
+           <Russian>Camera</Russian>
+           <German>Camera</German>
+           <French>Camera</French>
+           <Italian>Camera</Italian>
+           <Portuguese>Camera</Portuguese>
+           <Polish>Camera</Polish>
+           <Chinesesimp>Camera</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_camp_forlorn_hope_supply_shipment">
+           <Original>Camp Forlorn Hope supply shipment</Original>
+           <Czech>Camp Forlorn Hope supply shipment</Czech>
+           <Spanish>Camp Forlorn Hope supply shipment</Spanish>
+           <Russian>Camp Forlorn Hope supply shipment</Russian>
+           <German>Camp Forlorn Hope supply shipment</German>
+           <French>Camp Forlorn Hope supply shipment</French>
+           <Italian>Camp Forlorn Hope supply shipment</Italian>
+           <Portuguese>Camp Forlorn Hope supply shipment</Portuguese>
+           <Polish>Camp Forlorn Hope supply shipment</Polish>
+           <Chinesesimp>Camp Forlorn Hope supply shipment</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_caravan_deck">
+           <Original>Caravan deck</Original>
+           <Czech>Caravan deck</Czech>
+           <Spanish>Caravan deck</Spanish>
+           <Russian>Caravan deck</Russian>
+           <German>Caravan deck</German>
+           <French>Caravan deck</French>
+           <Italian>Caravan deck</Italian>
+           <Portuguese>Caravan deck</Portuguese>
+           <Polish>Caravan deck</Polish>
+           <Chinesesimp>Caravan deck</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_carton_of_cigarettes">
+           <Original>Carton of cigarettes</Original>
+           <Czech>Carton of cigarettes</Czech>
+           <Spanish>Carton of cigarettes</Spanish>
+           <Russian>Carton of cigarettes</Russian>
+           <German>Carton of cigarettes</German>
+           <French>Carton of cigarettes</French>
+           <Italian>Carton of cigarettes</Italian>
+           <Portuguese>Carton of cigarettes</Portuguese>
+           <Polish>Carton of cigarettes</Polish>
+           <Chinesesimp>Carton of cigarettes</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_case_box,_.308">
+           <Original>Case box, .308</Original>
+           <Czech>Case box, .308</Czech>
+           <Spanish>Case box, .308</Spanish>
+           <Russian>Case box, .308</Russian>
+           <German>Case box, .308</German>
+           <French>Case box, .308</French>
+           <Italian>Case box, .308</Italian>
+           <Portuguese>Case box, .308</Portuguese>
+           <Polish>Case box, .308</Polish>
+           <Chinesesimp>Case box, .308</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_case_box,_.357_magnum">
+           <Original>Case box, .357 Magnum</Original>
+           <Czech>Case box, .357 Magnum</Czech>
+           <Spanish>Case box, .357 Magnum</Spanish>
+           <Russian>Case box, .357 Magnum</Russian>
+           <German>Case box, .357 Magnum</German>
+           <French>Case box, .357 Magnum</French>
+           <Italian>Case box, .357 Magnum</Italian>
+           <Portuguese>Case box, .357 Magnum</Portuguese>
+           <Polish>Case box, .357 Magnum</Polish>
+           <Chinesesimp>Case box, .357 Magnum</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_case_box,_.44_magnum">
+           <Original>Case box, .44 Magnum</Original>
+           <Czech>Case box, .44 Magnum</Czech>
+           <Spanish>Case box, .44 Magnum</Spanish>
+           <Russian>Case box, .44 Magnum</Russian>
+           <German>Case box, .44 Magnum</German>
+           <French>Case box, .44 Magnum</French>
+           <Italian>Case box, .44 Magnum</Italian>
+           <Portuguese>Case box, .44 Magnum</Portuguese>
+           <Polish>Case box, .44 Magnum</Polish>
+           <Chinesesimp>Case box, .44 Magnum</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_case_box,_.45-70_govt">
+           <Original>Case box, .45-70 Gov't</Original>
+           <Czech>Case box, .45-70 Gov't</Czech>
+           <Spanish>Case box, .45-70 Gov't</Spanish>
+           <Russian>Case box, .45-70 Gov't</Russian>
+           <German>Case box, .45-70 Gov't</German>
+           <French>Case box, .45-70 Gov't</French>
+           <Italian>Case box, .45-70 Gov't</Italian>
+           <Portuguese>Case box, .45-70 Gov't</Portuguese>
+           <Polish>Case box, .45-70 Gov't</Polish>
+           <Chinesesimp>Case box, .45-70 Gov't</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_case_box,_.50_mg">
+           <Original>Case box, .50 MG</Original>
+           <Czech>Case box, .50 MG</Czech>
+           <Spanish>Case box, .50 MG</Spanish>
+           <Russian>Case box, .50 MG</Russian>
+           <German>Case box, .50 MG</German>
+           <French>Case box, .50 MG</French>
+           <Italian>Case box, .50 MG</Italian>
+           <Portuguese>Case box, .50 MG</Portuguese>
+           <Polish>Case box, .50 MG</Polish>
+           <Chinesesimp>Case box, .50 MG</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_case_box,_10mm">
+           <Original>Case box, 10mm</Original>
+           <Czech>Case box, 10mm</Czech>
+           <Spanish>Case box, 10mm</Spanish>
+           <Russian>Case box, 10mm</Russian>
+           <German>Case box, 10mm</German>
+           <French>Case box, 10mm</French>
+           <Italian>Case box, 10mm</Italian>
+           <Portuguese>Case box, 10mm</Portuguese>
+           <Polish>Case box, 10mm</Polish>
+           <Chinesesimp>Case box, 10mm</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_case_box,_12.7mm">
+           <Original>Case box, 12.7mm</Original>
+           <Czech>Case box, 12.7mm</Czech>
+           <Spanish>Case box, 12.7mm</Spanish>
+           <Russian>Case box, 12.7mm</Russian>
+           <German>Case box, 12.7mm</German>
+           <French>Case box, 12.7mm</French>
+           <Italian>Case box, 12.7mm</Italian>
+           <Portuguese>Case box, 12.7mm</Portuguese>
+           <Polish>Case box, 12.7mm</Polish>
+           <Chinesesimp>Case box, 12.7mm</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_case_box,_5.56mm">
+           <Original>Case box, 5.56mm</Original>
+           <Czech>Case box, 5.56mm</Czech>
+           <Spanish>Case box, 5.56mm</Spanish>
+           <Russian>Case box, 5.56mm</Russian>
+           <German>Case box, 5.56mm</German>
+           <French>Case box, 5.56mm</French>
+           <Italian>Case box, 5.56mm</Italian>
+           <Portuguese>Case box, 5.56mm</Portuguese>
+           <Polish>Case box, 5.56mm</Polish>
+           <Chinesesimp>Case box, 5.56mm</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_case_box,_5mm">
+           <Original>Case box, 5mm</Original>
+           <Czech>Case box, 5mm</Czech>
+           <Spanish>Case box, 5mm</Spanish>
+           <Russian>Case box, 5mm</Russian>
+           <German>Case box, 5mm</German>
+           <French>Case box, 5mm</French>
+           <Italian>Case box, 5mm</Italian>
+           <Portuguese>Case box, 5mm</Portuguese>
+           <Polish>Case box, 5mm</Polish>
+           <Chinesesimp>Case box, 5mm</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_case_box,_9mm">
+           <Original>Case box, 9mm</Original>
+           <Czech>Case box, 9mm</Czech>
+           <Spanish>Case box, 9mm</Spanish>
+           <Russian>Case box, 9mm</Russian>
+           <German>Case box, 9mm</German>
+           <French>Case box, 9mm</French>
+           <Italian>Case box, 9mm</Italian>
+           <Portuguese>Case box, 9mm</Portuguese>
+           <Polish>Case box, 9mm</Polish>
+           <Chinesesimp>Case box, 9mm</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_case,_.308">
+           <Original>Case, .308</Original>
+           <Czech>Case, .308</Czech>
+           <Spanish>Case, .308</Spanish>
+           <Russian>Case, .308</Russian>
+           <German>Case, .308</German>
+           <French>Case, .308</French>
+           <Italian>Case, .308</Italian>
+           <Portuguese>Case, .308</Portuguese>
+           <Polish>Case, .308</Polish>
+           <Chinesesimp>Case, .308</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_case,_.357_magnum">
+           <Original>Case, .357 Magnum</Original>
+           <Czech>Case, .357 Magnum</Czech>
+           <Spanish>Case, .357 Magnum</Spanish>
+           <Russian>Case, .357 Magnum</Russian>
+           <German>Case, .357 Magnum</German>
+           <French>Case, .357 Magnum</French>
+           <Italian>Case, .357 Magnum</Italian>
+           <Portuguese>Case, .357 Magnum</Portuguese>
+           <Polish>Case, .357 Magnum</Polish>
+           <Chinesesimp>Case, .357 Magnum</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_case,_.44_magnum">
+           <Original>Case, .44 Magnum</Original>
+           <Czech>Case, .44 Magnum</Czech>
+           <Spanish>Case, .44 Magnum</Spanish>
+           <Russian>Case, .44 Magnum</Russian>
+           <German>Case, .44 Magnum</German>
+           <French>Case, .44 Magnum</French>
+           <Italian>Case, .44 Magnum</Italian>
+           <Portuguese>Case, .44 Magnum</Portuguese>
+           <Polish>Case, .44 Magnum</Polish>
+           <Chinesesimp>Case, .44 Magnum</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_case,_.45-70_govt">
+           <Original>Case, .45-70 Gov't</Original>
+           <Czech>Case, .45-70 Gov't</Czech>
+           <Spanish>Case, .45-70 Gov't</Spanish>
+           <Russian>Case, .45-70 Gov't</Russian>
+           <German>Case, .45-70 Gov't</German>
+           <French>Case, .45-70 Gov't</French>
+           <Italian>Case, .45-70 Gov't</Italian>
+           <Portuguese>Case, .45-70 Gov't</Portuguese>
+           <Polish>Case, .45-70 Gov't</Polish>
+           <Chinesesimp>Case, .45-70 Gov't</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_case,_.50_mg">
+           <Original>Case, .50 MG</Original>
+           <Czech>Case, .50 MG</Czech>
+           <Spanish>Case, .50 MG</Spanish>
+           <Russian>Case, .50 MG</Russian>
+           <German>Case, .50 MG</German>
+           <French>Case, .50 MG</French>
+           <Italian>Case, .50 MG</Italian>
+           <Portuguese>Case, .50 MG</Portuguese>
+           <Polish>Case, .50 MG</Polish>
+           <Chinesesimp>Case, .50 MG</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_case,_10mm">
+           <Original>Case, 10mm</Original>
+           <Czech>Case, 10mm</Czech>
+           <Spanish>Case, 10mm</Spanish>
+           <Russian>Case, 10mm</Russian>
+           <German>Case, 10mm</German>
+           <French>Case, 10mm</French>
+           <Italian>Case, 10mm</Italian>
+           <Portuguese>Case, 10mm</Portuguese>
+           <Polish>Case, 10mm</Polish>
+           <Chinesesimp>Case, 10mm</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_case,_12.7mm">
+           <Original>Case, 12.7mm</Original>
+           <Czech>Case, 12.7mm</Czech>
+           <Spanish>Case, 12.7mm</Spanish>
+           <Russian>Case, 12.7mm</Russian>
+           <German>Case, 12.7mm</German>
+           <French>Case, 12.7mm</French>
+           <Italian>Case, 12.7mm</Italian>
+           <Portuguese>Case, 12.7mm</Portuguese>
+           <Polish>Case, 12.7mm</Polish>
+           <Chinesesimp>Case, 12.7mm</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_case,_5.56mm">
+           <Original>Case, 5.56mm</Original>
+           <Czech>Case, 5.56mm</Czech>
+           <Spanish>Case, 5.56mm</Spanish>
+           <Russian>Case, 5.56mm</Russian>
+           <German>Case, 5.56mm</German>
+           <French>Case, 5.56mm</French>
+           <Italian>Case, 5.56mm</Italian>
+           <Portuguese>Case, 5.56mm</Portuguese>
+           <Polish>Case, 5.56mm</Polish>
+           <Chinesesimp>Case, 5.56mm</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_case,_5mm">
+           <Original>Case, 5mm</Original>
+           <Czech>Case, 5mm</Czech>
+           <Spanish>Case, 5mm</Spanish>
+           <Russian>Case, 5mm</Russian>
+           <German>Case, 5mm</German>
+           <French>Case, 5mm</French>
+           <Italian>Case, 5mm</Italian>
+           <Portuguese>Case, 5mm</Portuguese>
+           <Polish>Case, 5mm</Polish>
+           <Chinesesimp>Case, 5mm</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_case,_9mm">
+           <Original>Case, 9mm</Original>
+           <Czech>Case, 9mm</Czech>
+           <Spanish>Case, 9mm</Spanish>
+           <Russian>Case, 9mm</Russian>
+           <German>Case, 9mm</German>
+           <French>Case, 9mm</French>
+           <Italian>Case, 9mm</Italian>
+           <Portuguese>Case, 9mm</Portuguese>
+           <Polish>Case, 9mm</Polish>
+           <Chinesesimp>Case, 9mm</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_cazador_poison_gland">
+           <Original>Cazador poison gland</Original>
+           <Czech>Cazador poison gland</Czech>
+           <Spanish>Cazador poison gland</Spanish>
+           <Russian>Cazador poison gland</Russian>
+           <German>Cazador poison gland</German>
+           <French>Cazador poison gland</French>
+           <Italian>Cazador poison gland</Italian>
+           <Portuguese>Cazador poison gland</Portuguese>
+           <Polish>Cazador poison gland</Polish>
+           <Chinesesimp>Cazador poison gland</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_centaur_blood">
+           <Original>Centaur blood</Original>
+           <Czech>Centaur blood</Czech>
+           <Spanish>Centaur blood</Spanish>
+           <Russian>Centaur blood</Russian>
+           <German>Centaur blood</German>
+           <French>Centaur blood</French>
+           <Italian>Centaur blood</Italian>
+           <Portuguese>Centaur blood</Portuguese>
+           <Polish>Centaur blood</Polish>
+           <Chinesesimp>Centaur blood</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_ceramic_dinner_plate">
+           <Original>Ceramic dinner plate</Original>
+           <Czech>Ceramic dinner plate</Czech>
+           <Spanish>Ceramic dinner plate</Spanish>
+           <Russian>Ceramic dinner plate</Russian>
+           <German>Ceramic dinner plate</German>
+           <French>Ceramic dinner plate</French>
+           <Italian>Ceramic dinner plate</Italian>
+           <Portuguese>Ceramic dinner plate</Portuguese>
+           <Polish>Ceramic dinner plate</Polish>
+           <Chinesesimp>Ceramic dinner plate</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_charlie_station_supply_manifest">
+           <Original>Charlie station supply manifest</Original>
+           <Czech>Charlie station supply manifest</Czech>
+           <Spanish>Charlie station supply manifest</Spanish>
+           <Russian>Charlie station supply manifest</Russian>
+           <German>Charlie station supply manifest</German>
+           <French>Charlie station supply manifest</French>
+           <Italian>Charlie station supply manifest</Italian>
+           <Portuguese>Charlie station supply manifest</Portuguese>
+           <Polish>Charlie station supply manifest</Polish>
+           <Chinesesimp>Charlie station supply manifest</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_cherry_bomb">
+           <Original>Cherry bomb</Original>
+           <Czech>Cherry bomb</Czech>
+           <Spanish>Cherry bomb</Spanish>
+           <Russian>Cherry bomb</Russian>
+           <German>Cherry bomb</German>
+           <French>Cherry bomb</French>
+           <Italian>Cherry bomb</Italian>
+           <Portuguese>Cherry bomb</Portuguese>
+           <Polish>Cherry bomb</Polish>
+           <Chinesesimp>Cherry bomb</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_chessboard">
+           <Original>Chessboard</Original>
+           <Czech>Chessboard</Czech>
+           <Spanish>Chessboard</Spanish>
+           <Russian>Chessboard</Russian>
+           <German>Chessboard</German>
+           <French>Chessboard</French>
+           <Italian>Chessboard</Italian>
+           <Portuguese>Chessboard</Portuguese>
+           <Polish>Chessboard</Polish>
+           <Chinesesimp>Chessboard</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_chewed_stealth_boy">
+           <Original>Chewed Stealth Boy</Original>
+           <Czech>Chewed Stealth Boy</Czech>
+           <Spanish>Chewed Stealth Boy</Spanish>
+           <Russian>Chewed Stealth Boy</Russian>
+           <German>Chewed Stealth Boy</German>
+           <French>Chewed Stealth Boy</French>
+           <Italian>Chewed Stealth Boy</Italian>
+           <Portuguese>Chewed Stealth Boy</Portuguese>
+           <Polish>Chewed Stealth Boy</Polish>
+           <Chinesesimp>Chewed Stealth Boy</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_cigarette">
+           <Original>Cigarette</Original>
+           <Czech>Cigarette</Czech>
+           <Spanish>Cigarette</Spanish>
+           <Russian>Cigarette</Russian>
+           <German>Cigarette</German>
+           <French>Cigarette</French>
+           <Italian>Cigarette</Italian>
+           <Portuguese>Cigarette</Portuguese>
+           <Polish>Cigarette</Polish>
+           <Chinesesimp>Cigarette</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_clipboard">
+           <Original>Clipboard</Original>
+           <Czech>Clipboard</Czech>
+           <Spanish>Clipboard</Spanish>
+           <Russian>Clipboard</Russian>
+           <German>Clipboard</German>
+           <French>Clipboard</French>
+           <Italian>Clipboard</Italian>
+           <Portuguese>Clipboard</Portuguese>
+           <Polish>Clipboard</Polish>
+           <Chinesesimp>Clipboard</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_coffee_mug">
+           <Original>Coffee mug</Original>
+           <Czech>Coffee mug</Czech>
+           <Spanish>Coffee mug</Spanish>
+           <Russian>Coffee mug</Russian>
+           <German>Coffee mug</German>
+           <French>Coffee mug</French>
+           <Italian>Coffee mug</Italian>
+           <Portuguese>Coffee mug</Portuguese>
+           <Polish>Coffee mug</Polish>
+           <Chinesesimp>Coffee mug</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_coffee_pot">
+           <Original>Coffee pot</Original>
+           <Czech>Coffee pot</Czech>
+           <Spanish>Coffee pot</Spanish>
+           <Russian>Coffee pot</Russian>
+           <German>Coffee pot</German>
+           <French>Coffee pot</French>
+           <Italian>Coffee pot</Italian>
+           <Portuguese>Coffee pot</Portuguese>
+           <Polish>Coffee pot</Polish>
+           <Chinesesimp>Coffee pot</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_conductor">
+           <Original>Conductor</Original>
+           <Czech>Conductor</Czech>
+           <Spanish>Conductor</Spanish>
+           <Russian>Conductor</Russian>
+           <German>Conductor</German>
+           <French>Conductor</French>
+           <Italian>Conductor</Italian>
+           <Portuguese>Conductor</Portuguese>
+           <Polish>Conductor</Polish>
+           <Chinesesimp>Conductor</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_container_of_chlorine">
+           <Original>Container of chlorine</Original>
+           <Czech>Container of chlorine</Czech>
+           <Spanish>Container of chlorine</Spanish>
+           <Russian>Container of chlorine</Russian>
+           <German>Container of chlorine</German>
+           <French>Container of chlorine</French>
+           <Italian>Container of chlorine</Italian>
+           <Portuguese>Container of chlorine</Portuguese>
+           <Polish>Container of chlorine</Polish>
+           <Chinesesimp>Container of chlorine</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_cook-cooks_head">
+           <Original>Cook-Cook's head</Original>
+           <Czech>Cook-Cook's head</Czech>
+           <Spanish>Cook-Cook's head</Spanish>
+           <Russian>Cook-Cook's head</Russian>
+           <German>Cook-Cook's head</German>
+           <French>Cook-Cook's head</French>
+           <Italian>Cook-Cook's head</Italian>
+           <Portuguese>Cook-Cook's head</Portuguese>
+           <Polish>Cook-Cook's head</Polish>
+           <Chinesesimp>Cook-Cook's head</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_cook-cooks_mangled_head">
+           <Original>Cook-Cook's mangled head</Original>
+           <Czech>Cook-Cook's mangled head</Czech>
+           <Spanish>Cook-Cook's mangled head</Spanish>
+           <Russian>Cook-Cook's mangled head</Russian>
+           <German>Cook-Cook's mangled head</German>
+           <French>Cook-Cook's mangled head</French>
+           <Italian>Cook-Cook's mangled head</Italian>
+           <Portuguese>Cook-Cook's mangled head</Portuguese>
+           <Polish>Cook-Cook's mangled head</Polish>
+           <Chinesesimp>Cook-Cook's mangled head</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_counterfeit_bottle_cap">
+           <Original>Counterfeit bottle cap</Original>
+           <Czech>Counterfeit bottle cap</Czech>
+           <Spanish>Counterfeit bottle cap</Spanish>
+           <Russian>Counterfeit bottle cap</Russian>
+           <German>Counterfeit bottle cap</German>
+           <French>Counterfeit bottle cap</French>
+           <Italian>Counterfeit bottle cap</Italian>
+           <Portuguese>Counterfeit bottle cap</Portuguese>
+           <Polish>Counterfeit bottle cap</Polish>
+           <Chinesesimp>Counterfeit bottle cap</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_counterfeit_passport">
+           <Original>Counterfeit passport</Original>
+           <Czech>Counterfeit passport</Czech>
+           <Spanish>Counterfeit passport</Spanish>
+           <Russian>Counterfeit passport</Russian>
+           <German>Counterfeit passport</German>
+           <French>Counterfeit passport</French>
+           <Italian>Counterfeit passport</Italian>
+           <Portuguese>Counterfeit passport</Portuguese>
+           <Polish>Counterfeit passport</Polish>
+           <Chinesesimp>Counterfeit passport</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_coyote_hide">
+           <Original>Coyote hide</Original>
+           <Czech>Coyote hide</Czech>
+           <Spanish>Coyote hide</Spanish>
+           <Russian>Coyote hide</Russian>
+           <German>Coyote hide</German>
+           <French>Coyote hide</French>
+           <Italian>Coyote hide</Italian>
+           <Portuguese>Coyote hide</Portuguese>
+           <Polish>Coyote hide</Polish>
+           <Chinesesimp>Coyote hide</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_crutch">
+           <Original>Crutch</Original>
+           <Czech>Crutch</Czech>
+           <Spanish>Crutch</Spanish>
+           <Russian>Crutch</Russian>
+           <German>Crutch</German>
+           <French>Crutch</French>
+           <Italian>Crutch</Italian>
+           <Portuguese>Crutch</Portuguese>
+           <Polish>Crutch</Polish>
+           <Chinesesimp>Crutch</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_cuddles_toy_car">
+           <Original>Cuddles' toy car</Original>
+           <Czech>Cuddles' toy car</Czech>
+           <Spanish>Cuddles' toy car</Spanish>
+           <Russian>Cuddles' toy car</Russian>
+           <German>Cuddles' toy car</German>
+           <French>Cuddles' toy car</French>
+           <Italian>Cuddles' toy car</Italian>
+           <Portuguese>Cuddles' toy car</Portuguese>
+           <Polish>Cuddles' toy car</Polish>
+           <Chinesesimp>Cuddles' toy car</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_cue_ball">
+           <Original>Cue ball</Original>
+           <Czech>Cue ball</Czech>
+           <Spanish>Cue ball</Spanish>
+           <Russian>Cue ball</Russian>
+           <German>Cue ball</German>
+           <French>Cue ball</French>
+           <Italian>Cue ball</Italian>
+           <Portuguese>Cue ball</Portuguese>
+           <Polish>Cue ball</Polish>
+           <Chinesesimp>Cue ball</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_cup">
+           <Original>Cup</Original>
+           <Czech>Cup</Czech>
+           <Spanish>Cup</Spanish>
+           <Russian>Cup</Russian>
+           <German>Cup</German>
+           <French>Cup</French>
+           <Italian>Cup</Italian>
+           <Portuguese>Cup</Portuguese>
+           <Polish>Cup</Polish>
+           <Chinesesimp>Cup</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_cutting_board">
+           <Original>Cutting board</Original>
+           <Czech>Cutting board</Czech>
+           <Spanish>Cutting board</Spanish>
+           <Russian>Cutting board</Russian>
+           <German>Cutting board</German>
+           <French>Cutting board</French>
+           <Italian>Cutting board</Italian>
+           <Portuguese>Cutting board</Portuguese>
+           <Polish>Cutting board</Polish>
+           <Chinesesimp>Cutting board</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_damaged_garden_gnome">
+           <Original>Damaged garden gnome</Original>
+           <Czech>Damaged garden gnome</Czech>
+           <Spanish>Damaged garden gnome</Spanish>
+           <Russian>Damaged garden gnome</Russian>
+           <German>Damaged garden gnome</German>
+           <French>Damaged garden gnome</French>
+           <Italian>Damaged garden gnome</Italian>
+           <Portuguese>Damaged garden gnome</Portuguese>
+           <Polish>Damaged garden gnome</Polish>
+           <Chinesesimp>Damaged garden gnome</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_deathclaw_egg">
+           <Original>Deathclaw egg</Original>
+           <Czech>Deathclaw egg</Czech>
+           <Spanish>Deathclaw egg</Spanish>
+           <Russian>Deathclaw egg</Russian>
+           <German>Deathclaw egg</German>
+           <French>Deathclaw egg</French>
+           <Italian>Deathclaw egg</Italian>
+           <Portuguese>Deathclaw egg</Portuguese>
+           <Polish>Deathclaw egg</Polish>
+           <Chinesesimp>Deathclaw egg</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_deathclaw_hand">
+           <Original>Deathclaw hand</Original>
+           <Czech>Deathclaw hand</Czech>
+           <Spanish>Deathclaw hand</Spanish>
+           <Russian>Deathclaw hand</Russian>
+           <German>Deathclaw hand</German>
+           <French>Deathclaw hand</French>
+           <Italian>Deathclaw hand</Italian>
+           <Portuguese>Deathclaw hand</Portuguese>
+           <Polish>Deathclaw hand</Polish>
+           <Chinesesimp>Deathclaw hand</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_deployable_ballast">
+           <Original>Deployable ballast</Original>
+           <Czech>Deployable ballast</Czech>
+           <Spanish>Deployable ballast</Spanish>
+           <Russian>Deployable ballast</Russian>
+           <German>Deployable ballast</German>
+           <French>Deployable ballast</French>
+           <Italian>Deployable ballast</Italian>
+           <Portuguese>Deployable ballast</Portuguese>
+           <Polish>Deployable ballast</Polish>
+           <Chinesesimp>Deployable ballast</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_differential_pressure_controller">
+           <Original>Differential pressure controller</Original>
+           <Czech>Differential pressure controller</Czech>
+           <Spanish>Differential pressure controller</Spanish>
+           <Russian>Differential pressure controller</Russian>
+           <German>Differential pressure controller</German>
+           <French>Differential pressure controller</French>
+           <Italian>Differential pressure controller</Italian>
+           <Portuguese>Differential pressure controller</Portuguese>
+           <Polish>Differential pressure controller</Polish>
+           <Chinesesimp>Differential pressure controller</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_dinky_the_t-rex_souvenir">
+           <Original>Dinky the T-Rex souvenir</Original>
+           <Czech>Dinky the T-Rex souvenir</Czech>
+           <Spanish>Dinky the T-Rex souvenir</Spanish>
+           <Russian>Dinky the T-Rex souvenir</Russian>
+           <German>Dinky the T-Rex souvenir</German>
+           <French>Dinky the T-Rex souvenir</French>
+           <Italian>Dinky the T-Rex souvenir</Italian>
+           <Portuguese>Dinky the T-Rex souvenir</Portuguese>
+           <Polish>Dinky the T-Rex souvenir</Polish>
+           <Chinesesimp>Dinky the T-Rex souvenir</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_dinner_plate">
+           <Original>Dinner plate</Original>
+           <Czech>Dinner plate</Czech>
+           <Spanish>Dinner plate</Spanish>
+           <Russian>Dinner plate</Russian>
+           <German>Dinner plate</German>
+           <French>Dinner plate</French>
+           <Italian>Dinner plate</Italian>
+           <Portuguese>Dinner plate</Portuguese>
+           <Polish>Dinner plate</Polish>
+           <Chinesesimp>Dinner plate</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_dino_toy">
+           <Original>Dino toy</Original>
+           <Czech>Dino toy</Czech>
+           <Spanish>Dino toy</Spanish>
+           <Russian>Dino toy</Russian>
+           <German>Dino toy</German>
+           <French>Dino toy</French>
+           <Italian>Dino toy</Italian>
+           <Portuguese>Dino toy</Portuguese>
+           <Polish>Dino toy</Polish>
+           <Chinesesimp>Dino toy</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_disassembled_weapons_shipment">
+           <Original>Disassembled weapons shipment</Original>
+           <Czech>Disassembled weapons shipment</Czech>
+           <Spanish>Disassembled weapons shipment</Spanish>
+           <Russian>Disassembled weapons shipment</Russian>
+           <German>Disassembled weapons shipment</German>
+           <French>Disassembled weapons shipment</French>
+           <Italian>Disassembled weapons shipment</Italian>
+           <Portuguese>Disassembled weapons shipment</Portuguese>
+           <Polish>Disassembled weapons shipment</Polish>
+           <Chinesesimp>Disassembled weapons shipment</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_distinctive_cigarette_butt">
+           <Original>Distinctive cigarette butt</Original>
+           <Czech>Distinctive cigarette butt</Czech>
+           <Spanish>Distinctive cigarette butt</Spanish>
+           <Russian>Distinctive cigarette butt</Russian>
+           <German>Distinctive cigarette butt</German>
+           <French>Distinctive cigarette butt</French>
+           <Italian>Distinctive cigarette butt</Italian>
+           <Portuguese>Distinctive cigarette butt</Portuguese>
+           <Polish>Distinctive cigarette butt</Polish>
+           <Chinesesimp>Distinctive cigarette butt</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_dog_bowl">
+           <Original>Dog bowl</Original>
+           <Czech>Dog bowl</Czech>
+           <Spanish>Dog bowl</Spanish>
+           <Russian>Dog bowl</Russian>
+           <German>Dog bowl</German>
+           <French>Dog bowl</French>
+           <Italian>Dog bowl</Italian>
+           <Portuguese>Dog bowl</Portuguese>
+           <Polish>Dog bowl</Polish>
+           <Chinesesimp>Dog bowl</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_dog_hide">
+           <Original>Dog hide</Original>
+           <Czech>Dog hide</Czech>
+           <Spanish>Dog hide</Spanish>
+           <Russian>Dog hide</Russian>
+           <German>Dog hide</German>
+           <French>Dog hide</French>
+           <Italian>Dog hide</Italian>
+           <Portuguese>Dog hide</Portuguese>
+           <Polish>Dog hide</Polish>
+           <Chinesesimp>Dog hide</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_doggie_treat">
+           <Original>Doggie treat</Original>
+           <Czech>Doggie treat</Czech>
+           <Spanish>Doggie treat</Spanish>
+           <Russian>Doggie treat</Russian>
+           <German>Doggie treat</German>
+           <French>Doggie treat</French>
+           <Italian>Doggie treat</Italian>
+           <Portuguese>Doggie treat</Portuguese>
+           <Polish>Doggie treat</Polish>
+           <Chinesesimp>Doggie treat</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_drained_electron_charge_pack">
+           <Original>Drained electron charge pack</Original>
+           <Czech>Drained electron charge pack</Czech>
+           <Spanish>Drained electron charge pack</Spanish>
+           <Russian>Drained electron charge pack</Russian>
+           <German>Drained electron charge pack</German>
+           <French>Drained electron charge pack</French>
+           <Italian>Drained electron charge pack</Italian>
+           <Portuguese>Drained electron charge pack</Portuguese>
+           <Polish>Drained electron charge pack</Polish>
+           <Chinesesimp>Drained electron charge pack</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_drained_flamer_fuel_tank">
+           <Original>Drained flamer fuel tank</Original>
+           <Czech>Drained flamer fuel tank</Czech>
+           <Spanish>Drained flamer fuel tank</Spanish>
+           <Russian>Drained flamer fuel tank</Russian>
+           <German>Drained flamer fuel tank</German>
+           <French>Drained flamer fuel tank</French>
+           <Italian>Drained flamer fuel tank</Italian>
+           <Portuguese>Drained flamer fuel tank</Portuguese>
+           <Polish>Drained flamer fuel tank</Polish>
+           <Chinesesimp>Drained flamer fuel tank</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_drained_microfusion_cell">
+           <Original>Drained microfusion cell</Original>
+           <Czech>Drained microfusion cell</Czech>
+           <Spanish>Drained microfusion cell</Spanish>
+           <Russian>Drained microfusion cell</Russian>
+           <German>Drained microfusion cell</German>
+           <French>Drained microfusion cell</French>
+           <Italian>Drained microfusion cell</Italian>
+           <Portuguese>Drained microfusion cell</Portuguese>
+           <Polish>Drained microfusion cell</Polish>
+           <Chinesesimp>Drained microfusion cell</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_drained_small_energy_cell">
+           <Original>Drained small energy cell</Original>
+           <Czech>Drained small energy cell</Czech>
+           <Spanish>Drained small energy cell</Spanish>
+           <Russian>Drained small energy cell</Russian>
+           <German>Drained small energy cell</German>
+           <French>Drained small energy cell</French>
+           <Italian>Drained small energy cell</Italian>
+           <Portuguese>Drained small energy cell</Portuguese>
+           <Polish>Drained small energy cell</Polish>
+           <Chinesesimp>Drained small energy cell</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_drinking_glass">
+           <Original>Drinking glass</Original>
+           <Czech>Drinking glass</Czech>
+           <Spanish>Drinking glass</Spanish>
+           <Russian>Drinking glass</Russian>
+           <German>Drinking glass</German>
+           <French>Drinking glass</French>
+           <Italian>Drinking glass</Italian>
+           <Portuguese>Drinking glass</Portuguese>
+           <Polish>Drinking glass</Polish>
+           <Chinesesimp>Drinking glass</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_driver_nephis_head">
+           <Original>Driver Nephi's head</Original>
+           <Czech>Driver Nephi's head</Czech>
+           <Spanish>Driver Nephi's head</Spanish>
+           <Russian>Driver Nephi's head</Russian>
+           <German>Driver Nephi's head</German>
+           <French>Driver Nephi's head</French>
+           <Italian>Driver Nephi's head</Italian>
+           <Portuguese>Driver Nephi's head</Portuguese>
+           <Polish>Driver Nephi's head</Polish>
+           <Chinesesimp>Driver Nephi's head</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_driver_nephis_mangled_head">
+           <Original>Driver Nephi's mangled head</Original>
+           <Czech>Driver Nephi's mangled head</Czech>
+           <Spanish>Driver Nephi's mangled head</Spanish>
+           <Russian>Driver Nephi's mangled head</Russian>
+           <German>Driver Nephi's mangled head</German>
+           <French>Driver Nephi's mangled head</French>
+           <Italian>Driver Nephi's mangled head</Italian>
+           <Portuguese>Driver Nephi's mangled head</Portuguese>
+           <Polish>Driver Nephi's mangled head</Polish>
+           <Chinesesimp>Driver Nephi's mangled head</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_drug_chemicals">
+           <Original>Drug chemicals</Original>
+           <Czech>Drug chemicals</Czech>
+           <Spanish>Drug chemicals</Spanish>
+           <Russian>Drug chemicals</Russian>
+           <German>Drug chemicals</German>
+           <French>Drug chemicals</French>
+           <Italian>Drug chemicals</Italian>
+           <Portuguese>Drug chemicals</Portuguese>
+           <Polish>Drug chemicals</Polish>
+           <Chinesesimp>Drug chemicals</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_duct_tape">
+           <Original>Duct tape</Original>
+           <Czech>Duct tape</Czech>
+           <Spanish>Duct tape</Spanish>
+           <Russian>Duct tape</Russian>
+           <German>Duct tape</German>
+           <French>Duct tape</French>
+           <Italian>Duct tape</Italian>
+           <Portuguese>Duct tape</Portuguese>
+           <Polish>Duct tape</Polish>
+           <Chinesesimp>Duct tape</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_earnings_clipboard">
+           <Original>Earnings clipboard</Original>
+           <Czech>Earnings clipboard</Czech>
+           <Spanish>Earnings clipboard</Spanish>
+           <Russian>Earnings clipboard</Russian>
+           <German>Earnings clipboard</German>
+           <French>Earnings clipboard</French>
+           <Italian>Earnings clipboard</Italian>
+           <Portuguese>Earnings clipboard</Portuguese>
+           <Polish>Earnings clipboard</Polish>
+           <Chinesesimp>Earnings clipboard</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_egg_timer">
+           <Original>Egg timer</Original>
+           <Czech>Egg timer</Czech>
+           <Spanish>Egg timer</Spanish>
+           <Russian>Egg timer</Russian>
+           <German>Egg timer</German>
+           <French>Egg timer</French>
+           <Italian>Egg timer</Italian>
+           <Portuguese>Egg timer</Portuguese>
+           <Polish>Egg timer</Polish>
+           <Chinesesimp>Egg timer</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_empty_hydra_syringe">
+           <Original>Empty hydra syringe</Original>
+           <Czech>Empty hydra syringe</Czech>
+           <Spanish>Empty hydra syringe</Spanish>
+           <Russian>Empty hydra syringe</Russian>
+           <German>Empty hydra syringe</German>
+           <French>Empty hydra syringe</French>
+           <Italian>Empty hydra syringe</Italian>
+           <Portuguese>Empty hydra syringe</Portuguese>
+           <Polish>Empty hydra syringe</Polish>
+           <Chinesesimp>Empty hydra syringe</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_empty_jet_inhaler">
+           <Original>Empty Jet inhaler</Original>
+           <Czech>Empty Jet inhaler</Czech>
+           <Spanish>Empty Jet inhaler</Spanish>
+           <Russian>Empty Jet inhaler</Russian>
+           <German>Empty Jet inhaler</German>
+           <French>Empty Jet inhaler</French>
+           <Italian>Empty Jet inhaler</Italian>
+           <Portuguese>Empty Jet inhaler</Portuguese>
+           <Polish>Empty Jet inhaler</Polish>
+           <Chinesesimp>Empty Jet inhaler</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_empty_nuka-cola_bottle">
+           <Original>Empty Nuka-Cola bottle</Original>
+           <Czech>Empty Nuka-Cola bottle</Czech>
+           <Spanish>Empty Nuka-Cola bottle</Spanish>
+           <Russian>Empty Nuka-Cola bottle</Russian>
+           <German>Empty Nuka-Cola bottle</German>
+           <French>Empty Nuka-Cola bottle</French>
+           <Italian>Empty Nuka-Cola bottle</Italian>
+           <Portuguese>Empty Nuka-Cola bottle</Portuguese>
+           <Polish>Empty Nuka-Cola bottle</Polish>
+           <Chinesesimp>Empty Nuka-Cola bottle</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_empty_soda_bottle">
+           <Original>Empty soda bottle</Original>
+           <Czech>Empty soda bottle</Czech>
+           <Spanish>Empty soda bottle</Spanish>
+           <Russian>Empty soda bottle</Russian>
+           <German>Empty soda bottle</German>
+           <French>Empty soda bottle</French>
+           <Italian>Empty soda bottle</Italian>
+           <Portuguese>Empty soda bottle</Portuguese>
+           <Polish>Empty soda bottle</Polish>
+           <Chinesesimp>Empty soda bottle</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_empty_sunset_sarsaparilla_bottle">
+           <Original>Empty Sunset Sarsaparilla bottle</Original>
+           <Czech>Empty Sunset Sarsaparilla bottle</Czech>
+           <Spanish>Empty Sunset Sarsaparilla bottle</Spanish>
+           <Russian>Empty Sunset Sarsaparilla bottle</Russian>
+           <German>Empty Sunset Sarsaparilla bottle</German>
+           <French>Empty Sunset Sarsaparilla bottle</French>
+           <Italian>Empty Sunset Sarsaparilla bottle</Italian>
+           <Portuguese>Empty Sunset Sarsaparilla bottle</Portuguese>
+           <Polish>Empty Sunset Sarsaparilla bottle</Polish>
+           <Chinesesimp>Empty Sunset Sarsaparilla bottle</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_empty_sunset_sarsaparilla_bottle_(no_float)">
+           <Original>Empty Sunset Sarsaparilla bottle (no float)</Original>
+           <Czech>Empty Sunset Sarsaparilla bottle (no float)</Czech>
+           <Spanish>Empty Sunset Sarsaparilla bottle (no float)</Spanish>
+           <Russian>Empty Sunset Sarsaparilla bottle (no float)</Russian>
+           <German>Empty Sunset Sarsaparilla bottle (no float)</German>
+           <French>Empty Sunset Sarsaparilla bottle (no float)</French>
+           <Italian>Empty Sunset Sarsaparilla bottle (no float)</Italian>
+           <Portuguese>Empty Sunset Sarsaparilla bottle (no float)</Portuguese>
+           <Polish>Empty Sunset Sarsaparilla bottle (no float)</Polish>
+           <Chinesesimp>Empty Sunset Sarsaparilla bottle (no float)</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_empty_syringe">
+           <Original>Empty syringe</Original>
+           <Czech>Empty syringe</Czech>
+           <Spanish>Empty syringe</Spanish>
+           <Russian>Empty syringe</Russian>
+           <German>Empty syringe</German>
+           <French>Empty syringe</French>
+           <Italian>Empty syringe</Italian>
+           <Portuguese>Empty syringe</Portuguese>
+           <Polish>Empty syringe</Polish>
+           <Chinesesimp>Empty syringe</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_empty_whiskey_bottle">
+           <Original>Empty whiskey bottle</Original>
+           <Czech>Empty whiskey bottle</Czech>
+           <Spanish>Empty whiskey bottle</Spanish>
+           <Russian>Empty whiskey bottle</Russian>
+           <German>Empty whiskey bottle</German>
+           <French>Empty whiskey bottle</French>
+           <Italian>Empty whiskey bottle</Italian>
+           <Portuguese>Empty whiskey bottle</Portuguese>
+           <Polish>Empty whiskey bottle</Polish>
+           <Chinesesimp>Empty whiskey bottle</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_engraved_cigarette_lighter">
+           <Original>Engraved cigarette lighter</Original>
+           <Czech>Engraved cigarette lighter</Czech>
+           <Spanish>Engraved cigarette lighter</Spanish>
+           <Russian>Engraved cigarette lighter</Russian>
+           <German>Engraved cigarette lighter</German>
+           <French>Engraved cigarette lighter</French>
+           <Italian>Engraved cigarette lighter</Italian>
+           <Portuguese>Engraved cigarette lighter</Portuguese>
+           <Polish>Engraved cigarette lighter</Polish>
+           <Chinesesimp>Engraved cigarette lighter</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_erasmus_logbook">
+           <Original>Erasmus' logbook</Original>
+           <Czech>Erasmus' logbook</Czech>
+           <Spanish>Erasmus' logbook</Spanish>
+           <Russian>Erasmus' logbook</Russian>
+           <German>Erasmus' logbook</German>
+           <French>Erasmus' logbook</French>
+           <Italian>Erasmus' logbook</Italian>
+           <Portuguese>Erasmus' logbook</Portuguese>
+           <Polish>Erasmus' logbook</Polish>
+           <Chinesesimp>Erasmus' logbook</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_ericsens_log">
+           <Original>Ericsen's log</Original>
+           <Czech>Ericsen's log</Czech>
+           <Spanish>Ericsen's log</Spanish>
+           <Russian>Ericsen's log</Russian>
+           <German>Ericsen's log</German>
+           <French>Ericsen's log</French>
+           <Italian>Ericsen's log</Italian>
+           <Portuguese>Ericsen's log</Portuguese>
+           <Polish>Ericsen's log</Polish>
+           <Chinesesimp>Ericsen's log</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_evil_gnome">
+           <Original>Evil gnome</Original>
+           <Czech>Evil gnome</Czech>
+           <Spanish>Evil gnome</Spanish>
+           <Russian>Evil gnome</Russian>
+           <German>Evil gnome</German>
+           <French>Evil gnome</French>
+           <Italian>Evil gnome</Italian>
+           <Portuguese>Evil gnome</Portuguese>
+           <Polish>Evil gnome</Polish>
+           <Chinesesimp>Evil gnome</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_explosive_charge">
+           <Original>Explosive charge</Original>
+           <Czech>Explosive charge</Czech>
+           <Spanish>Explosive charge</Spanish>
+           <Russian>Explosive charge</Russian>
+           <German>Explosive charge</German>
+           <French>Explosive charge</French>
+           <Italian>Explosive charge</Italian>
+           <Portuguese>Explosive charge</Portuguese>
+           <Polish>Explosive charge</Polish>
+           <Chinesesimp>Explosive charge</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_finance_clipboard">
+           <Original>Finance clipboard</Original>
+           <Czech>Finance clipboard</Czech>
+           <Spanish>Finance clipboard</Spanish>
+           <Russian>Finance clipboard</Russian>
+           <German>Finance clipboard</German>
+           <French>Finance clipboard</French>
+           <Italian>Finance clipboard</Italian>
+           <Portuguese>Finance clipboard</Portuguese>
+           <Polish>Finance clipboard</Polish>
+           <Chinesesimp>Finance clipboard</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_finger">
+           <Original>Finger</Original>
+           <Czech>Finger</Czech>
+           <Spanish>Finger</Spanish>
+           <Russian>Finger</Russian>
+           <German>Finger</German>
+           <French>Finger</French>
+           <Italian>Finger</Italian>
+           <Portuguese>Finger</Portuguese>
+           <Polish>Finger</Polish>
+           <Chinesesimp>Finger</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_fire_gecko_egg">
+           <Original>Fire gecko egg</Original>
+           <Czech>Fire gecko egg</Czech>
+           <Spanish>Fire gecko egg</Spanish>
+           <Russian>Fire gecko egg</Russian>
+           <German>Fire gecko egg</German>
+           <French>Fire gecko egg</French>
+           <Italian>Fire gecko egg</Italian>
+           <Portuguese>Fire gecko egg</Portuguese>
+           <Polish>Fire gecko egg</Polish>
+           <Chinesesimp>Fire gecko egg</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_fire_gecko_hide">
+           <Original>Fire gecko hide</Original>
+           <Czech>Fire gecko hide</Czech>
+           <Spanish>Fire gecko hide</Spanish>
+           <Russian>Fire gecko hide</Russian>
+           <German>Fire gecko hide</German>
+           <French>Fire gecko hide</French>
+           <Italian>Fire gecko hide</Italian>
+           <Portuguese>Fire gecko hide</Portuguese>
+           <Polish>Fire gecko hide</Polish>
+           <Chinesesimp>Fire gecko hide</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_firehose_nozzle">
+           <Original>Firehose nozzle</Original>
+           <Czech>Firehose nozzle</Czech>
+           <Spanish>Firehose nozzle</Spanish>
+           <Russian>Firehose nozzle</Russian>
+           <German>Firehose nozzle</German>
+           <French>Firehose nozzle</French>
+           <Italian>Firehose nozzle</Italian>
+           <Portuguese>Firehose nozzle</Portuguese>
+           <Polish>Firehose nozzle</Polish>
+           <Chinesesimp>Firehose nozzle</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_fission_battery">
+           <Original>Fission battery</Original>
+           <Czech>Fission battery</Czech>
+           <Spanish>Fission battery</Spanish>
+           <Russian>Fission battery</Russian>
+           <German>Fission battery</German>
+           <French>Fission battery</French>
+           <Italian>Fission battery</Italian>
+           <Portuguese>Fission battery</Portuguese>
+           <Polish>Fission battery</Polish>
+           <Chinesesimp>Fission battery</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_flour">
+           <Original>Flour</Original>
+           <Czech>Flour</Czech>
+           <Spanish>Flour</Spanish>
+           <Russian>Flour</Russian>
+           <German>Flour</German>
+           <French>Flour</French>
+           <Italian>Flour</Italian>
+           <Portuguese>Flour</Portuguese>
+           <Polish>Flour</Polish>
+           <Chinesesimp>Flour</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_food_additive">
+           <Original>Food additive</Original>
+           <Czech>Food additive</Czech>
+           <Spanish>Food additive</Spanish>
+           <Russian>Food additive</Russian>
+           <German>Food additive</German>
+           <French>Food additive</French>
+           <Italian>Food additive</Italian>
+           <Portuguese>Food additive</Portuguese>
+           <Polish>Food additive</Polish>
+           <Chinesesimp>Food additive</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_food_sanitizer">
+           <Original>Food sanitizer</Original>
+           <Czech>Food sanitizer</Czech>
+           <Spanish>Food sanitizer</Spanish>
+           <Russian>Food sanitizer</Russian>
+           <German>Food sanitizer</German>
+           <French>Food sanitizer</French>
+           <Italian>Food sanitizer</Italian>
+           <Portuguese>Food sanitizer</Portuguese>
+           <Polish>Food sanitizer</Polish>
+           <Chinesesimp>Food sanitizer</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_forceps">
+           <Original>Forceps</Original>
+           <Czech>Forceps</Czech>
+           <Spanish>Forceps</Spanish>
+           <Russian>Forceps</Russian>
+           <German>Forceps</German>
+           <French>Forceps</French>
+           <Italian>Forceps</Italian>
+           <Portuguese>Forceps</Portuguese>
+           <Polish>Forceps</Polish>
+           <Chinesesimp>Forceps</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_fork">
+           <Original>Fork</Original>
+           <Czech>Fork</Czech>
+           <Spanish>Fork</Spanish>
+           <Russian>Fork</Russian>
+           <German>Fork</German>
+           <French>Fork</French>
+           <Italian>Fork</Italian>
+           <Portuguese>Fork</Portuguese>
+           <Polish>Fork</Polish>
+           <Chinesesimp>Fork</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_gbrm2kx_memory_chip">
+           <Original>GBRM2KX memory chip</Original>
+           <Czech>GBRM2KX memory chip</Czech>
+           <Spanish>GBRM2KX memory chip</Spanish>
+           <Russian>GBRM2KX memory chip</Russian>
+           <German>GBRM2KX memory chip</German>
+           <French>GBRM2KX memory chip</French>
+           <Italian>GBRM2KX memory chip</Italian>
+           <Portuguese>GBRM2KX memory chip</Portuguese>
+           <Polish>GBRM2KX memory chip</Polish>
+           <Chinesesimp>GBRM2KX memory chip</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_gecko_egg">
+           <Original>Gecko egg</Original>
+           <Czech>Gecko egg</Czech>
+           <Spanish>Gecko egg</Spanish>
+           <Russian>Gecko egg</Russian>
+           <German>Gecko egg</German>
+           <French>Gecko egg</French>
+           <Italian>Gecko egg</Italian>
+           <Portuguese>Gecko egg</Portuguese>
+           <Polish>Gecko egg</Polish>
+           <Chinesesimp>Gecko egg</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_gecko_hide">
+           <Original>Gecko hide</Original>
+           <Czech>Gecko hide</Czech>
+           <Spanish>Gecko hide</Spanish>
+           <Russian>Gecko hide</Russian>
+           <German>Gecko hide</German>
+           <French>Gecko hide</French>
+           <Italian>Gecko hide</Italian>
+           <Portuguese>Gecko hide</Portuguese>
+           <Polish>Gecko hide</Polish>
+           <Chinesesimp>Gecko hide</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_glass_pitcher">
+           <Original>Glass pitcher</Original>
+           <Czech>Glass pitcher</Czech>
+           <Spanish>Glass pitcher</Spanish>
+           <Russian>Glass pitcher</Russian>
+           <German>Glass pitcher</German>
+           <French>Glass pitcher</French>
+           <Italian>Glass pitcher</Italian>
+           <Portuguese>Glass pitcher</Portuguese>
+           <Polish>Glass pitcher</Polish>
+           <Chinesesimp>Glass pitcher</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_golden_gecko_egg">
+           <Original>Golden gecko egg</Original>
+           <Czech>Golden gecko egg</Czech>
+           <Spanish>Golden gecko egg</Spanish>
+           <Russian>Golden gecko egg</Russian>
+           <German>Golden gecko egg</German>
+           <French>Golden gecko egg</French>
+           <Italian>Golden gecko egg</Italian>
+           <Portuguese>Golden gecko egg</Portuguese>
+           <Polish>Golden gecko egg</Polish>
+           <Chinesesimp>Golden gecko egg</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_golden_gecko_hide">
+           <Original>Golden gecko hide</Original>
+           <Czech>Golden gecko hide</Czech>
+           <Spanish>Golden gecko hide</Spanish>
+           <Russian>Golden gecko hide</Russian>
+           <German>Golden gecko hide</German>
+           <French>Golden gecko hide</French>
+           <Italian>Golden gecko hide</Italian>
+           <Portuguese>Golden gecko hide</Portuguese>
+           <Polish>Golden gecko hide</Polish>
+           <Chinesesimp>Golden gecko hide</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_golf_ball">
+           <Original>Golf ball</Original>
+           <Czech>Golf ball</Czech>
+           <Spanish>Golf ball</Spanish>
+           <Russian>Golf ball</Russian>
+           <German>Golf ball</German>
+           <French>Golf ball</French>
+           <Italian>Golf ball</Italian>
+           <Portuguese>Golf ball</Portuguese>
+           <Polish>Golf ball</Polish>
+           <Chinesesimp>Golf ball</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_great_khan_supply_cache">
+           <Original>Great Khan supply cache</Original>
+           <Czech>Great Khan supply cache</Czech>
+           <Spanish>Great Khan supply cache</Spanish>
+           <Russian>Great Khan supply cache</Russian>
+           <German>Great Khan supply cache</German>
+           <French>Great Khan supply cache</French>
+           <Italian>Great Khan supply cache</Italian>
+           <Portuguese>Great Khan supply cache</Portuguese>
+           <Polish>Great Khan supply cache</Polish>
+           <Chinesesimp>Great Khan supply cache</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_green_plate">
+           <Original>Green plate</Original>
+           <Czech>Green plate</Czech>
+           <Spanish>Green plate</Spanish>
+           <Russian>Green plate</Russian>
+           <German>Green plate</German>
+           <French>Green plate</French>
+           <Italian>Green plate</Italian>
+           <Portuguese>Green plate</Portuguese>
+           <Polish>Green plate</Polish>
+           <Chinesesimp>Green plate</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_hammer">
+           <Original>Hammer</Original>
+           <Czech>Hammer</Czech>
+           <Spanish>Hammer</Spanish>
+           <Russian>Hammer</Russian>
+           <German>Hammer</German>
+           <French>Hammer</French>
+           <Italian>Hammer</Italian>
+           <Portuguese>Hammer</Portuguese>
+           <Polish>Hammer</Polish>
+           <Chinesesimp>Hammer</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_harmonica">
+           <Original>Harmonica</Original>
+           <Czech>Harmonica</Czech>
+           <Spanish>Harmonica</Spanish>
+           <Russian>Harmonica</Russian>
+           <German>Harmonica</German>
+           <French>Harmonica</French>
+           <Italian>Harmonica</Italian>
+           <Portuguese>Harmonica</Portuguese>
+           <Polish>Harmonica</Polish>
+           <Chinesesimp>Harmonica</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_hepa_20_cartridge_filter">
+           <Original>HEPA 20 cartridge filter</Original>
+           <Czech>HEPA 20 cartridge filter</Czech>
+           <Spanish>HEPA 20 cartridge filter</Spanish>
+           <Russian>HEPA 20 cartridge filter</Russian>
+           <German>HEPA 20 cartridge filter</German>
+           <French>HEPA 20 cartridge filter</French>
+           <Italian>HEPA 20 cartridge filter</Italian>
+           <Portuguese>HEPA 20 cartridge filter</Portuguese>
+           <Polish>HEPA 20 cartridge filter</Polish>
+           <Chinesesimp>HEPA 20 cartridge filter</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_highly_suspicious_package">
+           <Original>Highly suspicious package</Original>
+           <Czech>Highly suspicious package</Czech>
+           <Spanish>Highly suspicious package</Spanish>
+           <Russian>Highly suspicious package</Russian>
+           <German>Highly suspicious package</German>
+           <French>Highly suspicious package</French>
+           <Italian>Highly suspicious package</Italian>
+           <Portuguese>Highly suspicious package</Portuguese>
+           <Polish>Highly suspicious package</Polish>
+           <Chinesesimp>Highly suspicious package</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_hot_plate">
+           <Original>Hot plate</Original>
+           <Czech>Hot plate</Czech>
+           <Spanish>Hot plate</Spanish>
+           <Russian>Hot plate</Russian>
+           <German>Hot plate</German>
+           <French>Hot plate</French>
+           <Italian>Hot plate</Italian>
+           <Portuguese>Hot plate</Portuguese>
+           <Polish>Hot plate</Polish>
+           <Chinesesimp>Hot plate</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_howitzer_firing_mechanism">
+           <Original>Howitzer firing mechanism</Original>
+           <Czech>Howitzer firing mechanism</Czech>
+           <Spanish>Howitzer firing mechanism</Spanish>
+           <Russian>Howitzer firing mechanism</Russian>
+           <German>Howitzer firing mechanism</German>
+           <French>Howitzer firing mechanism</French>
+           <Italian>Howitzer firing mechanism</Italian>
+           <Portuguese>Howitzer firing mechanism</Portuguese>
+           <Polish>Howitzer firing mechanism</Polish>
+           <Chinesesimp>Howitzer firing mechanism</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_hull_box,_12_ga.">
+           <Original>Hull box, 12 Ga.</Original>
+           <Czech>Hull box, 12 Ga.</Czech>
+           <Spanish>Hull box, 12 Ga.</Spanish>
+           <Russian>Hull box, 12 Ga.</Russian>
+           <German>Hull box, 12 Ga.</German>
+           <French>Hull box, 12 Ga.</French>
+           <Italian>Hull box, 12 Ga.</Italian>
+           <Portuguese>Hull box, 12 Ga.</Portuguese>
+           <Polish>Hull box, 12 Ga.</Polish>
+           <Chinesesimp>Hull box, 12 Ga.</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_hull_box,_20_ga.">
+           <Original>Hull box, 20 Ga.</Original>
+           <Czech>Hull box, 20 Ga.</Czech>
+           <Spanish>Hull box, 20 Ga.</Spanish>
+           <Russian>Hull box, 20 Ga.</Russian>
+           <German>Hull box, 20 Ga.</German>
+           <French>Hull box, 20 Ga.</French>
+           <Italian>Hull box, 20 Ga.</Italian>
+           <Portuguese>Hull box, 20 Ga.</Portuguese>
+           <Polish>Hull box, 20 Ga.</Polish>
+           <Chinesesimp>Hull box, 20 Ga.</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_hull,_12_gauge">
+           <Original>Hull, 12 gauge</Original>
+           <Czech>Hull, 12 gauge</Czech>
+           <Spanish>Hull, 12 gauge</Spanish>
+           <Russian>Hull, 12 gauge</Russian>
+           <German>Hull, 12 gauge</German>
+           <French>Hull, 12 gauge</French>
+           <Italian>Hull, 12 gauge</Italian>
+           <Portuguese>Hull, 12 gauge</Portuguese>
+           <Polish>Hull, 12 gauge</Polish>
+           <Chinesesimp>Hull, 12 gauge</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_hull,_20_gauge">
+           <Original>Hull, 20 gauge</Original>
+           <Czech>Hull, 20 gauge</Czech>
+           <Spanish>Hull, 20 gauge</Spanish>
+           <Russian>Hull, 20 gauge</Russian>
+           <German>Hull, 20 gauge</German>
+           <French>Hull, 20 gauge</French>
+           <Italian>Hull, 20 gauge</Italian>
+           <Portuguese>Hull, 20 gauge</Portuguese>
+           <Polish>Hull, 20 gauge</Polish>
+           <Chinesesimp>Hull, 20 gauge</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_infected_brahmin_meat">
+           <Original>Infected brahmin meat</Original>
+           <Czech>Infected brahmin meat</Czech>
+           <Spanish>Infected brahmin meat</Spanish>
+           <Russian>Infected brahmin meat</Russian>
+           <German>Infected brahmin meat</German>
+           <French>Infected brahmin meat</French>
+           <Italian>Infected brahmin meat</Italian>
+           <Portuguese>Infected brahmin meat</Portuguese>
+           <Polish>Infected brahmin meat</Polish>
+           <Chinesesimp>Infected brahmin meat</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_intact_garden_gnome">
+           <Original>Intact garden gnome</Original>
+           <Czech>Intact garden gnome</Czech>
+           <Spanish>Intact garden gnome</Spanish>
+           <Russian>Intact garden gnome</Russian>
+           <German>Intact garden gnome</German>
+           <French>Intact garden gnome</French>
+           <Italian>Intact garden gnome</Italian>
+           <Portuguese>Intact garden gnome</Portuguese>
+           <Polish>Intact garden gnome</Polish>
+           <Chinesesimp>Intact garden gnome</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_iron">
+           <Original>Iron</Original>
+           <Czech>Iron</Czech>
+           <Spanish>Iron</Spanish>
+           <Russian>Iron</Russian>
+           <German>Iron</German>
+           <French>Iron</French>
+           <Italian>Iron</Italian>
+           <Portuguese>Iron</Portuguese>
+           <Polish>Iron</Polish>
+           <Chinesesimp>Iron</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_irradiated_ncr_dogtag">
+           <Original>Irradiated NCR dogtag</Original>
+           <Czech>Irradiated NCR dogtag</Czech>
+           <Spanish>Irradiated NCR dogtag</Spanish>
+           <Russian>Irradiated NCR dogtag</Russian>
+           <German>Irradiated NCR dogtag</German>
+           <French>Irradiated NCR dogtag</French>
+           <Italian>Irradiated NCR dogtag</Italian>
+           <Portuguese>Irradiated NCR dogtag</Portuguese>
+           <Polish>Irradiated NCR dogtag</Polish>
+           <Chinesesimp>Irradiated NCR dogtag</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_isotope-239_igniting_agent">
+           <Original>Isotope-239 igniting agent</Original>
+           <Czech>Isotope-239 igniting agent</Czech>
+           <Spanish>Isotope-239 igniting agent</Spanish>
+           <Russian>Isotope-239 igniting agent</Russian>
+           <German>Isotope-239 igniting agent</German>
+           <French>Isotope-239 igniting agent</French>
+           <Italian>Isotope-239 igniting agent</Italian>
+           <Portuguese>Isotope-239 igniting agent</Portuguese>
+           <Polish>Isotope-239 igniting agent</Polish>
+           <Chinesesimp>Isotope-239 igniting agent</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_boomer_outfit_for_janet">
+           <Original>Boomer outfit for Janet</Original>
+           <Czech>Boomer outfit for Janet</Czech>
+           <Spanish>Boomer outfit for Janet</Spanish>
+           <Russian>Boomer outfit for Janet</Russian>
+           <German>Boomer outfit for Janet</German>
+           <French>Boomer outfit for Janet</French>
+           <Italian>Boomer outfit for Janet</Italian>
+           <Portuguese>Boomer outfit for Janet</Portuguese>
+           <Polish>Boomer outfit for Janet</Polish>
+           <Chinesesimp>Boomer outfit for Janet</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_jar,_pistol_powder">
+           <Original>Jar, pistol powder</Original>
+           <Czech>Jar, pistol powder</Czech>
+           <Spanish>Jar, pistol powder</Spanish>
+           <Russian>Jar, pistol powder</Russian>
+           <German>Jar, pistol powder</German>
+           <French>Jar, pistol powder</French>
+           <Italian>Jar, pistol powder</Italian>
+           <Portuguese>Jar, pistol powder</Portuguese>
+           <Polish>Jar, pistol powder</Polish>
+           <Chinesesimp>Jar, pistol powder</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_jar,_rifle_powder">
+           <Original>Jar, rifle powder</Original>
+           <Czech>Jar, rifle powder</Czech>
+           <Spanish>Jar, rifle powder</Spanish>
+           <Russian>Jar, rifle powder</Russian>
+           <German>Jar, rifle powder</German>
+           <French>Jar, rifle powder</French>
+           <Italian>Jar, rifle powder</Italian>
+           <Portuguese>Jar, rifle powder</Portuguese>
+           <Polish>Jar, rifle powder</Polish>
+           <Chinesesimp>Jar, rifle powder</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_keyring">
+           <Original>Keyring</Original>
+           <Czech>Keyring</Czech>
+           <Spanish>Keyring</Spanish>
+           <Russian>Keyring</Russian>
+           <German>Keyring</German>
+           <French>Keyring</French>
+           <Italian>Keyring</Italian>
+           <Portuguese>Keyring</Portuguese>
+           <Polish>Keyring</Polish>
+           <Chinesesimp>Keyring</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_large_burned_book">
+           <Original>Large burned book</Original>
+           <Czech>Large burned book</Czech>
+           <Spanish>Large burned book</Spanish>
+           <Russian>Large burned book</Russian>
+           <German>Large burned book</German>
+           <French>Large burned book</French>
+           <Italian>Large burned book</Italian>
+           <Portuguese>Large burned book</Portuguese>
+           <Polish>Large burned book</Polish>
+           <Chinesesimp>Large burned book</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_large_destroyed_book">
+           <Original>Large destroyed book</Original>
+           <Czech>Large destroyed book</Czech>
+           <Spanish>Large destroyed book</Spanish>
+           <Russian>Large destroyed book</Russian>
+           <German>Large destroyed book</German>
+           <French>Large destroyed book</French>
+           <Italian>Large destroyed book</Italian>
+           <Portuguese>Large destroyed book</Portuguese>
+           <Polish>Large destroyed book</Polish>
+           <Chinesesimp>Large destroyed book</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_large_ruined_book">
+           <Original>Large ruined book</Original>
+           <Czech>Large ruined book</Czech>
+           <Spanish>Large ruined book</Spanish>
+           <Russian>Large ruined book</Russian>
+           <German>Large ruined book</German>
+           <French>Large ruined book</French>
+           <Italian>Large ruined book</Italian>
+           <Portuguese>Large ruined book</Portuguese>
+           <Polish>Large ruined book</Polish>
+           <Chinesesimp>Large ruined book</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_large_scorched_book">
+           <Original>Large scorched book</Original>
+           <Czech>Large scorched book</Czech>
+           <Spanish>Large scorched book</Spanish>
+           <Russian>Large scorched book</Russian>
+           <German>Large scorched book</German>
+           <French>Large scorched book</French>
+           <Italian>Large scorched book</Italian>
+           <Portuguese>Large scorched book</Portuguese>
+           <Polish>Large scorched book</Polish>
+           <Chinesesimp>Large scorched book</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_large_whiskey_bottle">
+           <Original>Large whiskey bottle</Original>
+           <Czech>Large whiskey bottle</Czech>
+           <Spanish>Large whiskey bottle</Spanish>
+           <Russian>Large whiskey bottle</Russian>
+           <German>Large whiskey bottle</German>
+           <French>Large whiskey bottle</French>
+           <Italian>Large whiskey bottle</Italian>
+           <Portuguese>Large whiskey bottle</Portuguese>
+           <Polish>Large whiskey bottle</Polish>
+           <Chinesesimp>Large whiskey bottle</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_lawn_mower_blade">
+           <Original>Lawn mower blade</Original>
+           <Czech>Lawn mower blade</Czech>
+           <Spanish>Lawn mower blade</Spanish>
+           <Russian>Lawn mower blade</Russian>
+           <German>Lawn mower blade</German>
+           <French>Lawn mower blade</French>
+           <Italian>Lawn mower blade</Italian>
+           <Portuguese>Lawn mower blade</Portuguese>
+           <Polish>Lawn mower blade</Polish>
+           <Chinesesimp>Lawn mower blade</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_lead">
+           <Original>Lead</Original>
+           <Czech>Lead</Czech>
+           <Spanish>Lead</Spanish>
+           <Russian>Lead</Russian>
+           <German>Lead</German>
+           <French>Lead</French>
+           <Italian>Lead</Italian>
+           <Portuguese>Lead</Portuguese>
+           <Polish>Lead</Polish>
+           <Chinesesimp>Lead</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_leaf_blower">
+           <Original>Leaf blower</Original>
+           <Czech>Leaf blower</Czech>
+           <Spanish>Leaf blower</Spanish>
+           <Russian>Leaf blower</Russian>
+           <German>Leaf blower</German>
+           <French>Leaf blower</French>
+           <Italian>Leaf blower</Italian>
+           <Portuguese>Leaf blower</Portuguese>
+           <Polish>Leaf blower</Polish>
+           <Chinesesimp>Leaf blower</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_leather_belt">
+           <Original>Leather belt</Original>
+           <Czech>Leather belt</Czech>
+           <Spanish>Leather belt</Spanish>
+           <Russian>Leather belt</Russian>
+           <German>Leather belt</German>
+           <French>Leather belt</French>
+           <Italian>Leather belt</Italian>
+           <Portuguese>Leather belt</Portuguese>
+           <Polish>Leather belt</Polish>
+           <Chinesesimp>Leather belt</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_legion_aureus">
+           <Original>Legion Aureus</Original>
+           <Czech>Legion Aureus</Czech>
+           <Spanish>Legion Aureus</Spanish>
+           <Russian>Legion Aureus</Russian>
+           <German>Legion Aureus</German>
+           <French>Legion Aureus</French>
+           <Italian>Legion Aureus</Italian>
+           <Portuguese>Legion Aureus</Portuguese>
+           <Polish>Legion Aureus</Polish>
+           <Chinesesimp>Legion Aureus</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_legion_denarius">
+           <Original>Legion Denarius</Original>
+           <Czech>Legion Denarius</Czech>
+           <Spanish>Legion Denarius</Spanish>
+           <Russian>Legion Denarius</Russian>
+           <German>Legion Denarius</German>
+           <French>Legion Denarius</French>
+           <Italian>Legion Denarius</Italian>
+           <Portuguese>Legion Denarius</Portuguese>
+           <Polish>Legion Denarius</Polish>
+           <Chinesesimp>Legion Denarius</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_legion_denarius,_mangled">
+           <Original>Legion Denarius, mangled</Original>
+           <Czech>Legion Denarius, mangled</Czech>
+           <Spanish>Legion Denarius, mangled</Spanish>
+           <Russian>Legion Denarius, mangled</Russian>
+           <German>Legion Denarius, mangled</German>
+           <French>Legion Denarius, mangled</French>
+           <Italian>Legion Denarius, mangled</Italian>
+           <Portuguese>Legion Denarius, mangled</Portuguese>
+           <Polish>Legion Denarius, mangled</Polish>
+           <Chinesesimp>Legion Denarius, mangled</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_legion_ear">
+           <Original>Legion ear</Original>
+           <Czech>Legion ear</Czech>
+           <Spanish>Legion ear</Spanish>
+           <Russian>Legion ear</Russian>
+           <German>Legion ear</German>
+           <French>Legion ear</French>
+           <Italian>Legion ear</Italian>
+           <Portuguese>Legion ear</Portuguese>
+           <Polish>Legion ear</Polish>
+           <Chinesesimp>Legion ear</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_legion_patrol_notes">
+           <Original>Legion patrol notes</Original>
+           <Czech>Legion patrol notes</Czech>
+           <Spanish>Legion patrol notes</Spanish>
+           <Russian>Legion patrol notes</Russian>
+           <German>Legion patrol notes</German>
+           <French>Legion patrol notes</French>
+           <Italian>Legion patrol notes</Italian>
+           <Portuguese>Legion patrol notes</Portuguese>
+           <Polish>Legion patrol notes</Polish>
+           <Chinesesimp>Legion patrol notes</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_legion_raid_plans">
+           <Original>Legion raid plans</Original>
+           <Czech>Legion raid plans</Czech>
+           <Spanish>Legion raid plans</Spanish>
+           <Russian>Legion raid plans</Russian>
+           <German>Legion raid plans</German>
+           <French>Legion raid plans</French>
+           <Italian>Legion raid plans</Italian>
+           <Portuguese>Legion raid plans</Portuguese>
+           <Polish>Legion raid plans</Polish>
+           <Chinesesimp>Legion raid plans</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_legion_slave_ledger">
+           <Original>Legion slave ledger</Original>
+           <Czech>Legion slave ledger</Czech>
+           <Spanish>Legion slave ledger</Spanish>
+           <Russian>Legion slave ledger</Russian>
+           <German>Legion slave ledger</German>
+           <French>Legion slave ledger</French>
+           <Italian>Legion slave ledger</Italian>
+           <Portuguese>Legion slave ledger</Portuguese>
+           <Polish>Legion slave ledger</Polish>
+           <Chinesesimp>Legion slave ledger</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_lineholms_log">
+           <Original>Lineholm's log</Original>
+           <Czech>Lineholm's log</Czech>
+           <Spanish>Lineholm's log</Spanish>
+           <Russian>Lineholm's log</Russian>
+           <German>Lineholm's log</German>
+           <French>Lineholm's log</French>
+           <Italian>Lineholm's log</Italian>
+           <Portuguese>Lineholm's log</Portuguese>
+           <Polish>Lineholm's log</Polish>
+           <Chinesesimp>Lineholm's log</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_lottery_ticket">
+           <Original>Lottery ticket</Original>
+           <Czech>Lottery ticket</Czech>
+           <Spanish>Lottery ticket</Spanish>
+           <Russian>Lottery ticket</Russian>
+           <German>Lottery ticket</German>
+           <French>Lottery ticket</French>
+           <Italian>Lottery ticket</Italian>
+           <Portuguese>Lottery ticket</Portuguese>
+           <Polish>Lottery ticket</Polish>
+           <Chinesesimp>Lottery ticket</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_lottery_ticket">
+           <Original>Lottery ticket</Original>
+           <Czech>Lottery ticket</Czech>
+           <Spanish>Lottery ticket</Spanish>
+           <Russian>Lottery ticket</Russian>
+           <German>Lottery ticket</German>
+           <French>Lottery ticket</French>
+           <Italian>Lottery ticket</Italian>
+           <Portuguese>Lottery ticket</Portuguese>
+           <Polish>Lottery ticket</Polish>
+           <Chinesesimp>Lottery ticket</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_lunchbox">
+           <Original>Lunchbox</Original>
+           <Czech>Lunchbox</Czech>
+           <Spanish>Lunchbox</Spanish>
+           <Russian>Lunchbox</Russian>
+           <German>Lunchbox</German>
+           <French>Lunchbox</French>
+           <Italian>Lunchbox</Italian>
+           <Portuguese>Lunchbox</Portuguese>
+           <Polish>Lunchbox</Polish>
+           <Chinesesimp>Lunchbox</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_lupas_brain">
+           <Original>Lupa's brain</Original>
+           <Czech>Lupa's brain</Czech>
+           <Spanish>Lupa's brain</Spanish>
+           <Russian>Lupa's brain</Russian>
+           <German>Lupa's brain</German>
+           <French>Lupa's brain</French>
+           <Italian>Lupa's brain</Italian>
+           <Portuguese>Lupa's brain</Portuguese>
+           <Polish>Lupa's brain</Polish>
+           <Chinesesimp>Lupa's brain</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_mantis_egg">
+           <Original>Mantis egg</Original>
+           <Czech>Mantis egg</Czech>
+           <Spanish>Mantis egg</Spanish>
+           <Russian>Mantis egg</Russian>
+           <German>Mantis egg</German>
+           <French>Mantis egg</French>
+           <Italian>Mantis egg</Italian>
+           <Portuguese>Mantis egg</Portuguese>
+           <Polish>Mantis egg</Polish>
+           <Chinesesimp>Mantis egg</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_mantis_egg">
+           <Original>Mantis egg</Original>
+           <Czech>Mantis egg</Czech>
+           <Spanish>Mantis egg</Spanish>
+           <Russian>Mantis egg</Russian>
+           <German>Mantis egg</German>
+           <French>Mantis egg</French>
+           <Italian>Mantis egg</Italian>
+           <Portuguese>Mantis egg</Portuguese>
+           <Polish>Mantis egg</Polish>
+           <Chinesesimp>Mantis egg</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_mantis_foreleg">
+           <Original>Mantis foreleg</Original>
+           <Czech>Mantis foreleg</Czech>
+           <Spanish>Mantis foreleg</Spanish>
+           <Russian>Mantis foreleg</Russian>
+           <German>Mantis foreleg</German>
+           <French>Mantis foreleg</French>
+           <Italian>Mantis foreleg</Italian>
+           <Portuguese>Mantis foreleg</Portuguese>
+           <Polish>Mantis foreleg</Polish>
+           <Chinesesimp>Mantis foreleg</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_mark_of_caesar">
+           <Original>Mark of Caesar</Original>
+           <Czech>Mark of Caesar</Czech>
+           <Spanish>Mark of Caesar</Spanish>
+           <Russian>Mark of Caesar</Russian>
+           <German>Mark of Caesar</German>
+           <French>Mark of Caesar</French>
+           <Italian>Mark of Caesar</Italian>
+           <Portuguese>Mark of Caesar</Portuguese>
+           <Polish>Mark of Caesar</Polish>
+           <Chinesesimp>Mark of Caesar</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_marked_cards">
+           <Original>Marked cards</Original>
+           <Czech>Marked cards</Czech>
+           <Spanish>Marked cards</Spanish>
+           <Russian>Marked cards</Russian>
+           <German>Marked cards</German>
+           <French>Marked cards</French>
+           <Italian>Marked cards</Italian>
+           <Portuguese>Marked cards</Portuguese>
+           <Polish>Marked cards</Polish>
+           <Chinesesimp>Marked cards</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_medical_brace">
+           <Original>Medical brace</Original>
+           <Czech>Medical brace</Czech>
+           <Spanish>Medical brace</Spanish>
+           <Russian>Medical brace</Russian>
+           <German>Medical brace</German>
+           <French>Medical brace</French>
+           <Italian>Medical brace</Italian>
+           <Portuguese>Medical brace</Portuguese>
+           <Polish>Medical brace</Polish>
+           <Chinesesimp>Medical brace</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_medical_brace">
+           <Original>Medical brace</Original>
+           <Czech>Medical brace</Czech>
+           <Spanish>Medical brace</Spanish>
+           <Russian>Medical brace</Russian>
+           <German>Medical brace</German>
+           <French>Medical brace</French>
+           <Italian>Medical brace</Italian>
+           <Portuguese>Medical brace</Portuguese>
+           <Polish>Medical brace</Polish>
+           <Chinesesimp>Medical brace</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_medical_clipboard">
+           <Original>Medical clipboard</Original>
+           <Czech>Medical clipboard</Czech>
+           <Spanish>Medical clipboard</Spanish>
+           <Russian>Medical clipboard</Russian>
+           <German>Medical clipboard</German>
+           <French>Medical clipboard</French>
+           <Italian>Medical clipboard</Italian>
+           <Portuguese>Medical clipboard</Portuguese>
+           <Polish>Medical clipboard</Polish>
+           <Chinesesimp>Medical clipboard</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_metal_cooking_pan">
+           <Original>Metal cooking pan</Original>
+           <Czech>Metal cooking pan</Czech>
+           <Spanish>Metal cooking pan</Spanish>
+           <Russian>Metal cooking pan</Russian>
+           <German>Metal cooking pan</German>
+           <French>Metal cooking pan</French>
+           <Italian>Metal cooking pan</Italian>
+           <Portuguese>Metal cooking pan</Portuguese>
+           <Polish>Metal cooking pan</Polish>
+           <Chinesesimp>Metal cooking pan</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_metal_cooking_pot">
+           <Original>Metal cooking pot</Original>
+           <Czech>Metal cooking pot</Czech>
+           <Spanish>Metal cooking pot</Spanish>
+           <Russian>Metal cooking pot</Russian>
+           <German>Metal cooking pot</German>
+           <French>Metal cooking pot</French>
+           <Italian>Metal cooking pot</Italian>
+           <Portuguese>Metal cooking pot</Portuguese>
+           <Polish>Metal cooking pot</Polish>
+           <Chinesesimp>Metal cooking pot</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_metal_spoon">
+           <Original>Metal spoon</Original>
+           <Czech>Metal spoon</Czech>
+           <Spanish>Metal spoon</Spanish>
+           <Russian>Metal spoon</Russian>
+           <German>Metal spoon</German>
+           <French>Metal spoon</French>
+           <Italian>Metal spoon</Italian>
+           <Portuguese>Metal spoon</Portuguese>
+           <Polish>Metal spoon</Polish>
+           <Chinesesimp>Metal spoon</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_microphone_and_stand">
+           <Original>Microphone and stand</Original>
+           <Czech>Microphone and stand</Czech>
+           <Spanish>Microphone and stand</Spanish>
+           <Russian>Microphone and stand</Russian>
+           <German>Microphone and stand</German>
+           <French>Microphone and stand</French>
+           <Italian>Microphone and stand</Italian>
+           <Portuguese>Microphone and stand</Portuguese>
+           <Polish>Microphone and stand</Polish>
+           <Chinesesimp>Microphone and stand</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_mildly_suspicious_package">
+           <Original>Mildly suspicious package</Original>
+           <Czech>Mildly suspicious package</Czech>
+           <Spanish>Mildly suspicious package</Spanish>
+           <Russian>Mildly suspicious package</Russian>
+           <German>Mildly suspicious package</German>
+           <French>Mildly suspicious package</French>
+           <Italian>Mildly suspicious package</Italian>
+           <Portuguese>Mildly suspicious package</Portuguese>
+           <Polish>Mildly suspicious package</Polish>
+           <Chinesesimp>Mildly suspicious package</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_milk_bottle">
+           <Original>Milk bottle</Original>
+           <Czech>Milk bottle</Czech>
+           <Spanish>Milk bottle</Spanish>
+           <Russian>Milk bottle</Russian>
+           <German>Milk bottle</German>
+           <French>Milk bottle</French>
+           <Italian>Milk bottle</Italian>
+           <Portuguese>Milk bottle</Portuguese>
+           <Polish>Milk bottle</Polish>
+           <Chinesesimp>Milk bottle</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_mister_cuddles">
+           <Original>Mister Cuddles</Original>
+           <Czech>Mister Cuddles</Czech>
+           <Spanish>Mister Cuddles</Spanish>
+           <Russian>Mister Cuddles</Russian>
+           <German>Mister Cuddles</German>
+           <French>Mister Cuddles</French>
+           <Italian>Mister Cuddles</Italian>
+           <Portuguese>Mister Cuddles</Portuguese>
+           <Polish>Mister Cuddles</Polish>
+           <Chinesesimp>Mister Cuddles</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_motorcycle_gas_tank">
+           <Original>Motorcycle gas tank</Original>
+           <Czech>Motorcycle gas tank</Czech>
+           <Spanish>Motorcycle gas tank</Spanish>
+           <Russian>Motorcycle gas tank</Russian>
+           <German>Motorcycle gas tank</German>
+           <French>Motorcycle gas tank</French>
+           <Italian>Motorcycle gas tank</Italian>
+           <Portuguese>Motorcycle gas tank</Portuguese>
+           <Polish>Motorcycle gas tank</Polish>
+           <Chinesesimp>Motorcycle gas tank</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_motorcycle_handbrake">
+           <Original>Motorcycle handbrake</Original>
+           <Czech>Motorcycle handbrake</Czech>
+           <Spanish>Motorcycle handbrake</Spanish>
+           <Russian>Motorcycle handbrake</Russian>
+           <German>Motorcycle handbrake</German>
+           <French>Motorcycle handbrake</French>
+           <Italian>Motorcycle handbrake</Italian>
+           <Portuguese>Motorcycle handbrake</Portuguese>
+           <Polish>Motorcycle handbrake</Polish>
+           <Chinesesimp>Motorcycle handbrake</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_mutilated_arm">
+           <Original>Mutilated arm</Original>
+           <Czech>Mutilated arm</Czech>
+           <Spanish>Mutilated arm</Spanish>
+           <Russian>Mutilated arm</Russian>
+           <German>Mutilated arm</German>
+           <French>Mutilated arm</French>
+           <Italian>Mutilated arm</Italian>
+           <Portuguese>Mutilated arm</Portuguese>
+           <Polish>Mutilated arm</Polish>
+           <Chinesesimp>Mutilated arm</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_mutilated_leg">
+           <Original>Mutilated leg</Original>
+           <Czech>Mutilated leg</Czech>
+           <Spanish>Mutilated leg</Spanish>
+           <Russian>Mutilated leg</Russian>
+           <German>Mutilated leg</German>
+           <French>Mutilated leg</French>
+           <Italian>Mutilated leg</Italian>
+           <Portuguese>Mutilated leg</Portuguese>
+           <Polish>Mutilated leg</Polish>
+           <Chinesesimp>Mutilated leg</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_mutilated_organs">
+           <Original>Mutilated organs</Original>
+           <Czech>Mutilated organs</Czech>
+           <Spanish>Mutilated organs</Spanish>
+           <Russian>Mutilated organs</Russian>
+           <German>Mutilated organs</German>
+           <French>Mutilated organs</French>
+           <Italian>Mutilated organs</Italian>
+           <Portuguese>Mutilated organs</Portuguese>
+           <Polish>Mutilated organs</Polish>
+           <Chinesesimp>Mutilated organs</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_mutilated_skull">
+           <Original>Mutilated skull</Original>
+           <Czech>Mutilated skull</Czech>
+           <Spanish>Mutilated skull</Spanish>
+           <Russian>Mutilated skull</Russian>
+           <German>Mutilated skull</German>
+           <French>Mutilated skull</French>
+           <Italian>Mutilated skull</Italian>
+           <Portuguese>Mutilated skull</Portuguese>
+           <Polish>Mutilated skull</Polish>
+           <Chinesesimp>Mutilated skull</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_mutilated_torso">
+           <Original>Mutilated torso</Original>
+           <Czech>Mutilated torso</Czech>
+           <Spanish>Mutilated torso</Spanish>
+           <Russian>Mutilated torso</Russian>
+           <German>Mutilated torso</German>
+           <French>Mutilated torso</French>
+           <Italian>Mutilated torso</Italian>
+           <Portuguese>Mutilated torso</Portuguese>
+           <Polish>Mutilated torso</Polish>
+           <Chinesesimp>Mutilated torso</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_ncr_10mm_pistol">
+           <Original>NCR 10mm pistol</Original>
+           <Czech>NCR 10mm pistol</Czech>
+           <Spanish>NCR 10mm pistol</Spanish>
+           <Russian>NCR 10mm pistol</Russian>
+           <German>NCR 10mm pistol</German>
+           <French>NCR 10mm pistol</French>
+           <Italian>NCR 10mm pistol</Italian>
+           <Portuguese>NCR 10mm pistol</Portuguese>
+           <Polish>NCR 10mm pistol</Polish>
+           <Chinesesimp>NCR 10mm pistol</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_ncr_9mm_submachine_gun">
+           <Original>NCR 9mm submachine gun</Original>
+           <Czech>NCR 9mm submachine gun</Czech>
+           <Spanish>NCR 9mm submachine gun</Spanish>
+           <Russian>NCR 9mm submachine gun</Russian>
+           <German>NCR 9mm submachine gun</German>
+           <French>NCR 9mm submachine gun</French>
+           <Italian>NCR 9mm submachine gun</Italian>
+           <Portuguese>NCR 9mm submachine gun</Portuguese>
+           <Polish>NCR 9mm submachine gun</Polish>
+           <Chinesesimp>NCR 9mm submachine gun</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_ncr_bug">
+           <Original>NCR bug</Original>
+           <Czech>NCR bug</Czech>
+           <Spanish>NCR bug</Spanish>
+           <Russian>NCR bug</Russian>
+           <German>NCR bug</German>
+           <French>NCR bug</French>
+           <Italian>NCR bug</Italian>
+           <Portuguese>NCR bug</Portuguese>
+           <Polish>NCR bug</Polish>
+           <Chinesesimp>NCR bug</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_ncr_computer_parts">
+           <Original>NCR computer parts</Original>
+           <Czech>NCR computer parts</Czech>
+           <Spanish>NCR computer parts</Spanish>
+           <Russian>NCR computer parts</Russian>
+           <German>NCR computer parts</German>
+           <French>NCR computer parts</French>
+           <Italian>NCR computer parts</Italian>
+           <Portuguese>NCR computer parts</Portuguese>
+           <Polish>NCR computer parts</Polish>
+           <Chinesesimp>NCR computer parts</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_ncr_computer_parts">
+           <Original>NCR computer parts</Original>
+           <Czech>NCR computer parts</Czech>
+           <Spanish>NCR computer parts</Spanish>
+           <Russian>NCR computer parts</Russian>
+           <German>NCR computer parts</German>
+           <French>NCR computer parts</French>
+           <Italian>NCR computer parts</Italian>
+           <Portuguese>NCR computer parts</Portuguese>
+           <Polish>NCR computer parts</Polish>
+           <Chinesesimp>NCR computer parts</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_ncr_dogtag">
+           <Original>NCR dogtag</Original>
+           <Czech>NCR dogtag</Czech>
+           <Spanish>NCR dogtag</Spanish>
+           <Russian>NCR dogtag</Russian>
+           <German>NCR dogtag</German>
+           <French>NCR dogtag</French>
+           <Italian>NCR dogtag</Italian>
+           <Portuguese>NCR dogtag</Portuguese>
+           <Polish>NCR dogtag</Polish>
+           <Chinesesimp>NCR dogtag</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_ncr_frag_grenade">
+           <Original>NCR frag grenade</Original>
+           <Czech>NCR frag grenade</Czech>
+           <Spanish>NCR frag grenade</Spanish>
+           <Russian>NCR frag grenade</Russian>
+           <German>NCR frag grenade</German>
+           <French>NCR frag grenade</French>
+           <Italian>NCR frag grenade</Italian>
+           <Portuguese>NCR frag grenade</Portuguese>
+           <Polish>NCR frag grenade</Polish>
+           <Chinesesimp>NCR frag grenade</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_ncr_grenade_rifle">
+           <Original>NCR grenade rifle</Original>
+           <Czech>NCR grenade rifle</Czech>
+           <Spanish>NCR grenade rifle</Spanish>
+           <Russian>NCR grenade rifle</Russian>
+           <German>NCR grenade rifle</German>
+           <French>NCR grenade rifle</French>
+           <Italian>NCR grenade rifle</Italian>
+           <Portuguese>NCR grenade rifle</Portuguese>
+           <Polish>NCR grenade rifle</Polish>
+           <Chinesesimp>NCR grenade rifle</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_ncr_radio_parts">
+           <Original>NCR radio parts</Original>
+           <Czech>NCR radio parts</Czech>
+           <Spanish>NCR radio parts</Spanish>
+           <Russian>NCR radio parts</Russian>
+           <German>NCR radio parts</German>
+           <French>NCR radio parts</French>
+           <Italian>NCR radio parts</Italian>
+           <Portuguese>NCR radio parts</Portuguese>
+           <Polish>NCR radio parts</Polish>
+           <Chinesesimp>NCR radio parts</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_ncr_radio_parts">
+           <Original>NCR radio parts</Original>
+           <Czech>NCR radio parts</Czech>
+           <Spanish>NCR radio parts</Spanish>
+           <Russian>NCR radio parts</Russian>
+           <German>NCR radio parts</German>
+           <French>NCR radio parts</French>
+           <Italian>NCR radio parts</Italian>
+           <Portuguese>NCR radio parts</Portuguese>
+           <Polish>NCR radio parts</Polish>
+           <Chinesesimp>NCR radio parts</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_new_vegas_passport">
+           <Original>New Vegas passport</Original>
+           <Czech>New Vegas passport</Czech>
+           <Spanish>New Vegas passport</Spanish>
+           <Russian>New Vegas passport</Russian>
+           <German>New Vegas passport</German>
+           <French>New Vegas passport</French>
+           <Italian>New Vegas passport</Italian>
+           <Portuguese>New Vegas passport</Portuguese>
+           <Polish>New Vegas passport</Polish>
+           <Chinesesimp>New Vegas passport</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_nightstalker_blood">
+           <Original>Nightstalker blood</Original>
+           <Czech>Nightstalker blood</Czech>
+           <Spanish>Nightstalker blood</Spanish>
+           <Russian>Nightstalker blood</Russian>
+           <German>Nightstalker blood</German>
+           <French>Nightstalker blood</French>
+           <Italian>Nightstalker blood</Italian>
+           <Portuguese>Nightstalker blood</Portuguese>
+           <Polish>Nightstalker blood</Polish>
+           <Chinesesimp>Nightstalker blood</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_nightstalker_egg">
+           <Original>Nightstalker egg</Original>
+           <Czech>Nightstalker egg</Czech>
+           <Spanish>Nightstalker egg</Spanish>
+           <Russian>Nightstalker egg</Russian>
+           <German>Nightstalker egg</German>
+           <French>Nightstalker egg</French>
+           <Italian>Nightstalker egg</Italian>
+           <Portuguese>Nightstalker egg</Portuguese>
+           <Polish>Nightstalker egg</Polish>
+           <Chinesesimp>Nightstalker egg</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_nuka-cola_truck">
+           <Original>Nuka-Cola truck</Original>
+           <Czech>Nuka-Cola truck</Czech>
+           <Spanish>Nuka-Cola truck</Spanish>
+           <Russian>Nuka-Cola truck</Russian>
+           <German>Nuka-Cola truck</German>
+           <French>Nuka-Cola truck</French>
+           <Italian>Nuka-Cola truck</Italian>
+           <Portuguese>Nuka-Cola truck</Portuguese>
+           <Polish>Nuka-Cola truck</Polish>
+           <Chinesesimp>Nuka-Cola truck</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_old_legion_patrol_notes">
+           <Original>Old Legion patrol notes</Original>
+           <Czech>Old Legion patrol notes</Czech>
+           <Spanish>Old Legion patrol notes</Spanish>
+           <Russian>Old Legion patrol notes</Russian>
+           <German>Old Legion patrol notes</German>
+           <French>Old Legion patrol notes</French>
+           <Italian>Old Legion patrol notes</Italian>
+           <Portuguese>Old Legion patrol notes</Portuguese>
+           <Polish>Old Legion patrol notes</Polish>
+           <Chinesesimp>Old Legion patrol notes</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_old_legion_raid_plans">
+           <Original>Old Legion raid plans</Original>
+           <Czech>Old Legion raid plans</Czech>
+           <Spanish>Old Legion raid plans</Spanish>
+           <Russian>Old Legion raid plans</Russian>
+           <German>Old Legion raid plans</German>
+           <French>Old Legion raid plans</French>
+           <Italian>Old Legion raid plans</Italian>
+           <Portuguese>Old Legion raid plans</Portuguese>
+           <Polish>Old Legion raid plans</Polish>
+           <Chinesesimp>Old Legion raid plans</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_ophthalmascope">
+           <Original>Ophthalmascope</Original>
+           <Czech>Ophthalmascope</Czech>
+           <Spanish>Ophthalmascope</Spanish>
+           <Russian>Ophthalmascope</Russian>
+           <German>Ophthalmascope</German>
+           <French>Ophthalmascope</French>
+           <Italian>Ophthalmascope</Italian>
+           <Portuguese>Ophthalmascope</Portuguese>
+           <Polish>Ophthalmascope</Polish>
+           <Chinesesimp>Ophthalmascope</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_override_chip">
+           <Original>Override chip</Original>
+           <Czech>Override chip</Czech>
+           <Spanish>Override chip</Spanish>
+           <Russian>Override chip</Russian>
+           <German>Override chip</German>
+           <French>Override chip</French>
+           <Italian>Override chip</Italian>
+           <Portuguese>Override chip</Portuguese>
+           <Polish>Override chip</Polish>
+           <Chinesesimp>Override chip</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_pack_of_cigarettes">
+           <Original>Pack of cigarettes</Original>
+           <Czech>Pack of cigarettes</Czech>
+           <Spanish>Pack of cigarettes</Spanish>
+           <Russian>Pack of cigarettes</Russian>
+           <German>Pack of cigarettes</German>
+           <French>Pack of cigarettes</French>
+           <Italian>Pack of cigarettes</Italian>
+           <Portuguese>Pack of cigarettes</Portuguese>
+           <Polish>Pack of cigarettes</Polish>
+           <Chinesesimp>Pack of cigarettes</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_paint_gun">
+           <Original>Paint gun</Original>
+           <Czech>Paint gun</Czech>
+           <Spanish>Paint gun</Spanish>
+           <Russian>Paint gun</Russian>
+           <German>Paint gun</German>
+           <French>Paint gun</French>
+           <Italian>Paint gun</Italian>
+           <Portuguese>Paint gun</Portuguese>
+           <Polish>Paint gun</Polish>
+           <Chinesesimp>Paint gun</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_paperweight">
+           <Original>Paperweight</Original>
+           <Czech>Paperweight</Czech>
+           <Spanish>Paperweight</Spanish>
+           <Russian>Paperweight</Russian>
+           <German>Paperweight</German>
+           <French>Paperweight</French>
+           <Italian>Paperweight</Italian>
+           <Portuguese>Paperweight</Portuguese>
+           <Polish>Paperweight</Polish>
+           <Chinesesimp>Paperweight</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_pencil">
+           <Original>Pencil</Original>
+           <Czech>Pencil</Czech>
+           <Spanish>Pencil</Spanish>
+           <Russian>Pencil</Russian>
+           <German>Pencil</German>
+           <French>Pencil</French>
+           <Italian>Pencil</Italian>
+           <Portuguese>Pencil</Portuguese>
+           <Polish>Pencil</Polish>
+           <Chinesesimp>Pencil</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_pile_of_cazador_eggs">
+           <Original>Pile of cazador eggs</Original>
+           <Czech>Pile of cazador eggs</Czech>
+           <Spanish>Pile of cazador eggs</Spanish>
+           <Russian>Pile of cazador eggs</Russian>
+           <German>Pile of cazador eggs</German>
+           <French>Pile of cazador eggs</French>
+           <Italian>Pile of cazador eggs</Italian>
+           <Portuguese>Pile of cazador eggs</Portuguese>
+           <Polish>Pile of cazador eggs</Polish>
+           <Chinesesimp>Pile of cazador eggs</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_pile_of_deathclaw_eggs">
+           <Original>Pile of deathclaw eggs</Original>
+           <Czech>Pile of deathclaw eggs</Czech>
+           <Spanish>Pile of deathclaw eggs</Spanish>
+           <Russian>Pile of deathclaw eggs</Russian>
+           <German>Pile of deathclaw eggs</German>
+           <French>Pile of deathclaw eggs</French>
+           <Italian>Pile of deathclaw eggs</Italian>
+           <Portuguese>Pile of deathclaw eggs</Portuguese>
+           <Polish>Pile of deathclaw eggs</Polish>
+           <Chinesesimp>Pile of deathclaw eggs</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_pile_of_fire_gecko_eggs">
+           <Original>Pile of fire gecko eggs</Original>
+           <Czech>Pile of fire gecko eggs</Czech>
+           <Spanish>Pile of fire gecko eggs</Spanish>
+           <Russian>Pile of fire gecko eggs</Russian>
+           <German>Pile of fire gecko eggs</German>
+           <French>Pile of fire gecko eggs</French>
+           <Italian>Pile of fire gecko eggs</Italian>
+           <Portuguese>Pile of fire gecko eggs</Portuguese>
+           <Polish>Pile of fire gecko eggs</Polish>
+           <Chinesesimp>Pile of fire gecko eggs</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_pile_of_giant_mantis_eggs">
+           <Original>Pile of giant mantis eggs</Original>
+           <Czech>Pile of giant mantis eggs</Czech>
+           <Spanish>Pile of giant mantis eggs</Spanish>
+           <Russian>Pile of giant mantis eggs</Russian>
+           <German>Pile of giant mantis eggs</German>
+           <French>Pile of giant mantis eggs</French>
+           <Italian>Pile of giant mantis eggs</Italian>
+           <Portuguese>Pile of giant mantis eggs</Portuguese>
+           <Polish>Pile of giant mantis eggs</Polish>
+           <Chinesesimp>Pile of giant mantis eggs</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_pile_of_night_stalker_eggs">
+           <Original>Pile of night stalker eggs</Original>
+           <Czech>Pile of night stalker eggs</Czech>
+           <Spanish>Pile of night stalker eggs</Spanish>
+           <Russian>Pile of night stalker eggs</Russian>
+           <German>Pile of night stalker eggs</German>
+           <French>Pile of night stalker eggs</French>
+           <Italian>Pile of night stalker eggs</Italian>
+           <Portuguese>Pile of night stalker eggs</Portuguese>
+           <Polish>Pile of night stalker eggs</Polish>
+           <Chinesesimp>Pile of night stalker eggs</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_pile_of_radscorpion_eggs">
+           <Original>Pile of radscorpion eggs</Original>
+           <Czech>Pile of radscorpion eggs</Czech>
+           <Spanish>Pile of radscorpion eggs</Spanish>
+           <Russian>Pile of radscorpion eggs</Russian>
+           <German>Pile of radscorpion eggs</German>
+           <French>Pile of radscorpion eggs</French>
+           <Italian>Pile of radscorpion eggs</Italian>
+           <Portuguese>Pile of radscorpion eggs</Portuguese>
+           <Polish>Pile of radscorpion eggs</Polish>
+           <Chinesesimp>Pile of radscorpion eggs</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_pilot_light">
+           <Original>Pilot light</Original>
+           <Czech>Pilot light</Czech>
+           <Spanish>Pilot light</Spanish>
+           <Russian>Pilot light</Russian>
+           <German>Pilot light</German>
+           <French>Pilot light</French>
+           <Italian>Pilot light</Italian>
+           <Portuguese>Pilot light</Portuguese>
+           <Polish>Pilot light</Polish>
+           <Chinesesimp>Pilot light</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_ping_pong_ball">
+           <Original>Ping pong ball</Original>
+           <Czech>Ping pong ball</Czech>
+           <Spanish>Ping pong ball</Spanish>
+           <Russian>Ping pong ball</Russian>
+           <German>Ping pong ball</German>
+           <French>Ping pong ball</French>
+           <Italian>Ping pong ball</Italian>
+           <Portuguese>Ping pong ball</Portuguese>
+           <Polish>Ping pong ball</Polish>
+           <Chinesesimp>Ping pong ball</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_platinum_chip">
+           <Original>Platinum chip</Original>
+           <Czech>Platinum chip</Czech>
+           <Spanish>Platinum chip</Spanish>
+           <Russian>Platinum chip</Russian>
+           <German>Platinum chip</German>
+           <French>Platinum chip</French>
+           <Italian>Platinum chip</Italian>
+           <Portuguese>Platinum chip</Portuguese>
+           <Polish>Platinum chip</Polish>
+           <Chinesesimp>Platinum chip</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_plunger">
+           <Original>Plunger</Original>
+           <Czech>Plunger</Czech>
+           <Spanish>Plunger</Spanish>
+           <Russian>Plunger</Russian>
+           <German>Plunger</German>
+           <French>Plunger</French>
+           <Italian>Plunger</Italian>
+           <Portuguese>Plunger</Portuguese>
+           <Polish>Plunger</Polish>
+           <Chinesesimp>Plunger</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_pool_ball">
+           <Original>Pool ball</Original>
+           <Czech>Pool ball</Czech>
+           <Spanish>Pool ball</Spanish>
+           <Russian>Pool ball</Russian>
+           <German>Pool ball</German>
+           <French>Pool ball</French>
+           <Italian>Pool ball</Italian>
+           <Portuguese>Pool ball</Portuguese>
+           <Polish>Pool ball</Polish>
+           <Chinesesimp>Pool ball</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_pot">
+           <Original>Pot</Original>
+           <Czech>Pot</Czech>
+           <Spanish>Pot</Spanish>
+           <Russian>Pot</Russian>
+           <German>Pot</German>
+           <French>Pot</French>
+           <Italian>Pot</Italian>
+           <Portuguese>Pot</Portuguese>
+           <Polish>Pot</Polish>
+           <Chinesesimp>Pot</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_powder,_pistol">
+           <Original>Powder, pistol</Original>
+           <Czech>Powder, pistol</Czech>
+           <Spanish>Powder, pistol</Spanish>
+           <Russian>Powder, pistol</Russian>
+           <German>Powder, pistol</German>
+           <French>Powder, pistol</French>
+           <Italian>Powder, pistol</Italian>
+           <Portuguese>Powder, pistol</Portuguese>
+           <Polish>Powder, pistol</Polish>
+           <Chinesesimp>Powder, pistol</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_powder,_rifle">
+           <Original>Powder, rifle</Original>
+           <Czech>Powder, rifle</Czech>
+           <Spanish>Powder, rifle</Spanish>
+           <Russian>Powder, rifle</Russian>
+           <German>Powder, rifle</German>
+           <French>Powder, rifle</French>
+           <Italian>Powder, rifle</Italian>
+           <Portuguese>Powder, rifle</Portuguese>
+           <Polish>Powder, rifle</Polish>
+           <Chinesesimp>Powder, rifle</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_pressure_cooker">
+           <Original>Pressure cooker</Original>
+           <Czech>Pressure cooker</Czech>
+           <Spanish>Pressure cooker</Spanish>
+           <Russian>Pressure cooker</Russian>
+           <German>Pressure cooker</German>
+           <French>Pressure cooker</French>
+           <Italian>Pressure cooker</Italian>
+           <Portuguese>Pressure cooker</Portuguese>
+           <Polish>Pressure cooker</Polish>
+           <Chinesesimp>Pressure cooker</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_pretty_pretty_horsies:_a_history_of_the_mongol_empire">
+           <Original>Pretty Pretty Horsies: A History of the Mongol Empire</Original>
+           <Czech>Pretty Pretty Horsies: A History of the Mongol Empire</Czech>
+           <Spanish>Pretty Pretty Horsies: A History of the Mongol Empire</Spanish>
+           <Russian>Pretty Pretty Horsies: A History of the Mongol Empire</Russian>
+           <German>Pretty Pretty Horsies: A History of the Mongol Empire</German>
+           <French>Pretty Pretty Horsies: A History of the Mongol Empire</French>
+           <Italian>Pretty Pretty Horsies: A History of the Mongol Empire</Italian>
+           <Portuguese>Pretty Pretty Horsies: A History of the Mongol Empire</Portuguese>
+           <Polish>Pretty Pretty Horsies: A History of the Mongol Empire</Polish>
+           <Chinesesimp>Pretty Pretty Horsies: A History of the Mongol Empire</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_pre-war_book">
+           <Original>Pre-War book</Original>
+           <Czech>Pre-War book</Czech>
+           <Spanish>Pre-War book</Spanish>
+           <Russian>Pre-War book</Russian>
+           <German>Pre-War book</German>
+           <French>Pre-War book</French>
+           <Italian>Pre-War book</Italian>
+           <Portuguese>Pre-War book</Portuguese>
+           <Polish>Pre-War book</Polish>
+           <Chinesesimp>Pre-War book</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_pre-war_book">
+           <Original>Pre-War book</Original>
+           <Czech>Pre-War book</Czech>
+           <Spanish>Pre-War book</Spanish>
+           <Russian>Pre-War book</Russian>
+           <German>Pre-War book</German>
+           <French>Pre-War book</French>
+           <Italian>Pre-War book</Italian>
+           <Portuguese>Pre-War book</Portuguese>
+           <Polish>Pre-War book</Polish>
+           <Chinesesimp>Pre-War book</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_pre-war_book">
+           <Original>Pre-War book</Original>
+           <Czech>Pre-War book</Czech>
+           <Spanish>Pre-War book</Spanish>
+           <Russian>Pre-War book</Russian>
+           <German>Pre-War book</German>
+           <French>Pre-War book</French>
+           <Italian>Pre-War book</Italian>
+           <Portuguese>Pre-War book</Portuguese>
+           <Polish>Pre-War book</Polish>
+           <Chinesesimp>Pre-War book</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_pre-war_book">
+           <Original>Pre-War book</Original>
+           <Czech>Pre-War book</Czech>
+           <Spanish>Pre-War book</Spanish>
+           <Russian>Pre-War book</Russian>
+           <German>Pre-War book</German>
+           <French>Pre-War book</French>
+           <Italian>Pre-War book</Italian>
+           <Portuguese>Pre-War book</Portuguese>
+           <Polish>Pre-War book</Polish>
+           <Chinesesimp>Pre-War book</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_pre-war_money">
+           <Original>Pre-War money</Original>
+           <Czech>Pre-War money</Czech>
+           <Spanish>Pre-War money</Spanish>
+           <Russian>Pre-War money</Russian>
+           <German>Pre-War money</German>
+           <French>Pre-War money</French>
+           <Italian>Pre-War money</Italian>
+           <Portuguese>Pre-War money</Portuguese>
+           <Polish>Pre-War money</Polish>
+           <Chinesesimp>Pre-War money</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_primer_box,_.50_mg">
+           <Original>Primer box, .50 MG</Original>
+           <Czech>Primer box, .50 MG</Czech>
+           <Spanish>Primer box, .50 MG</Spanish>
+           <Russian>Primer box, .50 MG</Russian>
+           <German>Primer box, .50 MG</German>
+           <French>Primer box, .50 MG</French>
+           <Italian>Primer box, .50 MG</Italian>
+           <Portuguese>Primer box, .50 MG</Portuguese>
+           <Polish>Primer box, .50 MG</Polish>
+           <Chinesesimp>Primer box, .50 MG</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_primer_box,_large_pistol">
+           <Original>Primer box, large pistol</Original>
+           <Czech>Primer box, large pistol</Czech>
+           <Spanish>Primer box, large pistol</Spanish>
+           <Russian>Primer box, large pistol</Russian>
+           <German>Primer box, large pistol</German>
+           <French>Primer box, large pistol</French>
+           <Italian>Primer box, large pistol</Italian>
+           <Portuguese>Primer box, large pistol</Portuguese>
+           <Polish>Primer box, large pistol</Polish>
+           <Chinesesimp>Primer box, large pistol</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_primer_box,_large_rifle">
+           <Original>Primer box, large rifle</Original>
+           <Czech>Primer box, large rifle</Czech>
+           <Spanish>Primer box, large rifle</Spanish>
+           <Russian>Primer box, large rifle</Russian>
+           <German>Primer box, large rifle</German>
+           <French>Primer box, large rifle</French>
+           <Italian>Primer box, large rifle</Italian>
+           <Portuguese>Primer box, large rifle</Portuguese>
+           <Polish>Primer box, large rifle</Polish>
+           <Chinesesimp>Primer box, large rifle</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_primer_box,_shotshell">
+           <Original>Primer box, shotshell</Original>
+           <Czech>Primer box, shotshell</Czech>
+           <Spanish>Primer box, shotshell</Spanish>
+           <Russian>Primer box, shotshell</Russian>
+           <German>Primer box, shotshell</German>
+           <French>Primer box, shotshell</French>
+           <Italian>Primer box, shotshell</Italian>
+           <Portuguese>Primer box, shotshell</Portuguese>
+           <Polish>Primer box, shotshell</Polish>
+           <Chinesesimp>Primer box, shotshell</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_primer_box,_small_pistol">
+           <Original>Primer box, small pistol</Original>
+           <Czech>Primer box, small pistol</Czech>
+           <Spanish>Primer box, small pistol</Spanish>
+           <Russian>Primer box, small pistol</Russian>
+           <German>Primer box, small pistol</German>
+           <French>Primer box, small pistol</French>
+           <Italian>Primer box, small pistol</Italian>
+           <Portuguese>Primer box, small pistol</Portuguese>
+           <Polish>Primer box, small pistol</Polish>
+           <Chinesesimp>Primer box, small pistol</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_primer_box,_small_rifle">
+           <Original>Primer box, small rifle</Original>
+           <Czech>Primer box, small rifle</Czech>
+           <Spanish>Primer box, small rifle</Spanish>
+           <Russian>Primer box, small rifle</Russian>
+           <German>Primer box, small rifle</German>
+           <French>Primer box, small rifle</French>
+           <Italian>Primer box, small rifle</Italian>
+           <Portuguese>Primer box, small rifle</Portuguese>
+           <Polish>Primer box, small rifle</Polish>
+           <Chinesesimp>Primer box, small rifle</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_primer,_.50_mg">
+           <Original>Primer, .50 MG</Original>
+           <Czech>Primer, .50 MG</Czech>
+           <Spanish>Primer, .50 MG</Spanish>
+           <Russian>Primer, .50 MG</Russian>
+           <German>Primer, .50 MG</German>
+           <French>Primer, .50 MG</French>
+           <Italian>Primer, .50 MG</Italian>
+           <Portuguese>Primer, .50 MG</Portuguese>
+           <Polish>Primer, .50 MG</Polish>
+           <Chinesesimp>Primer, .50 MG</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_primer,_large_pistol">
+           <Original>Primer, large pistol</Original>
+           <Czech>Primer, large pistol</Czech>
+           <Spanish>Primer, large pistol</Spanish>
+           <Russian>Primer, large pistol</Russian>
+           <German>Primer, large pistol</German>
+           <French>Primer, large pistol</French>
+           <Italian>Primer, large pistol</Italian>
+           <Portuguese>Primer, large pistol</Portuguese>
+           <Polish>Primer, large pistol</Polish>
+           <Chinesesimp>Primer, large pistol</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_primer,_large_rifle">
+           <Original>Primer, large rifle</Original>
+           <Czech>Primer, large rifle</Czech>
+           <Spanish>Primer, large rifle</Spanish>
+           <Russian>Primer, large rifle</Russian>
+           <German>Primer, large rifle</German>
+           <French>Primer, large rifle</French>
+           <Italian>Primer, large rifle</Italian>
+           <Portuguese>Primer, large rifle</Portuguese>
+           <Polish>Primer, large rifle</Polish>
+           <Chinesesimp>Primer, large rifle</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_primer,_shotshell">
+           <Original>Primer, shotshell</Original>
+           <Czech>Primer, shotshell</Czech>
+           <Spanish>Primer, shotshell</Spanish>
+           <Russian>Primer, shotshell</Russian>
+           <German>Primer, shotshell</German>
+           <French>Primer, shotshell</French>
+           <Italian>Primer, shotshell</Italian>
+           <Portuguese>Primer, shotshell</Portuguese>
+           <Polish>Primer, shotshell</Polish>
+           <Chinesesimp>Primer, shotshell</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_primer,_small_pistol">
+           <Original>Primer, small pistol</Original>
+           <Czech>Primer, small pistol</Czech>
+           <Spanish>Primer, small pistol</Spanish>
+           <Russian>Primer, small pistol</Russian>
+           <German>Primer, small pistol</German>
+           <French>Primer, small pistol</French>
+           <Italian>Primer, small pistol</Italian>
+           <Portuguese>Primer, small pistol</Portuguese>
+           <Polish>Primer, small pistol</Polish>
+           <Chinesesimp>Primer, small pistol</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_primer,_small_rifle">
+           <Original>Primer, small rifle</Original>
+           <Czech>Primer, small rifle</Czech>
+           <Spanish>Primer, small rifle</Spanish>
+           <Russian>Primer, small rifle</Russian>
+           <German>Primer, small rifle</German>
+           <French>Primer, small rifle</French>
+           <Italian>Primer, small rifle</Italian>
+           <Portuguese>Primer, small rifle</Portuguese>
+           <Polish>Primer, small rifle</Polish>
+           <Chinesesimp>Primer, small rifle</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_radiation_suit_package">
+           <Original>Radiation suit package</Original>
+           <Czech>Radiation suit package</Czech>
+           <Spanish>Radiation suit package</Spanish>
+           <Russian>Radiation suit package</Russian>
+           <German>Radiation suit package</German>
+           <French>Radiation suit package</French>
+           <Italian>Radiation suit package</Italian>
+           <Portuguese>Radiation suit package</Portuguese>
+           <Polish>Radiation suit package</Polish>
+           <Chinesesimp>Radiation suit package</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_radioactive_supply_cache">
+           <Original>Radioactive supply cache</Original>
+           <Czech>Radioactive supply cache</Czech>
+           <Spanish>Radioactive supply cache</Spanish>
+           <Russian>Radioactive supply cache</Russian>
+           <German>Radioactive supply cache</German>
+           <French>Radioactive supply cache</French>
+           <Italian>Radioactive supply cache</Italian>
+           <Portuguese>Radioactive supply cache</Portuguese>
+           <Polish>Radioactive supply cache</Polish>
+           <Chinesesimp>Radioactive supply cache</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_radscorpion_egg">
+           <Original>Radscorpion egg</Original>
+           <Czech>Radscorpion egg</Czech>
+           <Spanish>Radscorpion egg</Spanish>
+           <Russian>Radscorpion egg</Russian>
+           <German>Radscorpion egg</German>
+           <French>Radscorpion egg</French>
+           <Italian>Radscorpion egg</Italian>
+           <Portuguese>Radscorpion egg</Portuguese>
+           <Polish>Radscorpion egg</Polish>
+           <Chinesesimp>Radscorpion egg</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_radscorpion_poison_gland">
+           <Original>Radscorpion poison gland</Original>
+           <Czech>Radscorpion poison gland</Czech>
+           <Spanish>Radscorpion poison gland</Spanish>
+           <Russian>Radscorpion poison gland</Russian>
+           <German>Radscorpion poison gland</German>
+           <French>Radscorpion poison gland</French>
+           <Italian>Radscorpion poison gland</Italian>
+           <Portuguese>Radscorpion poison gland</Portuguese>
+           <Polish>Radscorpion poison gland</Polish>
+           <Chinesesimp>Radscorpion poison gland</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_rake">
+           <Original>Rake</Original>
+           <Czech>Rake</Czech>
+           <Spanish>Rake</Spanish>
+           <Russian>Rake</Russian>
+           <German>Rake</German>
+           <French>Rake</French>
+           <Italian>Rake</Italian>
+           <Portuguese>Rake</Portuguese>
+           <Polish>Rake</Polish>
+           <Chinesesimp>Rake</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_ralphs_sexbot_holodisk">
+           <Original>Ralph's sexbot holodisk</Original>
+           <Czech>Ralph's sexbot holodisk</Czech>
+           <Spanish>Ralph's sexbot holodisk</Spanish>
+           <Russian>Ralph's sexbot holodisk</Russian>
+           <German>Ralph's sexbot holodisk</German>
+           <French>Ralph's sexbot holodisk</French>
+           <Italian>Ralph's sexbot holodisk</Italian>
+           <Portuguese>Ralph's sexbot holodisk</Portuguese>
+           <Polish>Ralph's sexbot holodisk</Polish>
+           <Chinesesimp>Ralph's sexbot holodisk</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_recipes_-_brahmin_wellington">
+           <Original>Recipes - Brahmin Wellington</Original>
+           <Czech>Recipes - Brahmin Wellington</Czech>
+           <Spanish>Recipes - Brahmin Wellington</Spanish>
+           <Russian>Recipes - Brahmin Wellington</Russian>
+           <German>Recipes - Brahmin Wellington</German>
+           <French>Recipes - Brahmin Wellington</French>
+           <Italian>Recipes - Brahmin Wellington</Italian>
+           <Portuguese>Recipes - Brahmin Wellington</Portuguese>
+           <Polish>Recipes - Brahmin Wellington</Polish>
+           <Chinesesimp>Recipes - Brahmin Wellington</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_recipes_-_cook-cooks_fiend_stew">
+           <Original>Recipes - Cook-Cook's Fiend stew</Original>
+           <Czech>Recipes - Cook-Cook's Fiend stew</Czech>
+           <Spanish>Recipes - Cook-Cook's Fiend stew</Spanish>
+           <Russian>Recipes - Cook-Cook's Fiend stew</Russian>
+           <German>Recipes - Cook-Cook's Fiend stew</German>
+           <French>Recipes - Cook-Cook's Fiend stew</French>
+           <Italian>Recipes - Cook-Cook's Fiend stew</Italian>
+           <Portuguese>Recipes - Cook-Cook's Fiend stew</Portuguese>
+           <Polish>Recipes - Cook-Cook's Fiend stew</Polish>
+           <Chinesesimp>Recipes - Cook-Cook's Fiend stew</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_recipes_-_rubys_spicy_casserole">
+           <Original>Recipes - Ruby's spicy casserole</Original>
+           <Czech>Recipes - Ruby's spicy casserole</Czech>
+           <Spanish>Recipes - Ruby's spicy casserole</Spanish>
+           <Russian>Recipes - Ruby's spicy casserole</Russian>
+           <German>Recipes - Ruby's spicy casserole</German>
+           <French>Recipes - Ruby's spicy casserole</French>
+           <Italian>Recipes - Ruby's spicy casserole</Italian>
+           <Portuguese>Recipes - Ruby's spicy casserole</Portuguese>
+           <Polish>Recipes - Ruby's spicy casserole</Polish>
+           <Chinesesimp>Recipes - Ruby's spicy casserole</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_red_plate">
+           <Original>Red plate</Original>
+           <Czech>Red plate</Czech>
+           <Spanish>Red plate</Spanish>
+           <Russian>Red plate</Russian>
+           <German>Red plate</German>
+           <French>Red plate</French>
+           <Italian>Red plate</Italian>
+           <Portuguese>Red plate</Portuguese>
+           <Polish>Red plate</Polish>
+           <Chinesesimp>Red plate</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_redundant_failsafe_detonator">
+           <Original>Redundant failsafe detonator</Original>
+           <Czech>Redundant failsafe detonator</Czech>
+           <Spanish>Redundant failsafe detonator</Spanish>
+           <Russian>Redundant failsafe detonator</Russian>
+           <German>Redundant failsafe detonator</German>
+           <French>Redundant failsafe detonator</French>
+           <Italian>Redundant failsafe detonator</Italian>
+           <Portuguese>Redundant failsafe detonator</Portuguese>
+           <Polish>Redundant failsafe detonator</Polish>
+           <Chinesesimp>Redundant failsafe detonator</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_remote_signal_transmitter">
+           <Original>Remote signal transmitter</Original>
+           <Czech>Remote signal transmitter</Czech>
+           <Spanish>Remote signal transmitter</Spanish>
+           <Russian>Remote signal transmitter</Russian>
+           <German>Remote signal transmitter</German>
+           <French>Remote signal transmitter</French>
+           <Italian>Remote signal transmitter</Italian>
+           <Portuguese>Remote signal transmitter</Portuguese>
+           <Polish>Remote signal transmitter</Polish>
+           <Chinesesimp>Remote signal transmitter</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_reverse_pulse_cleaner">
+           <Original>Reverse pulse cleaner</Original>
+           <Czech>Reverse pulse cleaner</Czech>
+           <Spanish>Reverse pulse cleaner</Spanish>
+           <Russian>Reverse pulse cleaner</Russian>
+           <German>Reverse pulse cleaner</German>
+           <French>Reverse pulse cleaner</French>
+           <Italian>Reverse pulse cleaner</Italian>
+           <Portuguese>Reverse pulse cleaner</Portuguese>
+           <Polish>Reverse pulse cleaner</Polish>
+           <Chinesesimp>Reverse pulse cleaner</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_reys_brain">
+           <Original>Rey's brain</Original>
+           <Czech>Rey's brain</Czech>
+           <Spanish>Rey's brain</Spanish>
+           <Russian>Rey's brain</Russian>
+           <German>Rey's brain</German>
+           <French>Rey's brain</French>
+           <Italian>Rey's brain</Italian>
+           <Portuguese>Rey's brain</Portuguese>
+           <Polish>Rey's brain</Polish>
+           <Chinesesimp>Rey's brain</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_rocket_souvenir">
+           <Original>Rocket souvenir</Original>
+           <Czech>Rocket souvenir</Czech>
+           <Spanish>Rocket souvenir</Spanish>
+           <Russian>Rocket souvenir</Russian>
+           <German>Rocket souvenir</German>
+           <French>Rocket souvenir</French>
+           <Italian>Rocket souvenir</Italian>
+           <Portuguese>Rocket souvenir</Portuguese>
+           <Polish>Rocket souvenir</Polish>
+           <Chinesesimp>Rocket souvenir</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_scalpel">
+           <Original>Scalpel</Original>
+           <Czech>Scalpel</Czech>
+           <Spanish>Scalpel</Spanish>
+           <Russian>Scalpel</Russian>
+           <German>Scalpel</German>
+           <French>Scalpel</French>
+           <Italian>Scalpel</Italian>
+           <Portuguese>Scalpel</Portuguese>
+           <Polish>Scalpel</Polish>
+           <Chinesesimp>Scalpel</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_schematics_-_billboard">
+           <Original>Schematics - billboard</Original>
+           <Czech>Schematics - billboard</Czech>
+           <Spanish>Schematics - billboard</Spanish>
+           <Russian>Schematics - billboard</Russian>
+           <German>Schematics - billboard</German>
+           <French>Schematics - billboard</French>
+           <Italian>Schematics - billboard</Italian>
+           <Portuguese>Schematics - billboard</Portuguese>
+           <Polish>Schematics - billboard</Polish>
+           <Chinesesimp>Schematics - billboard</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_schematics_-_mantis_scythe">
+           <Original>Schematics - mantis scythe</Original>
+           <Czech>Schematics - mantis scythe</Czech>
+           <Spanish>Schematics - mantis scythe</Spanish>
+           <Russian>Schematics - mantis scythe</Russian>
+           <German>Schematics - mantis scythe</German>
+           <French>Schematics - mantis scythe</French>
+           <Italian>Schematics - mantis scythe</Italian>
+           <Portuguese>Schematics - mantis scythe</Portuguese>
+           <Polish>Schematics - mantis scythe</Polish>
+           <Chinesesimp>Schematics - mantis scythe</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_schematics_-_powder_charge">
+           <Original>Schematics - powder charge</Original>
+           <Czech>Schematics - powder charge</Czech>
+           <Spanish>Schematics - powder charge</Spanish>
+           <Russian>Schematics - powder charge</Russian>
+           <German>Schematics - powder charge</German>
+           <French>Schematics - powder charge</French>
+           <Italian>Schematics - powder charge</Italian>
+           <Portuguese>Schematics - powder charge</Portuguese>
+           <Polish>Schematics - powder charge</Polish>
+           <Chinesesimp>Schematics - powder charge</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_scissors">
+           <Original>Scissors</Original>
+           <Czech>Scissors</Czech>
+           <Spanish>Scissors</Spanish>
+           <Russian>Scissors</Russian>
+           <German>Scissors</German>
+           <French>Scissors</French>
+           <Italian>Scissors</Italian>
+           <Portuguese>Scissors</Portuguese>
+           <Polish>Scissors</Polish>
+           <Chinesesimp>Scissors</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_scrap_electronics">
+           <Original>Scrap electronics</Original>
+           <Czech>Scrap electronics</Czech>
+           <Spanish>Scrap electronics</Spanish>
+           <Russian>Scrap electronics</Russian>
+           <German>Scrap electronics</German>
+           <French>Scrap electronics</French>
+           <Italian>Scrap electronics</Italian>
+           <Portuguese>Scrap electronics</Portuguese>
+           <Polish>Scrap electronics</Polish>
+           <Chinesesimp>Scrap electronics</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_scrap_metal">
+           <Original>Scrap metal</Original>
+           <Czech>Scrap metal</Czech>
+           <Spanish>Scrap metal</Spanish>
+           <Russian>Scrap metal</Russian>
+           <German>Scrap metal</German>
+           <French>Scrap metal</French>
+           <Italian>Scrap metal</Italian>
+           <Portuguese>Scrap metal</Portuguese>
+           <Polish>Scrap metal</Polish>
+           <Chinesesimp>Scrap metal</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_sensor_module">
+           <Original>Sensor module</Original>
+           <Czech>Sensor module</Czech>
+           <Spanish>Sensor module</Spanish>
+           <Russian>Sensor module</Russian>
+           <German>Sensor module</German>
+           <French>Sensor module</French>
+           <Italian>Sensor module</Italian>
+           <Portuguese>Sensor module</Portuguese>
+           <Polish>Sensor module</Polish>
+           <Chinesesimp>Sensor module</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_sentry_bot_toy">
+           <Original>Sentry bot toy</Original>
+           <Czech>Sentry bot toy</Czech>
+           <Spanish>Sentry bot toy</Spanish>
+           <Russian>Sentry bot toy</Russian>
+           <German>Sentry bot toy</German>
+           <French>Sentry bot toy</French>
+           <Italian>Sentry bot toy</Italian>
+           <Portuguese>Sentry bot toy</Portuguese>
+           <Polish>Sentry bot toy</Polish>
+           <Chinesesimp>Sentry bot toy</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_sergeant_teddy">
+           <Original>Sergeant Teddy</Original>
+           <Czech>Sergeant Teddy</Czech>
+           <Spanish>Sergeant Teddy</Spanish>
+           <Russian>Sergeant Teddy</Russian>
+           <German>Sergeant Teddy</German>
+           <French>Sergeant Teddy</French>
+           <Italian>Sergeant Teddy</Italian>
+           <Portuguese>Sergeant Teddy</Portuguese>
+           <Polish>Sergeant Teddy</Polish>
+           <Chinesesimp>Sergeant Teddy</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_sheet_music_book">
+           <Original>Sheet music book</Original>
+           <Czech>Sheet music book</Czech>
+           <Spanish>Sheet music book</Spanish>
+           <Russian>Sheet music book</Russian>
+           <German>Sheet music book</German>
+           <French>Sheet music book</French>
+           <Italian>Sheet music book</Italian>
+           <Portuguese>Sheet music book</Portuguese>
+           <Polish>Sheet music book</Polish>
+           <Chinesesimp>Sheet music book</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_shot_glass">
+           <Original>Shot glass</Original>
+           <Czech>Shot glass</Czech>
+           <Spanish>Shot glass</Spanish>
+           <Russian>Shot glass</Russian>
+           <German>Shot glass</German>
+           <French>Shot glass</French>
+           <Italian>Shot glass</Italian>
+           <Portuguese>Shot glass</Portuguese>
+           <Polish>Shot glass</Polish>
+           <Chinesesimp>Shot glass</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_small_burned_book">
+           <Original>Small burned book</Original>
+           <Czech>Small burned book</Czech>
+           <Spanish>Small burned book</Spanish>
+           <Russian>Small burned book</Russian>
+           <German>Small burned book</German>
+           <French>Small burned book</French>
+           <Italian>Small burned book</Italian>
+           <Portuguese>Small burned book</Portuguese>
+           <Polish>Small burned book</Polish>
+           <Chinesesimp>Small burned book</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_small_destroyed_book">
+           <Original>Small destroyed book</Original>
+           <Czech>Small destroyed book</Czech>
+           <Spanish>Small destroyed book</Spanish>
+           <Russian>Small destroyed book</Russian>
+           <German>Small destroyed book</German>
+           <French>Small destroyed book</French>
+           <Italian>Small destroyed book</Italian>
+           <Portuguese>Small destroyed book</Portuguese>
+           <Polish>Small destroyed book</Polish>
+           <Chinesesimp>Small destroyed book</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_small_ruined_book">
+           <Original>Small ruined book</Original>
+           <Czech>Small ruined book</Czech>
+           <Spanish>Small ruined book</Spanish>
+           <Russian>Small ruined book</Russian>
+           <German>Small ruined book</German>
+           <French>Small ruined book</French>
+           <Italian>Small ruined book</Italian>
+           <Portuguese>Small ruined book</Portuguese>
+           <Polish>Small ruined book</Polish>
+           <Chinesesimp>Small ruined book</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_small_scorched_book">
+           <Original>Small scorched book</Original>
+           <Czech>Small scorched book</Czech>
+           <Spanish>Small scorched book</Spanish>
+           <Russian>Small scorched book</Russian>
+           <German>Small scorched book</German>
+           <French>Small scorched book</French>
+           <Italian>Small scorched book</Italian>
+           <Portuguese>Small scorched book</Portuguese>
+           <Polish>Small scorched book</Polish>
+           <Chinesesimp>Small scorched book</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_snow_globe_-_goodsprings">
+           <Original>Snow globe - Goodsprings</Original>
+           <Czech>Snow globe - Goodsprings</Czech>
+           <Spanish>Snow globe - Goodsprings</Spanish>
+           <Russian>Snow globe - Goodsprings</Russian>
+           <German>Snow globe - Goodsprings</German>
+           <French>Snow globe - Goodsprings</French>
+           <Italian>Snow globe - Goodsprings</Italian>
+           <Portuguese>Snow globe - Goodsprings</Portuguese>
+           <Polish>Snow globe - Goodsprings</Polish>
+           <Chinesesimp>Snow globe - Goodsprings</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_snow_globe_-_hoover_dam">
+           <Original>Snow globe - Hoover Dam</Original>
+           <Czech>Snow globe - Hoover Dam</Czech>
+           <Spanish>Snow globe - Hoover Dam</Spanish>
+           <Russian>Snow globe - Hoover Dam</Russian>
+           <German>Snow globe - Hoover Dam</German>
+           <French>Snow globe - Hoover Dam</French>
+           <Italian>Snow globe - Hoover Dam</Italian>
+           <Portuguese>Snow globe - Hoover Dam</Portuguese>
+           <Polish>Snow globe - Hoover Dam</Polish>
+           <Chinesesimp>Snow globe - Hoover Dam</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_snow_globe_-_mormon_fort">
+           <Original>Snow globe - Mormon Fort</Original>
+           <Czech>Snow globe - Mormon Fort</Czech>
+           <Spanish>Snow globe - Mormon Fort</Spanish>
+           <Russian>Snow globe - Mormon Fort</Russian>
+           <German>Snow globe - Mormon Fort</German>
+           <French>Snow globe - Mormon Fort</French>
+           <Italian>Snow globe - Mormon Fort</Italian>
+           <Portuguese>Snow globe - Mormon Fort</Portuguese>
+           <Polish>Snow globe - Mormon Fort</Polish>
+           <Chinesesimp>Snow globe - Mormon Fort</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_snow_globe_-_mt._charleston">
+           <Original>Snow globe - Mt. Charleston</Original>
+           <Czech>Snow globe - Mt. Charleston</Czech>
+           <Spanish>Snow globe - Mt. Charleston</Spanish>
+           <Russian>Snow globe - Mt. Charleston</Russian>
+           <German>Snow globe - Mt. Charleston</German>
+           <French>Snow globe - Mt. Charleston</French>
+           <Italian>Snow globe - Mt. Charleston</Italian>
+           <Portuguese>Snow globe - Mt. Charleston</Portuguese>
+           <Polish>Snow globe - Mt. Charleston</Polish>
+           <Chinesesimp>Snow globe - Mt. Charleston</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_snow_globe_-_nellis_afb">
+           <Original>Snow globe - Nellis AFB</Original>
+           <Czech>Snow globe - Nellis AFB</Czech>
+           <Spanish>Snow globe - Nellis AFB</Spanish>
+           <Russian>Snow globe - Nellis AFB</Russian>
+           <German>Snow globe - Nellis AFB</German>
+           <French>Snow globe - Nellis AFB</French>
+           <Italian>Snow globe - Nellis AFB</Italian>
+           <Portuguese>Snow globe - Nellis AFB</Portuguese>
+           <Polish>Snow globe - Nellis AFB</Polish>
+           <Chinesesimp>Snow globe - Nellis AFB</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_snow_globe_-_test_site">
+           <Original>Snow globe - Test Site</Original>
+           <Czech>Snow globe - Test Site</Czech>
+           <Spanish>Snow globe - Test Site</Spanish>
+           <Russian>Snow globe - Test Site</Russian>
+           <German>Snow globe - Test Site</German>
+           <French>Snow globe - Test Site</French>
+           <Italian>Snow globe - Test Site</Italian>
+           <Portuguese>Snow globe - Test Site</Portuguese>
+           <Polish>Snow globe - Test Site</Polish>
+           <Chinesesimp>Snow globe - Test Site</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_snow_globe_-_the_strip">
+           <Original>Snow globe - The Strip</Original>
+           <Czech>Snow globe - The Strip</Czech>
+           <Spanish>Snow globe - The Strip</Spanish>
+           <Russian>Snow globe - The Strip</Russian>
+           <German>Snow globe - The Strip</German>
+           <French>Snow globe - The Strip</French>
+           <Italian>Snow globe - The Strip</Italian>
+           <Portuguese>Snow globe - The Strip</Portuguese>
+           <Polish>Snow globe - The Strip</Polish>
+           <Chinesesimp>Snow globe - The Strip</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_solar_array_parts">
+           <Original>Solar array parts</Original>
+           <Czech>Solar array parts</Czech>
+           <Spanish>Solar array parts</Spanish>
+           <Russian>Solar array parts</Russian>
+           <German>Solar array parts</German>
+           <French>Solar array parts</French>
+           <Italian>Solar array parts</Italian>
+           <Portuguese>Solar array parts</Portuguese>
+           <Polish>Solar array parts</Polish>
+           <Chinesesimp>Solar array parts</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_sonic_emitter">
+           <Original>Sonic emitter</Original>
+           <Czech>Sonic emitter</Czech>
+           <Spanish>Sonic emitter</Spanish>
+           <Russian>Sonic emitter</Russian>
+           <German>Sonic emitter</German>
+           <French>Sonic emitter</French>
+           <Italian>Sonic emitter</Italian>
+           <Portuguese>Sonic emitter</Portuguese>
+           <Polish>Sonic emitter</Polish>
+           <Chinesesimp>Sonic emitter</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_spare_medical_supplies">
+           <Original>Spare medical supplies</Original>
+           <Czech>Spare medical supplies</Czech>
+           <Spanish>Spare medical supplies</Spanish>
+           <Russian>Spare medical supplies</Russian>
+           <German>Spare medical supplies</German>
+           <French>Spare medical supplies</French>
+           <Italian>Spare medical supplies</Italian>
+           <Portuguese>Spare medical supplies</Portuguese>
+           <Polish>Spare medical supplies</Polish>
+           <Chinesesimp>Spare medical supplies</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_spatula">
+           <Original>Spatula</Original>
+           <Czech>Spatula</Czech>
+           <Spanish>Spatula</Spanish>
+           <Russian>Spatula</Russian>
+           <German>Spatula</German>
+           <French>Spatula</French>
+           <Italian>Spatula</Italian>
+           <Portuguese>Spatula</Portuguese>
+           <Polish>Spatula</Polish>
+           <Chinesesimp>Spatula</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_spork">
+           <Original>Spork</Original>
+           <Czech>Spork</Czech>
+           <Spanish>Spork</Spanish>
+           <Russian>Spork</Russian>
+           <German>Spork</German>
+           <French>Spork</French>
+           <Italian>Spork</Italian>
+           <Portuguese>Spork</Portuguese>
+           <Polish>Spork</Polish>
+           <Chinesesimp>Spork</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_steam_gauge_assembly">
+           <Original>Steam gauge assembly</Original>
+           <Czech>Steam gauge assembly</Czech>
+           <Spanish>Steam gauge assembly</Spanish>
+           <Russian>Steam gauge assembly</Russian>
+           <German>Steam gauge assembly</German>
+           <French>Steam gauge assembly</French>
+           <Italian>Steam gauge assembly</Italian>
+           <Portuguese>Steam gauge assembly</Portuguese>
+           <Polish>Steam gauge assembly</Polish>
+           <Chinesesimp>Steam gauge assembly</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_stress_and_the_modern_refugee:_a_primer">
+           <Original>Stress and the Modern Refugee: A Primer</Original>
+           <Czech>Stress and the Modern Refugee: A Primer</Czech>
+           <Spanish>Stress and the Modern Refugee: A Primer</Spanish>
+           <Russian>Stress and the Modern Refugee: A Primer</Russian>
+           <German>Stress and the Modern Refugee: A Primer</German>
+           <French>Stress and the Modern Refugee: A Primer</French>
+           <Italian>Stress and the Modern Refugee: A Primer</Italian>
+           <Portuguese>Stress and the Modern Refugee: A Primer</Portuguese>
+           <Polish>Stress and the Modern Refugee: A Primer</Polish>
+           <Chinesesimp>Stress and the Modern Refugee: A Primer</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_sunset_sarsaparilla_bottle">
+           <Original>Sunset Sarsaparilla bottle</Original>
+           <Czech>Sunset Sarsaparilla bottle</Czech>
+           <Spanish>Sunset Sarsaparilla bottle</Spanish>
+           <Russian>Sunset Sarsaparilla bottle</Russian>
+           <German>Sunset Sarsaparilla bottle</German>
+           <French>Sunset Sarsaparilla bottle</French>
+           <Italian>Sunset Sarsaparilla bottle</Italian>
+           <Portuguese>Sunset Sarsaparilla bottle</Portuguese>
+           <Polish>Sunset Sarsaparilla bottle</Polish>
+           <Chinesesimp>Sunset Sarsaparilla bottle</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_sunset_sarsaparilla_deputy_badge">
+           <Original>Sunset Sarsaparilla deputy badge</Original>
+           <Czech>Sunset Sarsaparilla deputy badge</Czech>
+           <Spanish>Sunset Sarsaparilla deputy badge</Spanish>
+           <Russian>Sunset Sarsaparilla deputy badge</Russian>
+           <German>Sunset Sarsaparilla deputy badge</German>
+           <French>Sunset Sarsaparilla deputy badge</French>
+           <Italian>Sunset Sarsaparilla deputy badge</Italian>
+           <Portuguese>Sunset Sarsaparilla deputy badge</Portuguese>
+           <Polish>Sunset Sarsaparilla deputy badge</Polish>
+           <Chinesesimp>Sunset Sarsaparilla deputy badge</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_sunset_sarsaparilla_star_bottle_cap">
+           <Original>Sunset Sarsaparilla star bottle cap</Original>
+           <Czech>Sunset Sarsaparilla star bottle cap</Czech>
+           <Spanish>Sunset Sarsaparilla star bottle cap</Spanish>
+           <Russian>Sunset Sarsaparilla star bottle cap</Russian>
+           <German>Sunset Sarsaparilla star bottle cap</German>
+           <French>Sunset Sarsaparilla star bottle cap</French>
+           <Italian>Sunset Sarsaparilla star bottle cap</Italian>
+           <Portuguese>Sunset Sarsaparilla star bottle cap</Portuguese>
+           <Polish>Sunset Sarsaparilla star bottle cap</Polish>
+           <Chinesesimp>Sunset Sarsaparilla star bottle cap</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_surgical_tools">
+           <Original>Surgical tools</Original>
+           <Czech>Surgical tools</Czech>
+           <Spanish>Surgical tools</Spanish>
+           <Russian>Surgical tools</Russian>
+           <German>Surgical tools</German>
+           <French>Surgical tools</French>
+           <Italian>Surgical tools</Italian>
+           <Portuguese>Surgical tools</Portuguese>
+           <Polish>Surgical tools</Polish>
+           <Chinesesimp>Surgical tools</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_surgical_tubing">
+           <Original>Surgical tubing</Original>
+           <Czech>Surgical tubing</Czech>
+           <Spanish>Surgical tubing</Spanish>
+           <Russian>Surgical tubing</Russian>
+           <German>Surgical tubing</German>
+           <French>Surgical tubing</French>
+           <Italian>Surgical tubing</Italian>
+           <Portuguese>Surgical tubing</Portuguese>
+           <Polish>Surgical tubing</Polish>
+           <Chinesesimp>Surgical tubing</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_suspicious_package">
+           <Original>Suspicious package</Original>
+           <Czech>Suspicious package</Czech>
+           <Spanish>Suspicious package</Spanish>
+           <Russian>Suspicious package</Russian>
+           <German>Suspicious package</German>
+           <French>Suspicious package</French>
+           <Italian>Suspicious package</Italian>
+           <Portuguese>Suspicious package</Portuguese>
+           <Polish>Suspicious package</Polish>
+           <Chinesesimp>Suspicious package</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_tanned_fire_gecko_hide">
+           <Original>Tanned fire gecko hide</Original>
+           <Czech>Tanned fire gecko hide</Czech>
+           <Spanish>Tanned fire gecko hide</Spanish>
+           <Russian>Tanned fire gecko hide</Russian>
+           <German>Tanned fire gecko hide</German>
+           <French>Tanned fire gecko hide</French>
+           <Italian>Tanned fire gecko hide</Italian>
+           <Portuguese>Tanned fire gecko hide</Portuguese>
+           <Polish>Tanned fire gecko hide</Polish>
+           <Chinesesimp>Tanned fire gecko hide</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_tanned_gecko_hide">
+           <Original>Tanned gecko hide</Original>
+           <Czech>Tanned gecko hide</Czech>
+           <Spanish>Tanned gecko hide</Spanish>
+           <Russian>Tanned gecko hide</Russian>
+           <German>Tanned gecko hide</German>
+           <French>Tanned gecko hide</French>
+           <Italian>Tanned gecko hide</Italian>
+           <Portuguese>Tanned gecko hide</Portuguese>
+           <Polish>Tanned gecko hide</Polish>
+           <Chinesesimp>Tanned gecko hide</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_tanned_golden_gecko_hide">
+           <Original>Tanned golden gecko hide</Original>
+           <Czech>Tanned golden gecko hide</Czech>
+           <Spanish>Tanned golden gecko hide</Spanish>
+           <Russian>Tanned golden gecko hide</Russian>
+           <German>Tanned golden gecko hide</German>
+           <French>Tanned golden gecko hide</French>
+           <Italian>Tanned golden gecko hide</Italian>
+           <Portuguese>Tanned golden gecko hide</Portuguese>
+           <Polish>Tanned golden gecko hide</Polish>
+           <Chinesesimp>Tanned golden gecko hide</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_ted_gundersons_blood">
+           <Original>Ted Gunderson's blood</Original>
+           <Czech>Ted Gunderson's blood</Czech>
+           <Spanish>Ted Gunderson's blood</Spanish>
+           <Russian>Ted Gunderson's blood</Russian>
+           <German>Ted Gunderson's blood</German>
+           <French>Ted Gunderson's blood</French>
+           <Italian>Ted Gunderson's blood</Italian>
+           <Portuguese>Ted Gunderson's blood</Portuguese>
+           <Polish>Ted Gunderson's blood</Polish>
+           <Chinesesimp>Ted Gunderson's blood</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_teddy_bear">
+           <Original>Teddy bear</Original>
+           <Czech>Teddy bear</Czech>
+           <Spanish>Teddy bear</Spanish>
+           <Russian>Teddy bear</Russian>
+           <German>Teddy bear</German>
+           <French>Teddy bear</French>
+           <Italian>Teddy bear</Italian>
+           <Portuguese>Teddy bear</Portuguese>
+           <Polish>Teddy bear</Polish>
+           <Chinesesimp>Teddy bear</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_teddy_bear">
+           <Original>Teddy bear</Original>
+           <Czech>Teddy bear</Czech>
+           <Spanish>Teddy bear</Spanish>
+           <Russian>Teddy bear</Russian>
+           <German>Teddy bear</German>
+           <French>Teddy bear</French>
+           <Italian>Teddy bear</Italian>
+           <Portuguese>Teddy bear</Portuguese>
+           <Polish>Teddy bear</Polish>
+           <Chinesesimp>Teddy bear</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_thermite">
+           <Original>Thermite</Original>
+           <Czech>Thermite</Czech>
+           <Spanish>Thermite</Spanish>
+           <Russian>Thermite</Russian>
+           <German>Thermite</German>
+           <French>Thermite</French>
+           <Italian>Thermite</Italian>
+           <Portuguese>Thermite</Portuguese>
+           <Polish>Thermite</Polish>
+           <Chinesesimp>Thermite</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_thrust_control_modules">
+           <Original>Thrust control modules</Original>
+           <Czech>Thrust control modules</Czech>
+           <Spanish>Thrust control modules</Spanish>
+           <Russian>Thrust control modules</Russian>
+           <German>Thrust control modules</German>
+           <French>Thrust control modules</French>
+           <Italian>Thrust control modules</Italian>
+           <Portuguese>Thrust control modules</Portuguese>
+           <Polish>Thrust control modules</Polish>
+           <Chinesesimp>Thrust control modules</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_thrust_control_modules">
+           <Original>Thrust control modules</Original>
+           <Czech>Thrust control modules</Czech>
+           <Spanish>Thrust control modules</Spanish>
+           <Russian>Thrust control modules</Russian>
+           <German>Thrust control modules</German>
+           <French>Thrust control modules</French>
+           <Italian>Thrust control modules</Italian>
+           <Portuguese>Thrust control modules</Portuguese>
+           <Polish>Thrust control modules</Polish>
+           <Chinesesimp>Thrust control modules</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_tin_can">
+           <Original>Tin can</Original>
+           <Czech>Tin can</Czech>
+           <Spanish>Tin can</Spanish>
+           <Russian>Tin can</Russian>
+           <German>Tin can</German>
+           <French>Tin can</French>
+           <Italian>Tin can</Italian>
+           <Portuguese>Tin can</Portuguese>
+           <Polish>Tin can</Polish>
+           <Chinesesimp>Tin can</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_tin_plate">
+           <Original>Tin plate</Original>
+           <Czech>Tin plate</Czech>
+           <Spanish>Tin plate</Spanish>
+           <Russian>Tin plate</Russian>
+           <German>Tin plate</German>
+           <French>Tin plate</French>
+           <Italian>Tin plate</Italian>
+           <Portuguese>Tin plate</Portuguese>
+           <Polish>Tin plate</Polish>
+           <Chinesesimp>Tin plate</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_tiny,_tiny_babies:_all_you_need_to_know_about_pediatric_medicine">
+           <Original>Tiny, Tiny Babies: All You Need to Know About Pediatric Medicine</Original>
+           <Czech>Tiny, Tiny Babies: All You Need to Know About Pediatric Medicine</Czech>
+           <Spanish>Tiny, Tiny Babies: All You Need to Know About Pediatric Medicine</Spanish>
+           <Russian>Tiny, Tiny Babies: All You Need to Know About Pediatric Medicine</Russian>
+           <German>Tiny, Tiny Babies: All You Need to Know About Pediatric Medicine</German>
+           <French>Tiny, Tiny Babies: All You Need to Know About Pediatric Medicine</French>
+           <Italian>Tiny, Tiny Babies: All You Need to Know About Pediatric Medicine</Italian>
+           <Portuguese>Tiny, Tiny Babies: All You Need to Know About Pediatric Medicine</Portuguese>
+           <Polish>Tiny, Tiny Babies: All You Need to Know About Pediatric Medicine</Polish>
+           <Chinesesimp>Tiny, Tiny Babies: All You Need to Know About Pediatric Medicine</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_toaster">
+           <Original>Toaster</Original>
+           <Czech>Toaster</Czech>
+           <Spanish>Toaster</Spanish>
+           <Russian>Toaster</Russian>
+           <German>Toaster</German>
+           <French>Toaster</French>
+           <Italian>Toaster</Italian>
+           <Portuguese>Toaster</Portuguese>
+           <Polish>Toaster</Polish>
+           <Chinesesimp>Toaster</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_tommy_torinis_business_card">
+           <Original>Tommy Torini's business card</Original>
+           <Czech>Tommy Torini's business card</Czech>
+           <Spanish>Tommy Torini's business card</Spanish>
+           <Russian>Tommy Torini's business card</Russian>
+           <German>Tommy Torini's business card</German>
+           <French>Tommy Torini's business card</French>
+           <Italian>Tommy Torini's business card</Italian>
+           <Portuguese>Tommy Torini's business card</Portuguese>
+           <Polish>Tommy Torini's business card</Polish>
+           <Chinesesimp>Tommy Torini's business card</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_toy_car">
+           <Original>Toy car</Original>
+           <Czech>Toy car</Czech>
+           <Spanish>Toy car</Spanish>
+           <Russian>Toy car</Russian>
+           <German>Toy car</German>
+           <French>Toy car</French>
+           <Italian>Toy car</Italian>
+           <Portuguese>Toy car</Portuguese>
+           <Polish>Toy car</Polish>
+           <Chinesesimp>Toy car</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_triangle">
+           <Original>Triangle</Original>
+           <Czech>Triangle</Czech>
+           <Spanish>Triangle</Spanish>
+           <Russian>Triangle</Russian>
+           <German>Triangle</German>
+           <French>Triangle</French>
+           <Italian>Triangle</Italian>
+           <Portuguese>Triangle</Portuguese>
+           <Polish>Triangle</Polish>
+           <Chinesesimp>Triangle</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_turpentine">
+           <Original>Turpentine</Original>
+           <Czech>Turpentine</Czech>
+           <Spanish>Turpentine</Spanish>
+           <Russian>Turpentine</Russian>
+           <German>Turpentine</German>
+           <French>Turpentine</French>
+           <Italian>Turpentine</Italian>
+           <Portuguese>Turpentine</Portuguese>
+           <Polish>Turpentine</Polish>
+           <Chinesesimp>Turpentine</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_tweezers">
+           <Original>Tweezers</Original>
+           <Czech>Tweezers</Czech>
+           <Spanish>Tweezers</Spanish>
+           <Russian>Tweezers</Russian>
+           <German>Tweezers</German>
+           <French>Tweezers</French>
+           <Italian>Tweezers</Italian>
+           <Portuguese>Tweezers</Portuguese>
+           <Polish>Tweezers</Polish>
+           <Chinesesimp>Tweezers</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_vacuum_cleaner">
+           <Original>Vacuum cleaner</Original>
+           <Czech>Vacuum cleaner</Czech>
+           <Spanish>Vacuum cleaner</Spanish>
+           <Russian>Vacuum cleaner</Russian>
+           <German>Vacuum cleaner</German>
+           <French>Vacuum cleaner</French>
+           <Italian>Vacuum cleaner</Italian>
+           <Portuguese>Vacuum cleaner</Portuguese>
+           <Polish>Vacuum cleaner</Polish>
+           <Chinesesimp>Vacuum cleaner</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_van_graff_package">
+           <Original>Van Graff package</Original>
+           <Czech>Van Graff package</Czech>
+           <Spanish>Van Graff package</Spanish>
+           <Russian>Van Graff package</Russian>
+           <German>Van Graff package</German>
+           <French>Van Graff package</French>
+           <Italian>Van Graff package</Italian>
+           <Portuguese>Van Graff package</Portuguese>
+           <Polish>Van Graff package</Polish>
+           <Chinesesimp>Van Graff package</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_vault_13_canteen">
+           <Original>Vault 13 canteen</Original>
+           <Czech>Vault 13 canteen</Czech>
+           <Spanish>Vault 13 canteen</Spanish>
+           <Russian>Vault 13 canteen</Russian>
+           <German>Vault 13 canteen</German>
+           <French>Vault 13 canteen</French>
+           <Italian>Vault 13 canteen</Italian>
+           <Portuguese>Vault 13 canteen</Portuguese>
+           <Polish>Vault 13 canteen</Polish>
+           <Chinesesimp>Vault 13 canteen</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_vertibird_bomb">
+           <Original>Vertibird bomb</Original>
+           <Czech>Vertibird bomb</Czech>
+           <Spanish>Vertibird bomb</Spanish>
+           <Russian>Vertibird bomb</Russian>
+           <German>Vertibird bomb</German>
+           <French>Vertibird bomb</French>
+           <Italian>Vertibird bomb</Italian>
+           <Portuguese>Vertibird bomb</Portuguese>
+           <Polish>Vertibird bomb</Polish>
+           <Chinesesimp>Vertibird bomb</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_violets_head">
+           <Original>Violet's head</Original>
+           <Czech>Violet's head</Czech>
+           <Spanish>Violet's head</Spanish>
+           <Russian>Violet's head</Russian>
+           <German>Violet's head</German>
+           <French>Violet's head</French>
+           <Italian>Violet's head</Italian>
+           <Portuguese>Violet's head</Portuguese>
+           <Polish>Violet's head</Polish>
+           <Chinesesimp>Violet's head</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_violets_mangled_head">
+           <Original>Violet's mangled head</Original>
+           <Czech>Violet's mangled head</Czech>
+           <Spanish>Violet's mangled head</Spanish>
+           <Russian>Violet's mangled head</Russian>
+           <German>Violet's mangled head</German>
+           <French>Violet's mangled head</French>
+           <Italian>Violet's mangled head</Italian>
+           <Portuguese>Violet's mangled head</Portuguese>
+           <Polish>Violet's mangled head</Polish>
+           <Chinesesimp>Violet's mangled head</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_violettas_brain">
+           <Original>Violetta's brain</Original>
+           <Czech>Violetta's brain</Czech>
+           <Spanish>Violetta's brain</Spanish>
+           <Russian>Violetta's brain</Russian>
+           <German>Violetta's brain</German>
+           <French>Violetta's brain</French>
+           <Italian>Violetta's brain</Italian>
+           <Portuguese>Violetta's brain</Portuguese>
+           <Polish>Violetta's brain</Polish>
+           <Chinesesimp>Violetta's brain</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_whet_stone">
+           <Original>Whet stone</Original>
+           <Czech>Whet stone</Czech>
+           <Spanish>Whet stone</Spanish>
+           <Russian>Whet stone</Russian>
+           <German>Whet stone</German>
+           <French>Whet stone</French>
+           <Italian>Whet stone</Italian>
+           <Portuguese>Whet stone</Portuguese>
+           <Polish>Whet stone</Polish>
+           <Chinesesimp>Whet stone</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_white_plate">
+           <Original>White plate</Original>
+           <Czech>White plate</Czech>
+           <Spanish>White plate</Spanish>
+           <Russian>White plate</Russian>
+           <German>White plate</German>
+           <French>White plate</French>
+           <Italian>White plate</Italian>
+           <Portuguese>White plate</Portuguese>
+           <Polish>White plate</Polish>
+           <Chinesesimp>White plate</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_wonderglue">
+           <Original>Wonderglue</Original>
+           <Czech>Wonderglue</Czech>
+           <Spanish>Wonderglue</Spanish>
+           <Russian>Wonderglue</Russian>
+           <German>Wonderglue</German>
+           <French>Wonderglue</French>
+           <Italian>Wonderglue</Italian>
+           <Portuguese>Wonderglue</Portuguese>
+           <Polish>Wonderglue</Polish>
+           <Chinesesimp>Wonderglue</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_wood_chipper">
+           <Original>Wood chipper</Original>
+           <Czech>Wood chipper</Czech>
+           <Spanish>Wood chipper</Spanish>
+           <Russian>Wood chipper</Russian>
+           <German>Wood chipper</German>
+           <French>Wood chipper</French>
+           <Italian>Wood chipper</Italian>
+           <Portuguese>Wood chipper</Portuguese>
+           <Polish>Wood chipper</Polish>
+           <Chinesesimp>Wood chipper</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_wrench">
+           <Original>Wrench</Original>
+           <Czech>Wrench</Czech>
+           <Spanish>Wrench</Spanish>
+           <Russian>Wrench</Russian>
+           <German>Wrench</German>
+           <French>Wrench</French>
+           <Italian>Wrench</Italian>
+           <Portuguese>Wrench</Portuguese>
+           <Polish>Wrench</Polish>
+           <Chinesesimp>Wrench</Chinesesimp>
+       </Key>
+        <Key ID="STR_Item_yeast">
+           <Original>Yeast</Original>
+           <Czech>Yeast</Czech>
+           <Spanish>Yeast</Spanish>
+           <Russian>Yeast</Russian>
+           <German>Yeast</German>
+           <French>Yeast</French>
+           <Italian>Yeast</Italian>
+           <Portuguese>Yeast</Portuguese>
+           <Polish>Yeast</Polish>
+           <Chinesesimp>Yeast</Chinesesimp>
+       </Key>

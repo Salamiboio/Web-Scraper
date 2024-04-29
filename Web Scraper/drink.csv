@@ -1,0 +1,33 @@
+Image,Name,Weight,Value,Effect,Hardcore mode effects,Addiction,Form ID
+,Absinthe,1.0,20,"+1 CH (240s), +1 PE (240s), -1 IN (240s)",+20 H2O,Alcohol addiction 10% -1 AG and -1 CH,00115EB1
+,Atomic cocktail,1.0,25,"+25 (120s) Energy Resistance, +25 (120s) Fire Resistance, +10 Rads","+30 H2O, -100 SLP",,000E2F6A
+,Battle Brew,1.0,150,"+50 to HP and limb condition, +35 Damage Resistance (240s), -1 IN (240s), +1 ST (240s), +1 ST (20s), +40 AP","+10 HP (5s), +35 H2O",Alcohol addiction 10% -1 AG and -1 CH,xx01495E
+,Beer,1.0,2,"+1 CH (240s), +1 ST (240s), -1 IN (240s)",+20 H2O,Alcohol addiction 5% -1 AG and -1 CH,00015197
+,Bitter drink,0.0,1,+2 HP (18s),,-,001613BD
+,Black coffee,0.02,5,"+5 HP, +2 IN (60s), -1 AG (60s)","+5 H2O, -20 SLP, -2 FOD",-,xx011112
+,Blood pack,1.0,5,+1 HP,-,-,00034051
+,Dirty water,1.0,10,"+2 HP (5s), +6 RAD",-50 H2O,-,000151A4
+,Dixon's whiskey,1.0,10,"+1 ST (240s), -2 IN (240s)",+25 H2O,Alcohol addiction 50% -1 AG and -1 CH,00122B4A
+,Ice cold Nuka-Cola,1.0,20,"+4 HP (20s), , +2 RAD, +1 bottle cap","-60 SLP, +10 H2O",-,00040DCB
+,Irradiated beer,1.0,1,"+10 RAD, +1 CH (240s), +1 ST (240s), -1 IN (240s)",+20 H2O,-,00143FDE
+,Irradiated scotch,1.0,5,"+10 RAD, +1 CH (240s), +1 ST (240s), -1 IN (240s)",+25 H2O,Alcohol addiction 10% -1 AG and -1 CH,00143FEF
+,Irradiated Sunset Sarsaparilla,1.0,4,"+2 HP (25s), +9 RAD, +1 bottle cap/Sunset Sarsaparilla star bottle cap",+5 H2O,-,00143FEB
+,Irradiated water,1.0,5,"+2 HP (5s), +16 RAD",-50 H2O,-,00143FF1
+,Irradiated whiskey,1.0,5,"+10 RAD, +1 CH (240s), +1 ST (240s), -1 IN (240s)",+25 H2O,Alcohol addiction 10% -1 AG and -1 CH,00143FE1
+,Jake Juice,1.0,10,"+1 CH (240s), +1 ST (240s), -1 IN (240s)",+25 H2O,Alcohol addiction 10% -1 AG and -1 CH,001673D6
+,Large wasteland tequila,1.0,20,"+3 ST (240s), +1 CH (240s), -3 IN (240s), +2 DT (120s), +10 Poison Resistance (120s),",+25 H2O,Alcohol addiction 15% -1 AG and -1 CH,xx0112F9
+,Moonshine,1.0,20,"+2 CH (240s), +2 ST (240s), -2 IN (240s)",+25 H2O,Alcohol addiction 10% -1 AG and -1 CH,0016163D
+,Nightstalker squeezin's,0.5,100,"+2 HP (5s), +3 RAD With Mile in Their Shoes: +1 PE (240s), +5 Poison Resistance (240s), +5 Sneak (240s)",-,-,xx009618
+,Nuka-Cola,1.0,20,"+2 HP (25s), +3 RAD, +1 bottle cap","+10 H2O, -15 SLP",-,0001519E
+,Nuka-Cola Quantum,1.0,30,+8 RAD +20 AP (240s),+10 H2O -100 SLP,-,000284F9
+,Nuka-Cola Quartz,1.0,40,"+3 HP (20s), +10 RAD, Low-Light Vision (120s), +2 DT (120s)","+10 H2O, -15 SLP",-,000E2F6D
+,Nuka-Cola Victory,1.0,75,"+10 RAD, +10 AP (120s), -1 PE (120s), +3 HP (20s)","+10 H2O, -15 SLP",-,000E2F6C
+,Purified water,1.0,20,+2 HP (5s),-50 H2O,-,000151A3
+,Rum & Nuka,1.0,20,"+3 RAD, -1 IN (240s), +1 ST (240s), +1 bottle cap","+15 H2O, -5 SLP",-,0011702C
+,Scotch,1.0,10,"+1 CH (240s), +1 ST (240s), -1 IN (240s)",+25 H2O,Alcohol addiction 10% -1 AG and -1 CH,000151A1
+,Sierra Madre martini,0.0,20,"+75 Max HP (240s),+4 EN (240s),+2 ST (240s)",-,Alcohol addiction 15% chance +30 UMON (30h) -1 AG and -1 CH,xx010395
+,Sunset Sarsaparilla,1.0,3,"+2 HP (25s), +1 bottle cap/Sunset Sarsaparilla star bottle cap",+5 H2O,-,00103B1E
+,Vodka,1.0,20,"+1 CH (240s), +1 ST (240s), -1 IN (240s)",+25 H2O,Alcohol addiction 10% -1 AG and -1 CH,00032C74
+,Wasteland tequila,1.0,20,"+2 ST (240s), +1 CH (240s), -2 IN (240s), +3 DT with Whiskey Rose (240s), +5 Poison Resistance (60s)",+15 H2O,Alcohol addiction 10% -1 AG and -1 CH,xx011111
+,Whiskey,1.0,10,"+1 CH (240s), +1 ST (240s), -1 IN (240s), +2 DT with Whiskey Rose perk",+25 H2O,Alcohol addiction 10% -1 AG and -1 CH,00032C75
+,Wine,1.0,10,"+1 ST (240s), +1 CH (240s), -1 IN (240s)",+15 H2O,Alcohol addiction 5% -1 AG and -1 CH,0003404A

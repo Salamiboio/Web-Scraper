@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>93e94646-a7eb-4bc1-87b8-6159b6018412</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>UseItem.py</StartupFile>
+    <StartupFile>StringGeneratorMisc.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,9 +22,11 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="ClassGeneratorMisc.py" />
     <Compile Include="ClassGenerator.py" />
     <Compile Include="ImageResizer.py" />
     <Compile Include="Image_Scraper.py" />
+    <Compile Include="StringGeneratorMisc.py" />
     <Compile Include="StringGenerator.py" />
     <Compile Include="test.py" />
     <Compile Include="UseItem.py" />
